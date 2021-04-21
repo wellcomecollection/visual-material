@@ -7,7 +7,7 @@
 * [About Visual Material Collections](background/about-visual-material-collections.md)
 * [Cataloguing History](background/cataloguing-history.md)
 * [Inventory Metadata](background/inventory-metadata.md)
-* [testupdate] (background-test.md)
+* [testupdate] (background/test.md)
 
 ## METADATA FRAMEWORK
 
