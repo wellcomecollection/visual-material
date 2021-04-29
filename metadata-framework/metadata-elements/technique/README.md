@@ -40,6 +40,10 @@ Short lists for easy use are available below this entry in the sidebar.
 For ease of use, the term 'Technique list' has been used to describe any terms that contain a technique. However, they may also contain the medium or material. Where these kinds of mixed terms are used, there is no need to repeat the medium or material terms individually. 
 {% endhint %}
 
+## Identification
+
+To help with identifying techniques, mediums and materials, please see the [Identification section](../../../dataset/about/specifics.md). 
+
 {% tabs %}
 {% tab title="Individual objects" %}
 ## Layout
