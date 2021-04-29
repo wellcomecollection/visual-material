@@ -1,6 +1,9 @@
 # Dimensions
 
 ## _Required_
+## _2D Objects_
+## _3D Objects_
+## _Born Digital_
 
 {% tabs %}
 {% tab title="Individual objects" %}
@@ -18,12 +21,20 @@ Record dimensions in metric units, rounded up to the nearest mm
 
 ## Areas of Measurement
 
-Specify what is being measured using the following standard terms: 
+Specify what is being measured using the following standard terms:
 
 * Sheet 
 * Plate Mark
 * Mount 
 * Frame 
+* Box
+* Album
+* Sketchbook
+* Scrapbook
+* Print
+* Negative 
+* Canvas
+* Panel
 * Folded 
 * Rolled
 * Object \[3D objects only\]
@@ -97,6 +108,22 @@ Order dimensions according to natural orientation
 
 Record in a range with the smallest object recorded before the largest
 {% endtab %}
+
+{% tab title="Born Digital" %}
+## Unit of measurement
+
+Record the size of the object or objects in bytes, rounding up to one decimal point to the nearest KB, GB and MB as most appropriate. 
+
+## Layout
+
+Specify the dimension type and value in lowercase with spaces between. 
+
+{% hint style="info" %}
+12.3 KB
+{% endhint %}
+
+{% endtab %}
+
 {% endtabs %}
 
 
