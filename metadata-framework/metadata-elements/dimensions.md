@@ -1,9 +1,8 @@
-# Dimensions
+---
+description: 'Required, 2D Objects, 3D Objects, Born Digital'
+---
 
-## _Required_
-## _2D Objects_
-## _3D Objects_
-## _Born Digital_
+# Dimensions
 
 {% tabs %}
 {% tab title="Individual objects" %}
@@ -13,7 +12,7 @@
 * 3D object: record height x width x depth
 * Circular object: record diameter
 
-At minimum the largest dimensions of the object should be recorded but enhanced records may also include measurements of more specific elements such as plate mark.  
+At minimum the largest dimensions of the object should be recorded but enhanced records may also include measurements of more specific elements such as plate mark.
 
 ## Unit of measurement
 
@@ -43,7 +42,7 @@ Specify what is being measured using the following standard terms:
 Plate mark 20 x 30 cm, sheet 30 x 40 cm
 {% endhint %}
 
-If the shape is unusual or a distinguishing characteristic also record an indication of the outline form. 
+If the shape is unusual or a distinguishing characteristic also record an indication of the outline form.
 
 {% hint style="info" %}
 Frame 45 x 20.5 cm \(oval\)
@@ -65,9 +64,9 @@ If the object is irregularly shaped record the greatest dimensions
 
 ## Layout
 
-Element of object being recorded is stated first followed by dimension then shape characteristic if relevant to interpretation of dimension. 
+Element of object being recorded is stated first followed by dimension then shape characteristic if relevant to interpretation of dimension.
 
-Specify the dimension type and value in lowercase with spaces between. 
+Specify the dimension type and value in lowercase with spaces between.
 
 Order dimensions according to natural orientation
 {% endtab %}
@@ -79,7 +78,7 @@ Order dimensions according to natural orientation
 * 3D object: record height x width x depth
 * Circular object: record diameter
 
-The dimensions of the smallest and largest object in the group should be recorded 
+The dimensions of the smallest and largest object in the group should be recorded
 
 ## Unit of measurement
 
@@ -87,7 +86,7 @@ Record dimensions in metric units, rounded up to the nearest mm
 
 ## Areas of Measurement
 
-Specify what is being measured using the following standard terms: 
+Specify what is being measured using the following standard terms:
 
 * Sheets 
 * Objects \[3D objects only\]
@@ -102,7 +101,7 @@ Element of object being recorded is stated first followed by dimensions in a ran
 Sheets range in size from 24 x 52 cm to 34 x 60 cm
 {% endhint %}
 
-Specify the dimension type and value in lowercase with spaces between. 
+Specify the dimension type and value in lowercase with spaces between.
 
 Order dimensions according to natural orientation
 
@@ -112,21 +111,15 @@ Record in a range with the smallest object recorded before the largest
 {% tab title="Born Digital" %}
 ## Unit of measurement
 
-Record the size of the object or objects in bytes, rounding up to one decimal point to the nearest KB, GB and MB as most appropriate. 
+Record the size of the object or objects in bytes, rounding up to one decimal point to the nearest KB, GB and MB as most appropriate.
 
 ## Layout
 
-Specify the dimension type and value in lowercase with spaces between. 
+Specify the dimension type and value in lowercase with spaces between.
 
 {% hint style="info" %}
 12.3 KB
 {% endhint %}
-
 {% endtab %}
-
 {% endtabs %}
-
-
-
-
 
