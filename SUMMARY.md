@@ -28,7 +28,6 @@
   * [Technique, Medium and Materials](metadata-framework/metadata-elements/technique/README.md)
     * [Technique List](metadata-framework/metadata-elements/technique/medium.md)
     * [Material List](metadata-framework/metadata-elements/technique/materials.md)
-    * [Medium List](metadata-framework/metadata-elements/technique/medium-list.md)
   * [Support](metadata-framework/metadata-elements/support.md)
   * [Colour](metadata-framework/metadata-elements/colour.md)
   * [Container](metadata-framework/metadata-elements/container.md)

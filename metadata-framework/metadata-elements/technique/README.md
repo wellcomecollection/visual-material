@@ -56,9 +56,11 @@ If there is uncertainty on the specific technique or medium, use the broadest ap
 {% endtab %}
 
 {% tab title="Groups of objects" %}
+Terms should be chosen to describe each object in the group. If this would result in too many different techniques, mediums and/or material terms, choose the most prominent or broadest. 
+
 ## Layout
 
-The term should be expressed in a singular, non-abbreviated form.
+Each term should be expressed in a singular, non-abbreviated form.
 
 Often the medium and technique are provided in the same standardised term. If they are not, or multiple terms apply, the element may be repeated.  
 
@@ -66,9 +68,7 @@ If there is uncertainty on the specific technique or medium, use the broadest ap
 {% endtab %}
 
 {% tab title="Born digital " %}
-
-
-Unless a digital photograph, all other born digital visual material should be given the broader term, digital images.
+Unless a digital photograph, all born digital visual material should be given the broader term, digital images.
 {% endtab %}
 {% endtabs %}
 
