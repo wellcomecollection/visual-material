@@ -4,6 +4,10 @@ description: 'Required, 2D Objects, 3D Objects, Born Digital'
 
 # Dimensions
 
+## Definition
+
+This element records the dimensions of the object or group of objects
+
 {% tabs %}
 {% tab title="Individual objects" %}
 ## Which dimensions should be recorded

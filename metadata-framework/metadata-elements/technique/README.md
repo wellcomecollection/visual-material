@@ -6,7 +6,7 @@ description: 'Required, 2D Objects, 3D Objects, Born Digital'
 
 ## Definition
 
-These elements specify the media and/or materials used to create the object, and where appropriate the processes or techniques used to apply it.
+These elements specify the media and/or materials used to create the object, or group of objects, and where appropriate the processes or techniques used to apply it.
 
 Technique refers to the process
 
@@ -22,7 +22,7 @@ Medium refers to a material applied to a support, typically for 2D objects
 * ‘acrylic’ in ‘acrylic painting’
 {% endhint %}
 
-Materials refers to a material used to form the object, typically for 3D objects
+Materials refers to a material used to form the object for 3D objects, or the support on which the medium is applied for 2D objects.  
 
 {% hint style="info" %}
 'paper' in 'cut-paper work'
@@ -40,14 +40,8 @@ Short lists for easy use are available below this entry in the sidebar.
 For ease of use, the term 'Technique list' has been used to describe any terms that contain a technique. However, they may also contain the medium or material. Where these kinds of mixed terms are used, there is no need to repeat the medium or material terms individually. 
 {% endhint %}
 
-## Identification
-
-To help with identifying techniques, mediums and materials, please see the [Identification section](../../../dataset/about/specifics.md). 
-
 {% tabs %}
 {% tab title="Individual objects" %}
-## Layout
-
 Each term should be expressed in a singular, non-abbreviated form.
 
 Often the medium and technique are provided in the same standardised term. If they are not, or multiple terms apply, the element may be repeated.  
@@ -57,8 +51,6 @@ If there is uncertainty on the specific technique or medium, use the broadest ap
 
 {% tab title="Groups of objects" %}
 Terms should be chosen to describe each object in the group. If this would result in too many different techniques, mediums and/or material terms, choose the most prominent or broadest. 
-
-## Layout
 
 Each term should be expressed in a singular, non-abbreviated form.
 
@@ -71,6 +63,16 @@ If there is uncertainty on the specific technique or medium, use the broadest ap
 Unless a digital photograph, all born digital visual material should be given the broader term, digital images.
 {% endtab %}
 {% endtabs %}
+
+## Colour
+
+Where colour is intrinsic to the technique term such as in 'chromolithograph' include both the broad term 'lithograph' and the colour specific term 'chromolithograph'. 
+
+If hand-coloured or otherwise a notable characteristic of the object, see the [Colour](../colour.md) element. 
+
+## Identification
+
+To help with identifying techniques, mediums and materials, please see the [Identification section](../../../dataset/about/specifics.md). 
 
 
 

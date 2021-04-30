@@ -4,7 +4,9 @@ description: '2D Objects, 3D Objects'
 
 # Container
 
-This element records the original container an object is stored in if kept for production.
+## Definition
+
+This element records the original container an object, or group of objects, is stored in if kept for production.
 
 ## What is a container?
 
