@@ -16,7 +16,7 @@ Currently there is not a single sequence of identification \(object\) numbers at
 
 ## Additional numbers associated with an object
 
-The catalogue should include all known identification numbers associated with an object or group of objects. The type of the number should be recorded in addition to the number.
+The catalogue record should include all known identification numbers associated with an object or group of objects. The type of number should be recorded in addition to the number itself.
 
 {% hint style="info" %}
 INV.2021/278 : Inventory Number
