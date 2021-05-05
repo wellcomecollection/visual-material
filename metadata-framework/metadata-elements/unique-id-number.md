@@ -20,7 +20,9 @@ Currently there is not a single sequence of Identification numbers at Wellcome C
 
 The catalogue should include all known previous identification numbers associated with an object. The type of the number should be recorded in addition to the number.
 
-{% hint style="info" %} INV.2021/278 : Inventory Number
-A129247 : Accession Number {% endhint %}
+{% hint style="info" %}
+INV.2021/278 : Inventory Number 
 
+A129247 : Accession Number
+{% endhint %}
 
