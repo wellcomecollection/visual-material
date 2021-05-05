@@ -20,9 +20,7 @@ Currently there is not a single sequence of Identification numbers at Wellcome C
 
 The catalogue should include all known previous identification numbers associated with an object. The type of the number should be recorded in addition to the number.
 
-: Inventory Number
-: Accession Number
+XXXX : Inventory Number
+XXXX : Accession Number
 
-## Part Numbers
 
-Part numbers should only be applied to identical objects.
