@@ -18,7 +18,6 @@
   * [Location](metadata-framework/metadata-elements/location.md)
   * [Number of Objects](metadata-framework/metadata-elements/number-of-objects.md)
   * [Object Type](metadata-framework/metadata-elements/object-type/README.md)
-    * [Object Type](metadata-framework/metadata-elements/object-type/object-type.md)
     * [Object Type List](metadata-framework/metadata-elements/object-type/object-type-list.md)
   * [Creator Name](metadata-framework/metadata-elements/creator-name.md)
   * [Title/Brief Description](metadata-framework/metadata-elements/title-brief-description.md)
