@@ -3,7 +3,6 @@ description: >-
   These resources are designed to support the description, cataloguing and
   access to the Visual and Material Culture Collections held in Wellcome
   Collection. 
-  Accessible here: https://app.gitbook.com/@wellcomecollection/s/visual-material/
 ---
 
 # Introduction
