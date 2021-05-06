@@ -1,13 +1,17 @@
 ---
-description: 'Required, 2D Objects, 3D Objects, Born Digital'
+description: 'Required: 2D Objects, 3D Objects, Born Digital'
 ---
 
 # Number of Objects
 
-This element specifies the number of objects or component parts of the object being described within the catalogue record. This data is best expressed in conjunction with the **object type** and where relevant the **container** or **support**.
+This element specifies the number of objects or component parts of the object being described within the catalogue record. 
+
+This data is best expressed in conjunction with the **object type** and where relevant the **container** or **support**.
 
 {% hint style="info" %}
 1 print
+
+1 painting
 
 60 glass negatives in 1 box 
 
