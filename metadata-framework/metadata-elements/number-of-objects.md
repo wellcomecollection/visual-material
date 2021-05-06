@@ -4,6 +4,8 @@ description: 'Required: 2D Objects, 3D Objects, Born Digital'
 
 # Number of Objects
 
+## Definition
+
 This element specifies the number of objects or component parts of the object being described within the catalogue record. 
 
 This data is best expressed in conjunction with the **object type** and where relevant the **container** or **support**.
