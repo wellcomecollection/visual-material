@@ -1,16 +1,18 @@
 ---
 description: 'Required, 2D Objects, 3D Objects, Born Digital'
+'Repeatable'
 ---
 
 # Object Type
 
-This element identifies the specific **type of object** being catalogued. It determines how to refer to an object. CCO considers it the first critical decision in the cataloguing process.
+This identifies the specific **type of object** being catalogued. It determines how to refer to an object. CCO considers it the first critical decision in the cataloguing process.
+
+Object type in the Wellcome Collection catalogue refers to physical form and/or function. The medium/technique will be recorded in a separate field. 
 
 To ensure consistent terminology the most common terms applicable to Wellcome Collection are listed in the Object Type List. When cataloguing select from this list. When a relevant term for the item being catalogued is not listed, select a suitable term from the [Getty Art & Architecture Thesaurus.](https://www.getty.edu/research/tools/vocabularies/aat/)
 
-Add both broad and specific Object Type terms to a record to increase the access points. When unclear which specific terms to apply to an object include only the broad known term.
+Add both broad and specific Object Type terms to a record to increase the access points. When the cataloguer is uncertain which specific terms to apply to an object include only the known broader term.
 
-Ideally the cataloguing system will automatically identify relevant hierarchical relationships between object types.
+Multiple terms can be chosen for the same object or group of objects if known or applicable.
 
-Multiple terms can be chosen for the same object or group of objects if known.
-
+*Ideally the cataloguing system or search interface will automatically identify relevant hierarchical relationships between object types.*
