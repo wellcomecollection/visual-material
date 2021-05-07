@@ -17,6 +17,7 @@ If a suitable term is not present select the most appropriate term from the Gett
 | Negative |
 | Painting |
 | Photograph |
+| Plan |
 | Postage stamp |
 | Postcard |
 | Poster |
