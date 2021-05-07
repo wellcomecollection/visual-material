@@ -4,16 +4,14 @@ description: 'Required: 2D Objects, 3D Objects, Born Digital'
 
 # Number of Objects
 
-{% tabs %}
-{% tab title="Single Objects" %}
-
-
-## Definition
+## Definition 
 
 This element specifies the number of objects or component parts of the object being described within the catalogue record. 
 
 The number must be expressed as an Arabic numeral.
 
+{% tabs %}
+{% tab title="Individual Object" %}
 The data for number of objects is best expressed in conjunction with the **object type.**
 
 {% hint style="info" %}
@@ -21,6 +19,10 @@ The data for number of objects is best expressed in conjunction with the **objec
 
 1 painting
 {% endhint %}
+{% endtab %}
+
+{% tab title="Group of Objects" %}
+
 
 For objects where multiple component parts are being described in a single record, the data for number of objects is best expressed in conjunction with the **object type** and the **container** or **support**.
 
@@ -35,10 +37,6 @@ For objects where multiple component parts are being described in a single recor
 
 3 drawings on 1 mount
 {% endhint %}
-{% endtab %}
-
-{% tab title="" %}
-
 {% endtab %}
 
 {% tab title="Second Tab" %}
