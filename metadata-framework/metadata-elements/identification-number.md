@@ -12,7 +12,7 @@ A **unique number** must be allocated to every object to enable identification o
 
 ## Current identification numbers in Wellcome Collection
 
-Currently there is not a single sequence of identification \(object\) numbers at Wellcome Collection. The unique numbers follow Wellcome conventions for Visual Materials or Archives. These numbers should be recorded as the main identification number.
+Currently there is not a single sequence of identification numbers for objects in Wellcome Collection. The unique numbers follow Wellcome conventions for Visual Materials or Archives. These numbers should be recorded as the main identification number.
 
 ## Additional numbers associated with an object
 
