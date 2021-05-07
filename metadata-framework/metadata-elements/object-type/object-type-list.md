@@ -10,6 +10,7 @@ If a suitable term is not present select the most appropriate term from the Gett
 | Banner |
 | Cabinet photograph |
 | Carte de visite |
+| Collage |
 | Drawing |
 | Digital Image \(AAT term, should it be Born Digital Object?\) |
 | Glass negative |
