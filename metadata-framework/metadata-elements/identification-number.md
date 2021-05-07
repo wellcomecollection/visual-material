@@ -8,7 +8,7 @@ description: 'Required: 2D Objects, 3D Objects, Born Digital'
 
 This element records all identifying numbers associated with the object or group of objects.
 
-A **unique number** must be allocated to every object to enable identification of an object or group of objects. The number must be attached to the object or it’s container.
+A **unique number** must be allocated to every object or group of objects to enable identification. The number must be attached to the object or it’s container.
 
 ## Current identification numbers in Wellcome Collection
 
