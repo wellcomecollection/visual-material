@@ -36,10 +36,6 @@ For objects where multiple component parts are being described in a single recor
 3 drawings on 1 mount
 {% endhint %}
 {% endtab %}
-
-{% tab title="Second Tab" %}
-
-{% endtab %}
 {% endtabs %}
 
 ## 
