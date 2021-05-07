@@ -4,17 +4,27 @@ description: 'Required: 2D Objects, 3D Objects, Born Digital'
 
 # Number of Objects
 
+{% tabs %}
+{% tab title="Single Objects" %}
+
+
 ## Definition
 
 This element specifies the number of objects or component parts of the object being described within the catalogue record. 
 
-This data is best expressed in conjunction with the **object type** and where relevant the **container** or **support**.
+The number must be expressed as an Arabic numeral.
+
+The data for number of objects is best expressed in conjunction with the **object type.**
 
 {% hint style="info" %}
 1 print
 
 1 painting
+{% endhint %}
 
+For objects where multiple component parts are being described in a single record, the data for number of objects is best expressed in conjunction with the **object type** and the **container** or **support**.
+
+{% hint style="info" %}
 60 glass negatives in 1 box 
 
 2 drawings on 1 sheet 
@@ -25,6 +35,16 @@ This data is best expressed in conjunction with the **object type** and where re
 
 3 drawings on 1 mount
 {% endhint %}
+{% endtab %}
 
-The number must be expressed as an Arabic numeral.
+{% tab title="" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
+## 
 
