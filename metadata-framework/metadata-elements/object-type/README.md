@@ -14,11 +14,11 @@ This identifies the specific **type of object** being catalogued. It determines 
 
 Object Type is recorded using controlled vocabulary to ensure consistent terminology in the catalogue.  The most common terms applicable to Wellcome Collection are listed in the [**Object Type List**](object-type-list.md). When cataloguing select from this list. When a relevant term for the item being catalogued is not listed, select a suitable term from the [Getty Art & Architecture Thesaurus.](https://www.getty.edu/research/tools/vocabularies/aat/)
 
-## How specific should the terms be?
-
-Add all relevant Object Type terms to a catalogue record to increase the access points. When the cataloguer is uncertain which specific terms to apply to an object include only the known broader term.
+## Allocating multiple terms
 
 Multiple terms can be chosen for the same object or group of objects, if known or applicable.
+
+Add all relevant Object Type terms to a catalogue record to increase the access points.
 
 
 
