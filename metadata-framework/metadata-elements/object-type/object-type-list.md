@@ -25,4 +25,5 @@ If a suitable term is not present select the most appropriate term from the Gett
 | Sculpture |
 | Sketchbook |
 | Sign |
+| Stereograph |
 
