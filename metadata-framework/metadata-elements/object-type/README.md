@@ -16,7 +16,7 @@ Object Type is recorded using controlled vocabulary to ensure consistent termino
 
 ## How specific should the terms be?
 
-Add both broad and specific Object Type terms to a record to increase the access points. When the cataloguer is uncertain which specific terms to apply to an object include only the known broader term.
+Add all relevant Object Type terms to a catalogue record to increase the access points. When the cataloguer is uncertain which specific terms to apply to an object include only the known broader term.
 
 Multiple terms can be chosen for the same object or group of objects, if known or applicable.
 
