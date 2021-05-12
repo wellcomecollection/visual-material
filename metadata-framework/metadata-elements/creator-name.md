@@ -39,7 +39,7 @@ The format and spelling for creator names should be taken from an authority list
 **Personal names**  
 If there is more than one version of the name in use, select the most commonly used.
 
-Personal names should be structured as follows, including the known or relevant elements: 
+Personal names should be structured as follows, include the known or relevant elements: 
 
 Surname, First name\(s\), Title, dates of existence, role in relation to the object \(optional\). 
 
@@ -66,7 +66,7 @@ Bell, Stuart, active 1966-68
 
 #### vi. Role of creator
 
-In addition to the creator name, record the relationship of that person/entity to the object, i.e. their role in its creation. To ensure consistency, role terminology should be controlled and taken from Library of Congress or RDA. If no appropriate terms are listed use another concise term to indicate the nature of the relationship.
+In addition to the creator name, record the relationship of that person/entity to the object, i.e. their role in its creation. To ensure consistency, role terminology should be controlled and taken from ****[**Library of Congress Relator Term List**](https://www.loc.gov/marc/relators/relaterm.html) ****or **RDA Relator terms**. If no appropriate terms are listed use another concise term to indicate the nature of the relationship.
 
 #### vii. Multiple creators
 
