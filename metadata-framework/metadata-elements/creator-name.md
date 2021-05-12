@@ -34,9 +34,11 @@ If opinion on attribution is divided, then record this information in the record
 
 #### iv. Name
 
-The format and spelling for creator names should be taken from an authority list to ensure consistency. Check for an entry in the **Wellcome Collection catalogue** and use this if present. If the name is new to the Wellcome catalogue, check: ****[**LC Library of Congress authorities**](https://authorities.loc.gov/), [**ULAN: Getty Union List of Artists Names**](http://www.getty.edu/research/tools/vocabularies/ulan/), or other reliable sources. If there is more than one version of the name in use, select the most commonly used.
+The format and spelling for creator names should be taken from an authority list to ensure consistency. Check for an entry in the **Wellcome Collection catalogue** and use this if present. If the name is new to the Wellcome catalogue, check: ****[**LC Library of Congress authorities**](https://authorities.loc.gov/), [**ULAN: Getty Union List of Artists Names**](http://www.getty.edu/research/tools/vocabularies/ulan/), or other reliable sources.
 
-For personal names the name should be structured as follows: 
+If there is more than one version of the name in use, select the most commonly used.
+
+For **personal names** the name should be structured as follows: _AACR2?_
 
 Surname, First name\(s\), dates of existence, role in relation to the object \(optional\). 
 
@@ -44,7 +46,7 @@ Surname, First name\(s\), dates of existence, role in relation to the object \(o
 Lichtenstein, Roy, 1923-1997, painter
 {% endhint %}
 
-For corporate names if no authority can be found, take the name as it is written on the object or accompanying documentation.
+For corporate names if no authority can be found, take the name as it is written on the object or accompanying documentation. Where there is more than version of the name in use prefer
 
 #### v. Dates
 
@@ -56,7 +58,7 @@ Bell, Stuart, active 1966-68
 
 #### vi. Role of creator
 
-In addition to the creator name record the relationship of that person/entity to the object, i.e. their role in its creation. To ensure consistency, role terminology should be controlled and taken from a list or thesaurus. The Wellcome list of role terms is created in-house based on the LC relator term list \(see Appendix C\). If no appropriate terms are listed use another concise term to indicate the nature of the relationship.
+In addition to the creator name, record the relationship of that person/entity to the object, i.e. their role in its creation. To ensure consistency, role terminology should be controlled and taken from Library of Congress or RDA. If no appropriate terms are listed use another concise term to indicate the nature of the relationship.
 
 #### vii. Multiple creators
 
