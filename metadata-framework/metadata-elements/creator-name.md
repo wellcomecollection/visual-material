@@ -22,23 +22,37 @@ Where a creator is not known the creator element can be omitted. If the geograph
 
 If attribution is uncertain or ambiguous record this information in the record. 
 
-e.g. attributed to Raphael 
+{% hint style="info" %}
+attributed to Raphael 
+{% endhint %}
 
 If opinion on attribution is divided, then record this information in the record and index all the names in question. 
 
-e.g.
+{% hint style="info" %}
+
+{% endhint %}
 
 #### iv. Name
 
 The format and spelling for creator names should be taken from an authority list to ensure consistency. Check for an entry in the Wellcome Collection catalogue and use this if present. If the name is new to the Wellcome catalogue, check: LC Library of Congress authorities, ULAN Getty Union List of Artists Names, or other reliable sources. If there is more than one version of the name in use, select the most commonly used.
 
-For personal names the name should be structured as follows: Surname, First name\(s\), dates of existence, role in relation to the object \(optional\). e.g. Lichtenstein, Roy, 1923-1997, painter
+For personal names the name should be structured as follows: 
+
+Surname, First name\(s\), dates of existence, role in relation to the object \(optional\). 
+
+{% hint style="info" %}
+Lichtenstein, Roy, 1923-1997, painter
+{% endhint %}
 
 For corporate names check if there is an entry in the Wellcome catalogue, or LC or ULAN authority lists, as corporate names vary over time. If no authority can be found, take the name as it is written on the object or accompanying documentation.
 
 #### v. Dates
 
-For personal names include dates if known. Where the birth and death dates are not known, include the full range of dates for the artworks you are aware of, as an approximate active date. e.g. Bell, Stuart, active 1966-68
+For personal names include dates if known. Where the birth and death dates are not known, include the full range of dates for the artworks you are aware of, as an approximate active date. 
+
+{% hint style="info" %}
+Bell, Stuart, active 1966-68
+{% endhint %}
 
 #### vi. Role of creator
 
