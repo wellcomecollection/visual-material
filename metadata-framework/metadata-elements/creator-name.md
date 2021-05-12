@@ -45,6 +45,8 @@ Surname, First name\(s\), Title, dates of existence, role in relation to the obj
 
 {% hint style="info" %}
 Lichtenstein, Roy, 1923-1997, painter
+
+Thompson, J. \(John\), 1837-1921, photographer
 {% endhint %}
 
 **Corporate names**  
