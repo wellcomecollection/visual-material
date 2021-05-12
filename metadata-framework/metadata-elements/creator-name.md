@@ -34,23 +34,31 @@ If opinion on attribution is divided, then record this information in the record
 
 #### iv. Name
 
-The format and spelling for creator names should be taken from an authority list to ensure consistency. Check for an entry in the **Wellcome Collection catalogue** and use this if present. If the name is new to the Wellcome catalogue, check: ****[**LC Library of Congress authorities**](https://authorities.loc.gov/), [**ULAN: Getty Union List of Artists Names**](http://www.getty.edu/research/tools/vocabularies/ulan/), or other reliable sources.
+The format and spelling for creator names should be taken from an authority list to ensure consistency. Check for an entry in the **Wellcome Collection catalogue** and use this if present. If the name is new to the Wellcome catalogue, check: ****[**LC Library of Congress authorities**](https://authorities.loc.gov/), [**ULAN: Getty Union List of Artists Names**](http://www.getty.edu/research/tools/vocabularies/ulan/), or other reliable sources. 
 
+**Personal names**  
 If there is more than one version of the name in use, select the most commonly used.
 
-For **personal names** the name should be structured as follows: _AACR2?_
+Personal names should be structured as follows, including the known or relevant elements: 
 
-Surname, First name\(s\), dates of existence, role in relation to the object \(optional\). 
+Surname, First name\(s\), Title, dates of existence, role in relation to the object \(optional\). 
 
 {% hint style="info" %}
 Lichtenstein, Roy, 1923-1997, painter
 {% endhint %}
 
-For corporate names if no authority can be found, take the name as it is written on the object or accompanying documentation. Where there is more than version of the name in use prefer
+**Corporate names**  
+If no authority can be found, take the name as it is written on the object or accompanying documentation. Where there is more than version of the name in use prefer the version found in the LC or ULAN authority lists.
 
 #### v. Dates
 
-For personal names include dates if known. Where the birth and death dates are not known, include the full range of dates for the artworks you are aware of, as an approximate active date. 
+For personal names include dates if known. 
+
+{% hint style="info" %}
+ Hogarth, William, 1697-1764
+{% endhint %}
+
+Where the birth and death dates are not known, include the full range of dates for the artworks you are aware of, as an approximate active date. 
 
 {% hint style="info" %}
 Bell, Stuart, active 1966-68
