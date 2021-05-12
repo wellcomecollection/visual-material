@@ -47,6 +47,8 @@ Surname, First name\(s\), Title, dates of existence, role in relation to the obj
 Lichtenstein, Roy, 1923-1997, painter
 
 Thompson, J. \(John\), 1837-1921, photographer
+
+Hogarth, William, 1697-1764
 {% endhint %}
 
 **Corporate names**  
@@ -55,10 +57,6 @@ If no authority can be found, take the name as it is written on the object or ac
 #### v. Dates
 
 For personal names include dates if known. 
-
-{% hint style="info" %}
- Hogarth, William, 1697-1764
-{% endhint %}
 
 Where the birth and death dates are not known, include the full range of dates for the artworks you are aware of, as an approximate active date. 
 
