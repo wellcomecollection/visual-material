@@ -51,6 +51,12 @@ Thompson, J. \(John\), 1837-1921, photographer
 Hogarth, William, 1697-1764
 {% endhint %}
 
+When an artist is recognised by a single name, prefer the known name over Surname, First name structure.  
+
+{% hint style="info" %}
+Raphael, 1493-1520
+{% endhint %}
+
 **Corporate names**  
 If no authority can be found, take the name as it is written on the object or accompanying documentation. Where there is more than version of the name in use prefer the version found in the LC or ULAN authority lists.
 
