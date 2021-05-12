@@ -82,5 +82,9 @@ If multiple entities were involved in creating the object, or group of objects i
 
 #### viii. Biographical details
 
-CCO ideal: in-house name authority list. CCO would also record Nationality.
+
+
+_Future Wish List:_  
+_CCO ideal: in-house name authority list.  
+CCO would record Nationality._
 
