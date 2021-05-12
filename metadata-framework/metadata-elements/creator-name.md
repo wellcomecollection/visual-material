@@ -34,7 +34,7 @@ If opinion on attribution is divided, then record this information in the record
 
 #### iv. Name
 
-The format and spelling for creator names should be taken from an authority list to ensure consistency. Check for an entry in the Wellcome Collection catalogue and use this if present. If the name is new to the Wellcome catalogue, check: LC Library of Congress authorities, ULAN Getty Union List of Artists Names, or other reliable sources. If there is more than one version of the name in use, select the most commonly used.
+The format and spelling for creator names should be taken from an authority list to ensure consistency. Check for an entry in the **Wellcome Collection catalogue** and use this if present. If the name is new to the Wellcome catalogue, check: ****[**LC Library of Congress authorities**](https://authorities.loc.gov/), [**ULAN: Getty Union List of Artists Names**](http://www.getty.edu/research/tools/vocabularies/ulan/), or other reliable sources. If there is more than one version of the name in use, select the most commonly used.
 
 For personal names the name should be structured as follows: 
 
@@ -44,7 +44,7 @@ Surname, First name\(s\), dates of existence, role in relation to the object \(o
 Lichtenstein, Roy, 1923-1997, painter
 {% endhint %}
 
-For corporate names check if there is an entry in the Wellcome catalogue, or LC or ULAN authority lists, as corporate names vary over time. If no authority can be found, take the name as it is written on the object or accompanying documentation.
+For corporate names if no authority can be found, take the name as it is written on the object or accompanying documentation.
 
 #### v. Dates
 
