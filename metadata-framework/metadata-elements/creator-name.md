@@ -64,6 +64,8 @@ Where the birth and death dates are not known, include the full range of dates f
 Bell, Stuart, active 1966-68
 {% endhint %}
 
+For corporate names, dates are only applied to names in relation to meeting or conference dates.
+
 #### vi. Role of creator
 
 In addition to the creator name, record the relationship of that person/entity to the object, i.e. their role in its creation. To ensure consistency, role terminology should be controlled and taken from ****[**Library of Congress Relator Term List**](https://www.loc.gov/marc/relators/relaterm.html) ****or **RDA Relator terms**. If no appropriate terms are listed use another concise term to indicate the nature of the relationship.
