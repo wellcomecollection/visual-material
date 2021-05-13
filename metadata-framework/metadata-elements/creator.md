@@ -34,7 +34,7 @@ If opinion on attribution is divided, then record this information in the record
 
 ### iv. Name
 
-The format and spelling for creator names should be taken from an authority list to ensure consistency. Check for an entry in the **Wellcome Collection catalogue** and use this if present. If the name is new to the Wellcome catalogue, check: [LC Library of Congress authorities](https://authorities.loc.gov/) , [ULAN: Getty Union List of Artists Names](http://www.getty.edu/research/tools/vocabularies/ulan/), or other reliable sources.
+The format and spelling for creator names should be taken from an authority list to ensure consistency. Check for an entry in the **Wellcome Collection catalogue** and use this if present. If the name is new to the Wellcome catalogue, check: ****[**LC Library of Congress authorities**](https://authorities.loc.gov/) , ****[**ULAN: Getty Union List of Artists Names**](http://www.getty.edu/research/tools/vocabularies/ulan/)**,** or other reliable sources.
 
 **Personal names**  
 If there is more than one version of the name in use, select the most commonly used.
