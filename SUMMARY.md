@@ -44,7 +44,7 @@
   * [Citation](metadata-framework/metadata-elements/citation.md)
   * [Condition](metadata-framework/metadata-elements/condition.md)
   * [Access Status and Conditions](metadata-framework/metadata-elements/access-status-and-conditions.md)
-  * [Reproduction Conditions](metadata-framework/metadata-elements/reproduction-conditions.md)
+  * [Copyright](metadata-framework/metadata-elements/reproduction-conditions.md)
 
 ## CURRENT SYSTEM GUIDELINES
 
