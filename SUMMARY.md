@@ -19,6 +19,7 @@
 ## METADATA FRAMEWORK
 
 * [Scope](metadata-framework/scope.md)
+* [Metadata Crosswalk](metadata-framework/metadata-crosswalk.md)
 * [Metadata Table](metadata-framework/metadata-table.md)
 * [Metadata Elements](metadata-framework/metadata-elements/README.md)
   * [Identification Number](metadata-framework/metadata-elements/identification-number.md)
