@@ -1,2 +1,2 @@
-# Specifics
+# Identifying photographs
 
