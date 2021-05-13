@@ -34,11 +34,87 @@ Record the date to the greatest specificity known, using one of the following ap
 
 **Known dates**
 
-Day, Month, Year 04 April 1954 Month, Year April 1954 Year 1954 Century 19th century Year range 1860-1893 between 1860 and 1893 Range \(group of objects\) 1950-1954
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Day, Month, Year</td>
+      <td style="text-align:left">04 April 1954</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Month, Year</td>
+      <td style="text-align:left">April 1954</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Year</td>
+      <td style="text-align:left">1954</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Century</td>
+      <td style="text-align:left">19th century</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Year range</td>
+      <td style="text-align:left">
+        <p>1860-1893</p>
+        <p>between 1860 and 1893</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Range (group of objects)</td>
+      <td style="text-align:left">1950-1954</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
+
+        
 
 **Unknown, ambiguous and approximate dates**
 
-Estimated year c. 1962 approximately 1962 1962? 2 possible dates 1781 or 1782 Estimated range c.1860-1872 between 1860 and 1893 Range \(group of objects\) 1953-c.1960 c.1950-1960 c.1953-c.1968 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Estimated year</td>
+      <td style="text-align:left">
+        <p>c. 1962</p>
+        <p>approximately 1962 1962?</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">2 possible dates</td>
+      <td style="text-align:left">1781 or 1782</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Estimated range</td>
+      <td style="text-align:left">
+        <p>c.1860-1872</p>
+        <p>between 1860 and 1893</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Range (group of objects)</td>
+      <td style="text-align:left">
+        <p>1953-c.1960<b><br /></b>c.1953-c.1968</p>
+        <p>c.1950-1960</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 If date on an object is ambiguous \(unclear day, month, year order\), if taken from another source or the date is estimated, a note should also be included in the record using standardised text below.
 
