@@ -8,9 +8,11 @@
 * [Cataloguing History](background/cataloguing-history.md)
 * [Inventory Metadata](background/inventory-metadata.md)
 
-## IDENTIFYING OBJECTS <a id="dataset"></a>
+## CATALOGUING AIDS <a id="dataset"></a>
 
-* [About](dataset/about/README.md)
+* [Decision Making Checklist](dataset/decision-making-checklist.md)
+* [Labelling](dataset/labelling.md)
+* [Identification](dataset/about/README.md)
   * [Identifying prints](dataset/about/untitled.md)
   * [Identifying photographs](dataset/about/specifics.md)
 
@@ -50,7 +52,7 @@
   * [Citation](metadata-framework/metadata-elements/citation.md)
   * [Condition](metadata-framework/metadata-elements/condition.md)
   * [Access Status and Conditions](metadata-framework/metadata-elements/access-status-and-conditions.md)
-  * [Reproduction Conditions](metadata-framework/metadata-elements/reproduction-conditions.md)
+  * [Copyright](metadata-framework/metadata-elements/reproduction-conditions.md)
 
 ## CURRENT SYSTEM GUIDELINES
 
@@ -58,5 +60,4 @@
   * [Library cataloguing specifics](current-system-guidelines/library-cataloguing/library-cataloguing-specifics.md)
 * [Archive cataloguing](current-system-guidelines/archive-cataloguing/README.md)
   * [Archive cataloguing specifics](current-system-guidelines/archive-cataloguing/archive-cataloguing-specifics.md)
-
 
