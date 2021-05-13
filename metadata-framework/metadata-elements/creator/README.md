@@ -25,15 +25,15 @@ If attribution is uncertain or ambiguous record this information in the record.
 {% hint style="info" %}
 attributed to Raphael
 
-probably by
-
-possibly by
+probably by F. Vizetelly
 {% endhint %}
+
+
 
 If opinion on attribution is divided, then record this information in the record and index all the names in question.
 
 {% hint style="info" %}
-
+possibly by Denis Gascoigne Lillie  or T. Jeffery Parker.
 {% endhint %}
 
 ### iv. Name
