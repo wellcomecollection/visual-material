@@ -31,12 +31,12 @@ probably by F. Vizetelly
 If opinion on attribution is divided, then record this information in the record and index all the names in question.
 
 {% hint style="info" %}
-possibly by Denis Gascoigne Lillie  or T. Jeffery Parker.
+possibly by Denis Gascoigne Lillie or T. Jeffery Parker.
 {% endhint %}
 
 ### iv. Name
 
-The format and spelling for creator names should be taken from an authority list to ensure consistency. Check for an entry in the **Wellcome Collection catalogue** and use this if present. If the name is new to the Wellcome catalogue, check: **[LC Library of Congress authorities](https://authorities.loc.gov/)** ,**[ULAN: Getty Union List of Artists Names](http://www.getty.edu/research/tools/vocabularies/ulan/)** or other reliable sources.
+The format and spelling for creator names should be taken from an authority list to ensure consistency. Check for an entry in the **Wellcome Collection catalogue** and use this if present. If the name is new to the Wellcome catalogue, check: [**LC Library of Congress authorities**](https://authorities.loc.gov/) ,[**ULAN: Getty Union List of Artists Names**](http://www.getty.edu/research/tools/vocabularies/ulan/) or other reliable sources.
 
 **Personal names**  
 If there is more than one version of the name in use, select the most commonly used.
@@ -76,7 +76,7 @@ For corporate names, dates are only applied to names in relation to meeting or c
 
 ### vi. Role of creator
 
-In addition to the creator name, record the relationship of that person/entity to the object, i.e. their role in its creation. To ensure consistency, role terminology should be controlled and taken from [Library of Congress Relator Term List](https://www.loc.gov/marc/relators/relaterm.html) or RDA Relator terms. If no appropriate terms are listed use another concise term to indicate the nature of the relationship.
+In addition to the creator name, record the relationship of that person/entity to the object, i.e. their role in its creation. To ensure consistency, terminology should be taken from the Wellcome [**Relator Terms list**](relator-terms.md). If no appropriate terms are listed use another concise term to indicate the nature of the relationship.
 
 ### vii. Multiple creators
 
