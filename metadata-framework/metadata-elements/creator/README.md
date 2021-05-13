@@ -34,7 +34,7 @@ If opinion on attribution is divided, then record this information in the record
 
 ### iv. Name
 
-The format and spelling for creator names should be taken from an authority list to ensure consistency. Check for an entry in the **Wellcome Collection catalogue** and use this if present. If the name is new to the Wellcome catalogue, check: ****[**LC Library of Congress authorities**](https://authorities.loc.gov/) , ****[**ULAN: Getty Union List of Artists Names**](http://www.getty.edu/research/tools/vocabularies/ulan/)**,** or other reliable sources.
+The format and spelling for creator names should be taken from an authority list to ensure consistency. Check for an entry in the **Wellcome Collection catalogue** and use this if present. If the name is new to the Wellcome catalogue, check: **\*\*\[**LC Library of Congress authorities**\]\(**[https://authorities.loc.gov/](https://authorities.loc.gov/)**\) , \*\***[**ULAN: Getty Union List of Artists Names**](http://www.getty.edu/research/tools/vocabularies/ulan/)**,** or other reliable sources.
 
 **Personal names**  
 If there is more than one version of the name in use, select the most commonly used.
@@ -78,7 +78,17 @@ In addition to the creator name, record the relationship of that person/entity t
 
 ### vii. Multiple creators
 
-If multiple entities were involved in creating the object, or group of objects in the case of photo albums or collection level descriptions, record all of them in the manner above. If there are too numerous, record the most important or most prominent. This includes both individuals and organisations involved in the commission, production, copying, alteration and/or publication.
+{% tabs %}
+{% tab title="First Tab" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
+If multiple entities were involved in creating the object, or group of objects \(in the case of photo albums or collection level descriptions\), record all of them in the manner above. If there are too numerous, record the most important or most prominent. This includes both individuals and organisations involved in the commission, production, copying, alteration and/or publication.
 
 ### viii. Biographical details
 
@@ -87,3 +97,4 @@ Include biographical information on the creator when such information is not com
 _Future Wish List:_  
 _CCO ideal: in-house name authority list.  
 CCO would record Nationality._
+
