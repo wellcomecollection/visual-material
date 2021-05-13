@@ -8,6 +8,12 @@
 * [Cataloguing History](background/cataloguing-history.md)
 * [Inventory Metadata](background/inventory-metadata.md)
 
+## IDENTIFYING OBJECTS <a id="dataset"></a>
+
+* [About](dataset/about/README.md)
+  * [Identifying prints](dataset/about/untitled.md)
+  * [Identifying photographs](dataset/about/specifics.md)
+
 ## METADATA FRAMEWORK
 
 * [Scope](metadata-framework/scope.md)
@@ -44,7 +50,7 @@
   * [Citation](metadata-framework/metadata-elements/citation.md)
   * [Condition](metadata-framework/metadata-elements/condition.md)
   * [Access Status and Conditions](metadata-framework/metadata-elements/access-status-and-conditions.md)
-  * [Copyright](metadata-framework/metadata-elements/reproduction-conditions.md)
+  * [Reproduction Conditions](metadata-framework/metadata-elements/reproduction-conditions.md)
 
 ## CURRENT SYSTEM GUIDELINES
 
@@ -53,9 +59,4 @@
 * [Archive cataloguing](current-system-guidelines/archive-cataloguing/README.md)
   * [Archive cataloguing specifics](current-system-guidelines/archive-cataloguing/archive-cataloguing-specifics.md)
 
-## IDENTIFYING OBJECTS <a id="dataset"></a>
-
-* [About](dataset/about/README.md)
-  * [Identifying prints](dataset/about/untitled.md)
-  * [Identifying photographs](dataset/about/specifics.md)
 
