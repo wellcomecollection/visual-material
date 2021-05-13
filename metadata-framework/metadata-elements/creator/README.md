@@ -28,8 +28,6 @@ attributed to Raphael
 probably by F. Vizetelly
 {% endhint %}
 
-
-
 If opinion on attribution is divided, then record this information in the record and index all the names in question.
 
 {% hint style="info" %}
