@@ -24,6 +24,10 @@ If attribution is uncertain or ambiguous record this information in the record.
 
 {% hint style="info" %}
 attributed to Raphael
+
+probably by
+
+possibly by
 {% endhint %}
 
 If opinion on attribution is divided, then record this information in the record and index all the names in question.
@@ -79,16 +83,14 @@ In addition to the creator name, record the relationship of that person/entity t
 ### vii. Multiple creators
 
 {% tabs %}
-{% tab title="First Tab" %}
-
+{% tab title="Individual Object" %}
+If multiple entities were involved in creating the object record all of them in the manner above. If they are too numerous, record the most important or most prominent. This includes both individuals and organisations involved in the commission, production, copying, alteration and/or publication.
 {% endtab %}
 
-{% tab title="Second Tab" %}
-
+{% tab title="Group of Objects" %}
+If multiple entities were involved in creating the group of objects \(such as photo albums\), record all of them in the manner above. If they are too numerous, record the most important or most prominent. This includes both individuals and organisations involved in the commission, production, copying, alteration and/or publication.
 {% endtab %}
 {% endtabs %}
-
-If multiple entities were involved in creating the object, or group of objects \(in the case of photo albums or collection level descriptions\), record all of them in the manner above. If there are too numerous, record the most important or most prominent. This includes both individuals and organisations involved in the commission, production, copying, alteration and/or publication.
 
 ### viii. Biographical details
 
