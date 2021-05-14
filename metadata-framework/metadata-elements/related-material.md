@@ -11,6 +11,7 @@ Record the general relational link between the object and the object or group of
 {% hint style="info" %}
 * Wellcome Collection holds another copy of this object at \[67089i\]\([https://wellcomecollection.org/works/v3w3x8xa](https://wellcomecollection.org/works/v3w3x8xa)\)
 * Wellcome Collection holds a photograph of this object at \[567733i\]\([https://wellcomecollection.org/works/hj28e97p](https://wellcomecollection.org/works/hj28e97p)\)
+* This object references this object \[67089i\]\([https://wellcomecollection.org/works/v3w3x8xa](https://wellcomecollection.org/works/v3w3x8xa)\)
 {% endhint %}
 
 
