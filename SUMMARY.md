@@ -13,7 +13,17 @@
 * [Decision Making Checklist](dataset/decision-making-checklist.md)
 * [Labelling](dataset/labelling.md)
 * [Identification](dataset/about/README.md)
-  * [Identifying prints](dataset/about/untitled.md)
+  * [Identifying paintings](dataset/about/identifying-paintings/README.md)
+    * [Tempera](dataset/about/identifying-paintings/tempera.md)
+    * [Oil](dataset/about/identifying-paintings/oil.md)
+    * [Acrylic](dataset/about/identifying-paintings/acrylic.md)
+  * [Identifying prints](dataset/about/untitled/README.md)
+    * [Relief Prints](dataset/about/untitled/relief-prints/README.md)
+      * [Woodcut](dataset/about/untitled/relief-prints/woodcut.md)
+    * [Intaglio Prints](dataset/about/untitled/intaglio-prints.md)
+    * [Lithographic Prints](dataset/about/untitled/lithographic-prints.md)
+    * [Photomechanical Prints](dataset/about/untitled/photomechanical-prints.md)
+    * [Digital Prints](dataset/about/untitled/digital-prints.md)
   * [Identifying photographs](dataset/about/specifics.md)
 
 ## METADATA FRAMEWORK
