@@ -10,7 +10,7 @@
 
 ## CATALOGUING AIDS <a id="dataset"></a>
 
-* [Decision Making Checklist](dataset/decision-making-checklist.md)
+* [Considerations before Cataloguing](dataset/decision-making-checklist.md)
 * [Labelling](dataset/labelling.md)
 * [Identification](dataset/about/README.md)
   * [Identifying paintings](dataset/about/identifying-paintings/README.md)
