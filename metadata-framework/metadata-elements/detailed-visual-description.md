@@ -17,7 +17,7 @@ Jeffrey Hudson is depicted stood in front of a pulled curtain and balustrade and
 
 [17366i](https://wellcomecollection.org/works/seh8j4k5)
 
-The Royal Institution is depicted in the mid-ground, Edinburgh Castle is in the background to the left and a street scene in the foreground including a horse and carriage. 
+The Royal Institution is depicted in the mid-ground, Edinburgh Castle in the background to the left and a street scene in the foreground including a horse and carriage. 
 {% endhint %}
 
 
