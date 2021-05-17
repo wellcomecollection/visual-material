@@ -127,6 +127,8 @@ For free text fields in a database, record the date to the greatest specificity 
   </tbody>
 </table>
 
+For **groups of objects** record the range of dates for the earliest known or estimated date to the latest known or estimated date for the _whole selection_ of objects being catalogued. 
+
 ### iv. Source of Date
 
 Where dates are taken from another source or estimated this must be made clear in the record, either within an explanatory note or by the use of square brackets. 
