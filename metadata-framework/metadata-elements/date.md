@@ -31,7 +31,17 @@ For some objects there can be multiple creation dates relating to different aspe
 photograph taken 1898, printed 1914
 {% endhint %}
 
-### ii Date Formats
+### ii. Transcribed Date
+
+The date should be transcribed as it appears on the object in the catalogue record, within a free text date field or in a separate explanatory note. The transcribed date can be qualified by including the date in an unambiguous form within square brackets.
+
+{% hint style="info" %}
+May 14 '53 \[14 May 1953\]
+
+7.9.71 \[7 September 1971\]
+{% endhint %}
+
+### iii Date Formats
 
 For dates recorded in fixed fields in a database, enter the year or range of years. Where a range of years applies, record the Earliest and Latest dates in dedicated fields. 
 
@@ -115,16 +125,6 @@ For free text fields in a database, record the date to the greatest specificity 
     </tr>
   </tbody>
 </table>
-
-### iii. Transcribed Date
-
-The date on an object maybe written in a different format, ensure this is transcribed in the catalogue record, within the date field or in a separate explanatory note. The transcribed date can be qualified by including the date in an unambiguous form within square brackets.
-
-{% hint style="info" %}
-May 14 '53 \[14 May 1953\]
-
-7.9.71 \[7 September 1971\]
-{% endhint %}
 
 ### iv. Source of Date
 
