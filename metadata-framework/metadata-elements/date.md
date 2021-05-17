@@ -24,8 +24,6 @@ If applicable and known, record the object’s copyright date.
 **Acquisition Date**  
 If applicable and known, record the object’s acquisition date.
 
-
-
 **Other Dates**  
 For some objects there can be multiple creation dates relating to different aspects of the process, or a date range to capture a period of creation. Where necessary include a note to explain the dates given to the object. Any other known dates associated with the alteration of the object, or if the object is a copy of another, should be added to a note or description field in the record. 
 
@@ -36,6 +34,8 @@ photograph taken 1898, printed 1914
 ### ii Date Formats
 
 Record the date to the greatest specificity known, using one of the following appropriate formats.
+
+Where a range of years applies to the date assigned to an item, record the Earliest and Latest dates in dedicated fields. 
 
 **Known dates**
 
@@ -74,10 +74,6 @@ Record the date to the greatest specificity known, using one of the following ap
       <td style="text-align:left">Range (group of objects)</td>
       <td style="text-align:left">1950-1954</td>
     </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
   </tbody>
 </table>
 
@@ -97,7 +93,8 @@ Record the date to the greatest specificity known, using one of the following ap
       <td style="text-align:left">Estimated year</td>
       <td style="text-align:left">
         <p>c. 1962</p>
-        <p>approximately 1962 1962?</p>
+        <p>approximately 1962
+          <br />1962?</p>
       </td>
     </tr>
     <tr>
@@ -121,7 +118,13 @@ Record the date to the greatest specificity known, using one of the following ap
   </tbody>
 </table>
 
-If date on an object is ambiguous \(unclear day, month, year order\), if taken from another source or the date is estimated, a note should also be included in the record using standardised text below.
+The date on an object maybe written in a different format, ensure this is transcribed in the catalogue record, within the date field or in a separate explanatory note. The transcribed date can be qualified by including the date in an unambiguous form within square brackets.
 
-For year ranges, if possible record the Earliest and Latest dates. 
+{% hint style="info" %}
+May 14 '53 \[14 May 1953\]
+
+7.9.71 \[7 September 1971\]
+{% endhint %}
+
+Where dates are taken from another source or estimated this must be made clear in the record, either by way of a note or the use of square brackets. 
 
