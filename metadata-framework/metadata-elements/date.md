@@ -81,10 +81,6 @@ For free text fields in a database, record the date to the greatest specificity 
         <p>between 1860 and 1893</p>
       </td>
     </tr>
-    <tr>
-      <td style="text-align:left">Range (group of objects)</td>
-      <td style="text-align:left">1950-1954</td>
-    </tr>
   </tbody>
 </table>
 
@@ -113,21 +109,16 @@ For free text fields in a database, record the date to the greatest specificity 
     <tr>
       <td style="text-align:left">Estimated range</td>
       <td style="text-align:left">
-        <p>c.1860-1872</p>
+        <p>c.1860-1872
+          <br />1953-c.1960
+          <br />c.1953-c.1969</p>
         <p>between 1860 and 1893</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Range (group of objects)</td>
-      <td style="text-align:left">
-        <p>1953-c.1960<b><br /></b>c.1953-c.1968</p>
-        <p>c.1950-1960</p>
       </td>
     </tr>
   </tbody>
 </table>
 
-For **groups of objects** record the range of dates for the earliest known or estimated date to the latest known or estimated date for the _whole selection_ of objects being catalogued. 
+For **groups of objects** record the range of dates for the earliest known or estimated date to the latest known or estimated date for the _**whole group**_ of objects being catalogued, not ranges of dates for each object. 
 
 ### iv. Source of Date
 
