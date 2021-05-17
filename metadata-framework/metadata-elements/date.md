@@ -52,8 +52,9 @@ For free text fields in a database, record the date to the greatest specificity 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
+      <th style="text-align:left"><b>Known date content</b>
+      </th>
+      <th style="text-align:left">Known date format</th>
     </tr>
   </thead>
   <tbody>
@@ -92,8 +93,8 @@ For free text fields in a database, record the date to the greatest specificity 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
+      <th style="text-align:left">Unknown date content</th>
+      <th style="text-align:left">Unknown date format</th>
     </tr>
   </thead>
   <tbody>
