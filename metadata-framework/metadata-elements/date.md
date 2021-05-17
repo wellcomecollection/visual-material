@@ -116,6 +116,8 @@ For free text fields in a database, record the date to the greatest specificity 
   </tbody>
 </table>
 
+### iii. Transcribed Date
+
 The date on an object maybe written in a different format, ensure this is transcribed in the catalogue record, within the date field or in a separate explanatory note. The transcribed date can be qualified by including the date in an unambiguous form within square brackets.
 
 {% hint style="info" %}
@@ -123,6 +125,8 @@ May 14 '53 \[14 May 1953\]
 
 7.9.71 \[7 September 1971\]
 {% endhint %}
+
+### iv. Source of Date
 
 Where dates are taken from another source or estimated this must be made clear in the record, either within an explanatory note or by the use of square brackets. 
 
