@@ -126,5 +126,5 @@ May 14 '53 \[14 May 1953\]
 7.9.71 \[7 September 1971\]
 {% endhint %}
 
-Where dates are taken from another source or estimated this must be made clear in the record, either by way of a note or the use of square brackets. 
+Where dates are taken from another source or estimated this must be made clear in the record, either within an explanatory note or by the use of square brackets. 
 
