@@ -33,9 +33,9 @@ photograph taken 1898, printed 1914
 
 ### ii Date Formats
 
-Record the date to the greatest specificity known, using one of the following appropriate formats.
+For dates recorded in fixed fields in a database, enter the year or range of years. Where a range of years applies, record the Earliest and Latest dates in dedicated fields. 
 
-Where a range of years applies to the date assigned to an item, record the Earliest and Latest dates in dedicated fields. 
+For free text fields in a database, record the date to the greatest specificity known, using one of the following appropriate formats.
 
 **Known dates**
 
@@ -76,8 +76,6 @@ Where a range of years applies to the date assigned to an item, record the Earli
     </tr>
   </tbody>
 </table>
-
-        
 
 **Unknown, ambiguous and approximate dates**
 
