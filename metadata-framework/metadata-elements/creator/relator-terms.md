@@ -1,4 +1,12 @@
+---
+description: 'Required: 2D Objects, 3D Objects, Born Digital. Repeatable'
+---
+
 # Relator Terms
+
+## Definition
+
+Relator terms are used to explain the relationship between a name and an object**.** 
 
 * artist
 * collotyper
