@@ -23,6 +23,6 @@ INV.2021/278 : Inventory Number
 
 A129247 : Accession Number
 
-Former Richard Saltoun stock code: JOS1284
+JOS1284 : Former Richard Saltoun stock code
 {% endhint %}
 
