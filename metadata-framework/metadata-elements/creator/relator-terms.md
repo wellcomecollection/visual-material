@@ -2,7 +2,7 @@
 description: 'Required: 2D Objects, 3D Objects, Born Digital. Repeatable'
 ---
 
-# Relator Terms
+# Relator Term List
 
 ## Definition
 

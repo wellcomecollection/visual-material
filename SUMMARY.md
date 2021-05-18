@@ -37,7 +37,7 @@
   * [Object Type](metadata-framework/metadata-elements/object-type/README.md)
     * [Object Type List](metadata-framework/metadata-elements/object-type/object-type-list.md)
   * [Creator](metadata-framework/metadata-elements/creator/README.md)
-    * [Relator Terms](metadata-framework/metadata-elements/creator/relator-terms.md)
+    * [Relator Term List](metadata-framework/metadata-elements/creator/relator-terms.md)
   * [Title/Brief Description](metadata-framework/metadata-elements/title-brief-description.md)
   * [Inscription](metadata-framework/metadata-elements/inscription.md)
   * [Date](metadata-framework/metadata-elements/date.md)
