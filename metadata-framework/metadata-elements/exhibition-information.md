@@ -4,7 +4,7 @@
 
 The exhibition element records where and when an object has been exhibited.
 
-## Required Information
+## Content
 
 The record should record the name of the exhibition, venue and location of the exhibition and the dates the exhibition was held.
 
