@@ -6,7 +6,7 @@ Consider the context in which the item was produced, and any personal data to be
 
 ## Single or multiple records? 
 
-Establish what you are creating a record for. Is it a single work or a group level record? This will influence the information included in the record and/or how it is recorded. 
+Establish what you are creating a record for. Is it a single object or a group? This will influence the information included in the record and/or how it is recorded. 
 
 If there are multiple images on a single sheet, consider if there is a need to create separate records for each image. For example, there may be an image on both sides of a sheet, a record can be created for each image, with both linked to a record describing the sheet as a whole facilitating retrieval.  
 
