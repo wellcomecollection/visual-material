@@ -52,6 +52,7 @@
   * [Previous Subject Classification](metadata-framework/metadata-elements/previous-subject-classification.md)
   * [Source of title](metadata-framework/metadata-elements/source-of-title.md)
   * [Edition](metadata-framework/metadata-elements/edition.md)
+  * [State](metadata-framework/metadata-elements/state.md)
   * [Language](metadata-framework/metadata-elements/language.md)
   * [Provenance](metadata-framework/metadata-elements/provenance.md)
   * [Detailed Visual Description](metadata-framework/metadata-elements/detailed-visual-description.md)
