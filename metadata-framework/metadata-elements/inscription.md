@@ -18,7 +18,11 @@ Transcribe the inscription exactly as it appears on the object, replicating the 
 
 Follow each discrete part of the inscription with an explanation of the inscription type and location on the object. 
 
+{% hint style="info" %}
+'Etched by George Cruikshank' \(signature, printed, bottom left recto\) 
 
+'Artificial Pigeon Shooting, at the Stadium, Chelsea.' \(printed, bottom centre recto\)
+{% endhint %}
 
 Inscribed titles must be entered into the title element of the record
 {% endtab %}
@@ -28,11 +32,7 @@ Inscribed titles must be entered into the title element of the record
 {% endtab %}
 {% endtabs %}
 
-{% hint style="info" %}
-'Etched by George Cruikshank' \(signature, printed, bottom left recto\) 
 
-'Artificial Pigeon Shooting, at the Stadium, Chelsea.' \(printed, bottom centre recto\)
-{% endhint %}
 
 ## Exhaustivity
 
