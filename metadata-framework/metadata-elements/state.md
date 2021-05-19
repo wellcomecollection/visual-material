@@ -4,23 +4,48 @@ description: Prints
 
 # State
 
+## UNFINISHED DRAFT
+
 ## Definition
 
 The term state is used to describe identical impressions printed from the same unchanged printing plate, block or stone \(matrix\). It identifies the relationship of an object created in multiples to other stages of the same object.
 
-## Terminology
+Types of State
 
-Numerical state  
+Numbered and named states
 
+Unnumbered states
 
 Artist's proof \(or epreuve d'artiste\)
 
 Bon à tirer \(or right to print\)
 
-**Hors-commerce**  
+**Hors commerce**  
 This means "outside the commercial edition" and is used for proofs that were excluded from the numbering of an edition, and were not intended for sale, not artist's proofs, or bon à tirer. It maybe abbreviated as **HC** on the print. 
 
 Printer's proof
+
+## Terminology
+
+{% hint style="info" %}
+bon à tirer  
+printer's proof  
+hors commerce  
+final state  
+artist's proof  
+proof before letters  
+experimental proof  
+progressive proof  
+printer's proof  
+counter proof  
+unnumbered   
+1st of 3 states \(Harrison \(1997\)\)
+{% endhint %}
+
+  
+
+
+
 
 ## Style and Language
 
