@@ -1,18 +1,24 @@
 ---
-description: 'Prints, 3D Objects'
+description: 'Prints, 2D & 3D Objects'
 ---
 
 # Edition
 
-* Unfinished draft covering State & edition
+## **Definition**
 
-## Definition
+For prints and editions of 2D and 3D objects the term edition is used to:
 
-For prints and artists editions of 2D and 3D objects the term edition is used to indicate the print run or the number of objects produced in the edition. 
+* place a specific object in the context of a group issued at the same time, often indicating the number of objects issued at that time.
 
-## Content
+_or_
+
+* to place that object in relation to previous and subsequent editions.
+
+## Terminology
 
 {% hint style="info" %}
+Impression 3 in an edition of 20
+
 20 \[Edition of 20 impressions\]
 
 \[Edition of 2\]
