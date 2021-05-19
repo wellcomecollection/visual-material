@@ -39,7 +39,7 @@
   * [Creator](metadata-framework/metadata-elements/creator/README.md)
     * [Relator Term List](metadata-framework/metadata-elements/creator/relator-terms.md)
   * [Title/Brief Description](metadata-framework/metadata-elements/title-brief-description.md)
-  * [Inscription](metadata-framework/metadata-elements/inscription.md)
+  * [Inscription / Marks](metadata-framework/metadata-elements/inscription.md)
   * [Date](metadata-framework/metadata-elements/date.md)
   * [Dimensions](metadata-framework/metadata-elements/dimensions.md)
   * [Technique, Medium and Materials](metadata-framework/metadata-elements/technique/README.md)

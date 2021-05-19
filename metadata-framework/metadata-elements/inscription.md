@@ -2,23 +2,23 @@
 description: '2D Objects, 3D Objects'
 ---
 
-# Inscription
+# Inscription / Marks
 
 ## Definition
 
-CCO: Describe or transcribe any distinguishing or identifying physical lettering, annotations, texts, markings, or labels that are affixed, applied, stamped, written, inscribed, or attached to the work, excluding any mark or text inherent in the materials of which the work is made
+The inscription element offers a transcription \(and where necessary a description\) of any distinguishing or identifying physical lettering, annotations, texts, markings, or labels that are affixed, applied, stamped, written, inscribed, or attached to the work. It excludes any mark or text inherent in the materials of which the work is made.
+
+## Capturing an inscription
 
 Among the various types of inscriptions, it is a priority to record signatures, dates, and inscribed titles. 
 
 Inscribed titles should be recorded in the Title element 
 
-## Capturing an inscription
-
 {% tabs %}
 {% tab title="Single Object" %}
 Transcribe the inscription exactly as it appears on the object, replicating the spelling, diacritics, case and abbreviations used in the inscription. Indicate line breaks with a forward slash. 
 
-Follow each part of the 
+Follow each discrete part of the inscription with an _explanation / explanatory tag?_ 
 
 Inscribed titles must be entered into the title element of the record
 {% endtab %}
