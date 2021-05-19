@@ -22,7 +22,7 @@ Avoid abbreviations.
 
 Use lower case except when a term includes a proper name.
 
-Record terminology in English. If there is an edition statement on the work, transcribe it in the original language.
+If there is an edition statement on the work, transcribe it in the original language.
 
 {% hint style="info" %}
 3/50
@@ -31,7 +31,7 @@ Record terminology in English. If there is an edition statement on the work, tra
 
 Victoria edition
 
-Edition Muller
+Édition Müller
 {% endhint %}
 
 {% hint style="info" %}
