@@ -8,7 +8,7 @@ description: 'Prints, 2D & 3D Objects'
 
 For prints and editions of 2D and 3D objects the term edition is used to:
 
-* place a specific object in the context of a group issued at the same time, often indicating the number of objects issued at that time.
+* place a specific object in the context of multiples of the same object issued at the same time, often indicating the number of objects issued at that time.
 
 _or_
 
