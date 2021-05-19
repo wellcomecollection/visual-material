@@ -12,13 +12,13 @@ The inscription element offers a transcription \(and where necessary a descripti
 
 Among the various types of inscriptions, it is a priority to record signatures, dates, and inscribed titles. 
 
-Inscribed titles should be recorded in the Title element 
-
 {% tabs %}
 {% tab title="Single Object" %}
 Transcribe the inscription exactly as it appears on the object, replicating the spelling, diacritics, case and abbreviations used in the inscription. Indicate line breaks with a forward slash. 
 
-Follow each discrete part of the inscription with an _explanation / explanatory tag?_ 
+Follow each discrete part of the inscription with an explanation of the inscription type and location on the object. 
+
+
 
 Inscribed titles must be entered into the title element of the record
 {% endtab %}
@@ -27,6 +27,12 @@ Inscribed titles must be entered into the title element of the record
 
 {% endtab %}
 {% endtabs %}
+
+{% hint style="info" %}
+'Etched by George Cruikshank' \(signature, printed, bottom left recto\) 
+
+'Artificial Pigeon Shooting, at the Stadium, Chelsea.' \(printed, bottom centre recto\)
+{% endhint %}
 
 ## Exhaustivity
 
