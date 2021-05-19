@@ -8,9 +8,17 @@ description: Prints
 
 The term state is used to describe identical impressions printed from the same unchanged printing plate, block or stone \(matrix\). It identifies the relationship of an object created in multiples to other stages of the same object.
 
+## Types of State
 
+Numerical state
 
+Artist's proof \(or epreuve d'artiste\)
 
+Bon à tirer \(or right to print\)
+
+Hors-commerce
+
+Printer's proof
 
 
 
