@@ -10,6 +10,8 @@ The Creator element should capture the name\(s\) of those responsible for the de
 
 Creators can be individuals, groups of individuals, corporate bodies or other entities involved in the creation of an object.
 
+For Prints recording the Publisher, if known, as a creator is useful metadata.
+
 ### i. Identifying creators
 
 The names of creators should be taken from the object itself or accompanying documentation from acquisition, previous cataloguing or provenance records. Where the creator name is taken from another source ensure that information is noted in the record and include a reference to the source.
