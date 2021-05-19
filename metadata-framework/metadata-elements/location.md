@@ -1,12 +1,12 @@
 ---
-description: 'Required: 2D objects, 3D objects. Non repeatable.'
+description: 'Required: 2D objects, 3D objects, Born Digital. Non repeatable.'
 ---
 
 # Current Location
 
 ## Definition 
 
-The physical permanent location of an object or group of objects. 
+The permanent location of an object or group of objects. 
 
 ## Identifier
 
