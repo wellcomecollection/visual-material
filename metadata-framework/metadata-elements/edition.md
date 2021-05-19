@@ -8,13 +8,15 @@ description: 'Prints, 2D & 3D Objects'
 
 For prints and 2D and 3D objects produced in multiples, the term edition is used to:
 
-* place a specific object in the context of multiples of the same object issued at the same time. In the case of prints the multiples are created from the same matrix. 
+* place a specific object in the context of multiples of the same object issued at the same time. In this situation it would describe prints created from the same matrix \(plate\) or sculptures cast from the same mold. 
 
 _or_
 
 * to place that object in relation to previous and subsequent editions.
 
-## 
+## Source
+
+Edition statements may be found on the title page or within book-like works, or in inscriptions on single-sheet works. Secondary sources, such as catalogues raisonnés, can help to identify the edition of a work, as will comparison to other known instances of the same work.
 
 ## Style and Language
 
@@ -43,9 +45,10 @@ Victoria edition
 Édition Müller
 {% endhint %}
 
-{% hint style="info" %}
+## Related Elements
 
-{% endhint %}
-
-## 
+Inscriptions that indicate edition should be recorded in the **Inscriptions** element.  
+Different stages of the same work should be recorded in the **State** element.  
+The publisher of a work, who may be responsible for a particular edition should be recorded in the **Creator** element.  
+The date an edition was issued should be recorded in the creation Date element. 
 
