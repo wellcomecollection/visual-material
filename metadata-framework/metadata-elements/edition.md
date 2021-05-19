@@ -14,9 +14,25 @@ _or_
 
 * to place that object in relation to previous and subsequent editions.
 
-## Terminology
+## Style and Language
 
+Use Arabic cardinal numbers \(e.g. 5\) and ordinal numbers \(e.g. 3rd\) as appropriate.
 
+Avoid abbreviations.
+
+Use lower case except when a term includes a proper name.
+
+Record terminology in English. If there is an edition statement on the work, transcribe it in the original language.
+
+{% hint style="info" %}
+3/50
+
+3rd edition
+
+Victoria edition
+
+Edition Muller
+{% endhint %}
 
 {% hint style="info" %}
 Impression 3 in an edition of 20
