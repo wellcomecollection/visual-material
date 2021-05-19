@@ -8,7 +8,7 @@ description: Prints
 
 The term state is used to describe identical impressions printed from the same unchanged printing plate, block or stone \(matrix\). It identifies the relationship of an object created in multiples to other stages of the same object.
 
-## Types of State
+## Terminology
 
 Numerical state
 
@@ -16,7 +16,8 @@ Artist's proof \(or epreuve d'artiste\)
 
 Bon à tirer \(or right to print\)
 
-Hors-commerce
+**Hors-commerce**  
+This means "outside the commercial edition" and is used for proofs that were excluded from the numbering of an edition, and were not intended for sale, not artist's proofs, or bon à tirer. It maybe abbreviated as **HC** on the print. 
 
 Printer's proof
 
