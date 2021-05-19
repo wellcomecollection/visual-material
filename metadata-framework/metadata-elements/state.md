@@ -10,7 +10,8 @@ The term state is used to describe identical impressions printed from the same u
 
 ## Terminology
 
-Numerical state
+Numerical state  
+
 
 Artist's proof \(or epreuve d'artiste\)
 
