@@ -20,28 +20,32 @@ Edition statements may be found on the title page or within book-like works, or 
 
 ## Style and Language
 
+The metadata should describe specific edition to which the object belongs, it can be expressed as a fractional number or contextualised with a name or in relation to other objects from the same or other issues. 
+
+* For objects issued in multiples at the same time, record the edition information as a fractional number: the impression number/edition size.
+* If the impression number is unknown, record the size of the edition, if known.
 * Use Arabic cardinal numbers \(e.g. 5\) and ordinal numbers \(e.g. 3rd\) as appropriate.
-
-{% hint style="info" %}
-3rd edition
-{% endhint %}
-
-* For objects issued in multiples at the same time, record the edition information as a fractional number: the impression number/edition size
-
-{% hint style="info" %}
-3/50
-{% endhint %}
-
 * Avoid abbreviations.
 * Use lower case except when a term includes a proper name.
-
-{% hint style="info" %}
-Victoria edition
-{% endhint %}
-
 * If there is an edition statement on the work, transcribe it in the original language.
 
 {% hint style="info" %}
+3/50
+
+edition of 10 or fewer
+
+edition of approximately 100
+
+25 casts made
+
+4 known casts
+
+3rd edition
+
+subscriber's edition
+
+Victoria edition
+
 Édition Müller
 {% endhint %}
 
