@@ -36,7 +36,7 @@ If an inscription is too long to transcribe, transcribe part of it and indicate 
 
 For any words or characters that are not clear, include these within square brackets to indicate uncertainty.
 
-## Related Elements
+## Related elements
 
 * Record **watermarks** in **Materials and Technique**s element.
 * Record **inscribed titles** in the **Title** element. 
