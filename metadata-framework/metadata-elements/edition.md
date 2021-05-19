@@ -16,13 +16,10 @@ _or_
 
 ## Style and Language
 
-Use Arabic cardinal numbers \(e.g. 5\) and ordinal numbers \(e.g. 3rd\) as appropriate.
-
-Avoid abbreviations.
-
-Use lower case except when a term includes a proper name.
-
-If there is an edition statement on the work, transcribe it in the original language.
+* Use Arabic cardinal numbers \(e.g. 5\) and ordinal numbers \(e.g. 3rd\) as appropriate.
+* Avoid abbreviations.
+* Use lower case except when a term includes a proper name.
+* If there is an edition statement on the work, transcribe it in the original language.
 
 {% hint style="info" %}
 3/50
