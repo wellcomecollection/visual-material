@@ -22,7 +22,7 @@ Medium refers to a material applied to a support, typically for 2D objects
 * ‘acrylic’ in ‘acrylic painting’
 {% endhint %}
 
-Materials refers to a material used to form the object for 3D objects, or the support on which the medium is applied for 2D objects.  
+Materials refers to a material used to form the object for 3D objects, or the support\(s\) on which the medium is applied for 2D objects.  
 
 {% hint style="info" %}
 'paper' in 'cut-paper work'

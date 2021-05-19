@@ -27,7 +27,7 @@ If they are visibly showing symptoms of a medical condition **that is relevant t
 {% hint style="info" %}
 [20188i](https://wellcomecollection.org/works/w94we2mf)
 
-The hand is depicted as Caucasian with two smallpox pustules on the wrist, one pustule on the index finger and a larger darker pustule on the back of the hand. The background is dark brown at the top and dark blue at the bottom. 
+The hand is depicted as White with two smallpox pustules on the wrist, one pustule on the index finger and a larger darker pustule on the back of the hand. The background is dark brown at the top and dark blue at the bottom. 
 {% endhint %}
 
 ### Representation
@@ -37,7 +37,7 @@ Record if any part of the visual image represents a subject or idea that is non-
 {% hint style="info" %}
 [10743i](https://wellcomecollection.org/works/h7k5949x)
 
-A Caucasian woman is depicted in a white dress and bonnet and seated in a wooden chair upholstered in red fabric. The background includes a blue wall with a window, picture frame and small table in view, and a brown carpet with a red flower pattern. Several black and brown figures pull on a rope wound around her stomach and another points an arrow into her arm. Her facial expression and body position appear to show pain.
+A White woman is depicted in a white dress and bonnet and seated in a wooden chair upholstered in red fabric. The background includes a blue wall with a window, picture frame and small table in view, and a brown carpet with a red flower pattern. Several black and brown figures pull on a rope wound around her stomach and another points an arrow into her arm. Her facial expression and body position appear to show pain.
 
 The work is titled 'The cholic', and so it likely represents the muscular contractions and discomfort associated with Colic pain. \(Cataloguer's Interpretation\)
 {% endhint %}

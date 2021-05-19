@@ -10,6 +10,10 @@ Establish what you are creating a record for. Is it a single work or a group lev
 
 If there are multiple images on a single sheet, consider if there is a need to create separate records for each image. For example, there may be an image on both sides of a sheet, a record can be created for each image, with both linked to a record describing the sheet as a whole facilitating retrieval.  
 
-Is the work a unique item, such as a painting, or one created as a multiple edition, like prints and posters?   
+Is the work a unique item, such as a painting, or one created as a multiple edition, like prints and posters? 
+
+## Language 
+
+When including any information as free text ie. not controlled terminology, think about the language being used and how the information is framed. The [APA bias-free language guide](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language) is helpful to think about this process.   
 
 
