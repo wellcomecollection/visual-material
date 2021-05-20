@@ -11,7 +11,7 @@
 ## CATALOGUING AIDS <a id="dataset"></a>
 
 * [Considerations before Cataloguing](dataset/decision-making-checklist.md)
-* [Sources of Information](dataset/sources-of-information.md)
+* [Sources of Information](dataset/information-sources.md)
 * [Labelling](dataset/labelling.md)
 * [Identification](dataset/about/README.md)
   * [Identifying paintings](dataset/about/identifying-paintings/README.md)
