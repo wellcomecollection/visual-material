@@ -10,9 +10,13 @@ Establish what you are creating a record for. Is it a single object or a group? 
 
 If there are multiple images on a single sheet, consider if there is a need to create separate records for each image. For example, there may be an image on both sides of a sheet, a record can be created for each image, with both linked to a record describing the sheet as a whole facilitating retrieval.  
 
-_Question: What do we do when 2 or more works are on both sides of the same sheet - do they all take the same i number? How can we reference a specific image on the sheet?_
+_Question: Unique ID numbers & multiple images -& questions around levels of hierarchy. i number scenarios:  
+single image  
+multiple images on one side of a single sheet   
+multiple images on both sides of a single sheet  
+group of images each on separate sheets - guidelines on when to treat as a group_
 
-Is the work a unique item, such as a painting, or one created as a multiple edition, like prints and posters? 
+ 
 
 ## Language 
 
