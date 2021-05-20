@@ -1,3 +1,7 @@
+---
+description: '2D, 3D Objects, Born Digital'
+---
+
 # Exhibition Information
 
 ## Definition
