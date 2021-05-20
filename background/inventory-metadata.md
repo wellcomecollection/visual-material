@@ -1,4 +1,4 @@
-# Visual and Material Culture Inventory Metadata
+# Inventory Metadata
 
 **Visual and Material Culture Inventory**
 

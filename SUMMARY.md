@@ -6,11 +6,12 @@
 
 * [About Visual Material Collections](background/about-visual-material-collections.md)
 * [Cataloguing History](background/cataloguing-history.md)
-* [Visual and Material Culture Inventory Metadata](background/inventory-metadata.md)
+* [Inventory Metadata](background/inventory-metadata.md)
 
 ## CATALOGUING AIDS <a id="dataset"></a>
 
 * [Considerations before Cataloguing](dataset/decision-making-checklist.md)
+* [Sources of Information](dataset/sources-of-information.md)
 * [Labelling](dataset/labelling.md)
 * [Identification](dataset/about/README.md)
   * [Identifying paintings](dataset/about/identifying-paintings/README.md)
