@@ -42,11 +42,6 @@ unnumbered
 1st of 3 states \(Harrison \(1997\)\)
 {% endhint %}
 
-  
-
-
-
-
 ## Style and Language
 
 
@@ -59,7 +54,7 @@ unnumbered
 
 * If a work has been reissued at a later date this should be recorded in the **Edition** element. 
 * Different versions of a work, such as copies after a work or reproductions, are not considered states and should be recorded as **Related works**. 
-* If the block, plate or negative that a work was printed form is known to exist, it should be recorded in **Related works**. 
+* If the block, plate or negative that a work was printed from is known to exist, it should be recorded in **Related works**. 
 
 
 
