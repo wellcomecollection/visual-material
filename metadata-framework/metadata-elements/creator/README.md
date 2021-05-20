@@ -10,7 +10,7 @@ The Creator element should capture the name\(s\) of those responsible for the de
 
 Creators can be individuals, groups of individuals, corporate bodies or other entities involved in the creation of an object.
 
-For Prints recording the Publisher, if known, as a creator is useful metadata.
+For Prints - recording the Publisher, if known, as a creator is useful metadata.
 
 ### i. Identifying creators
 
