@@ -13,15 +13,17 @@ A single object should be given a unique ID number, e.g. 39222i
 Identical copies of an object should be given part numbers, e.g. 39222i.1, 39222i.2  
 The copies must be identical impressions. Prints must be printed from the same unaltered plate, with no differences in the inscription. These are considered to be the same state. If there are _any_ differences the copies must be treated as individual items and given a unique ID number. 
 
-_What about objects cast from the same mold - part numbers?_
-
 ### Multiple images
 
-  
-multiple images on one side of a single sheet 
+Multiple images on one side of a single sheet:
 
-Different impressions / p\[l;ate marks on same sheet - 2 Ids  
-Images collected on one sheet - 1 ID
+Two or more images printed from the same plate \(there will a single platemark\) = 1 object, given a single ID number. Both images are described in the record.
+
+Two or more images printed from different plates \(more than one platemark\) = 2 or more objects, allocate a unique ID to each image. Each image will have it's own record. Ensure the relationship between the images/records is clear in the catalogue. 
+
+Two or more images pasted onto or sharing a single sheet = 1 object, with 1 ID number. In the record briefly describe the images \(using cataloguers discretion to decide required specificity\) and ensure the nature and relationship of the images is clear in the record. _Sara's notes suggest an ID no for each image - check Inventory_
+
+Two or more images sharing a single mount or frame
 
   
 multiple images on both sides of a single sheet  
