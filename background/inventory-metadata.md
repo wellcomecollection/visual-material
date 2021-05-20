@@ -1,8 +1,63 @@
----
-description: >-
-  Summary of metadata added as a result of inventory (could link to inventory
-  procedural manual)
----
+# Visual and Material Culture Inventory Metadata
 
-# Inventory Metadata
+**Visual and Material Culture Inventory**
+
+The inventory of the Visual and Material Culture Collections is an audit of catalogued material and an inventory of uncatalogued material in line with the Spectrum 5.0 Inventory standard and Museum Accreditation. [https://collectionstrust.org.uk/wp-content/uploads/2017/11/Inventory.pdf](https://collectionstrust.org.uk/wp-content/uploads/2017/11/Inventory.pdf)
+
+For catalogued material we have exported data from our catalogue \(Sierra – Library Management System\) and for uncatalogued material we are creating data for the first time to understand what is held in our collections. Both catalogued and uncatalogued material is being inventoried using a database called QuickBase.
+
+Some of the data we input or select, is from a controlled list of terms and in our database can be selected from a drop-down list. These controlled terms have been agreed to keep data input consistent and to support inventory and wider colleagues to respond to a wide range of inventory encounters. Controlled terms have been agreed for: Object name, Condition, Condition damage type and for part numbering to ensure in various scenarios items can be assigned unique numbers whilst retaining relationships with other material and collections. Damage type terms have been agreed with colleagues in Collections Care to ensure data is consistent with their processes and understanding of what is meant by condition ratings good, fair, poor and unacceptable.
+
+**What is included in the Visual and Material Culture Collections Inventory?**
+
+* Prints
+* Paintings
+* Drawings
+* Photographs
+* Three-dimensional art such as sculpture and architecture.
+
+**Data headings in QuickBase**
+
+* _**Current location**_ \[Required\]
+* _**Iconographic number**_ \[Required\]
+* Accession number
+* Temporary number \(INV/YEAR/SEQUENTIAL NUMBER\)
+* _**Number of Items**_ \[Required\]
+* Part numbered \(drop down list\)
+* Part number assigned
+* Sierra volume field
+* Object name \(drop down list\)
+* Subject \(Classification/theme assigned\) \*
+* Author \(100\) \*\*
+* Author \(700\) \*\*
+* _**Title/Brief Description**_ \[Required\]
+* Lettering
+* Imprint
+* Language
+* Item Absent?
+* Absent comment \(i.e. out to exhibitions, digitisation, reader\)
+* Condition \(drop down list: Fair, Good, Poor, Unacceptable\)
+* Condition type \(drop down list\)
+* Condition comments
+* Housing/Labelling action \(rehoused, re-housing/labelling needed, labelling\)
+* Item on catalogue \(Yes, No, Partially\)
+* Metadata work required \(enhancement, correction\)
+* Metadata work comments
+* Potential sensitivity
+* Additional notes/queries
+* Current Owner \[Required\]
+* Image \(uncatalogued material\)
+* Prioritise for cataloguing
+* _**Assessed by**_ \[Required\]
+* _**Date inventoried**_ \[Required\]
+
+\*For subject classifications – we have imported existing lists into our database that cross reference to labels on containers in stores, to retain groupings and record historical cataloguing and collections management conventions.
+
+\*\* - The author fields here refer to creators, but for inventory purposes we have aligned headings with MARC as this is how the data has been organised/referred to in our existing catalogue.
+
+Terms in bold italics - These are mandatory data requirements from the Spectrum Inventory Standard.
+
+### Procedural Manual
+
+For more detail on inventory approach to recording metadata under the headings above, see the Visual and Material Culture procedural manual. \(link\)
 

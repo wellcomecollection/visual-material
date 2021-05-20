@@ -6,7 +6,7 @@
 
 * [About Visual Material Collections](background/about-visual-material-collections.md)
 * [Cataloguing History](background/cataloguing-history.md)
-* [Inventory Metadata](background/inventory-metadata.md)
+* [Visual and Material Culture Inventory Metadata](background/inventory-metadata.md)
 
 ## CATALOGUING AIDS <a id="dataset"></a>
 
