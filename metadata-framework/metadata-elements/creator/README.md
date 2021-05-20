@@ -45,7 +45,7 @@ If there is more than one version of the name in use, select the most commonly u
 
 Personal names should be structured as follows, include the known or relevant elements:
 
-Surname, First name\(s\), Title, dates of existence, role in relation to the object \(optional\).
+Surname, First name\(s\), Title, dates of existence, role in relation to the object
 
 {% hint style="info" %}
 Lichtenstein, Roy, 1923-1997, painter
