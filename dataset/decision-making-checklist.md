@@ -29,6 +29,10 @@ Consider the context in which the item was produced, and any personal data to be
 
 ## Language 
 
-When including any information as free text ie. not controlled terminology, think about the language being used and how the information is framed. The [APA bias-free language guide](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language) is helpful to think about this process.   
+When including any information as free text ie. not controlled terminology, think about the language being used and how the information is framed. The [APA bias-free language guide](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language) is helpful to think about this process. 
+
+Other links \(perhaps link to wider resource around how we catalogue inclusively\)
+
+[https://onlybrowninthebuildinghome.wpcomstaging.com/2018/11/22/archives-and-inclusivity-respectful-descriptions-of-marginalised-groups/](https://onlybrowninthebuildinghome.wpcomstaging.com/2018/11/22/archives-and-inclusivity-respectful-descriptions-of-marginalised-groups/)  
 
 
