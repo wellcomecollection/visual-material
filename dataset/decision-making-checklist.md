@@ -40,7 +40,7 @@ For each group of objects consider:
 * digitisation requirements
 * available resources and knowledge
 
-Minimum level of cataloguing for a group of objects  
+**Minimum level of cataloguing for a group of objects**  
 A single record to describe the whole group of objects. This would be allocated a single ID number. 
 
 Adding item or smaller group 
