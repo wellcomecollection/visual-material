@@ -33,12 +33,6 @@ In each instance ensure there is only **one** item record that can be ordered fo
 
 When considering a group of objects the cataloguer can choose a high level or granular approach to cataloguing. A high level approach will describe all the objects in a single record. To add granularity to this approach a hierarchy of records can be added below the collection level description. 
 
-Cataloguing Groups of Objects generally takes a hierarchical approach. But the relationships can also be linear, for instance where 
-
-Series
-
-Hierarchical Groups. 
-
 For each group of objects consider:
 
 * user need and whether the collection has been prioritised for cataloguing
