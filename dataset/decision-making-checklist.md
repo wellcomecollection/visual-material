@@ -1,19 +1,17 @@
 # Considerations before Cataloguing
 
-## What is being catalogued? 
+## What is being catalogued: single or multiple records?
 
 Establish what you are creating a record for. Is it a single object or a group of objects? This will influence the information included in the record\(s\) and how it is recorded. 
 
 This decision will also determine the allocation of unique ID numbers, and whether a part number is required. 
 
-### Single or multiple records?
-
-#### Single object
+### Single object
 
 * A single object should be given a unique ID number, e.g. 39222i 
 * Identical copies of an object should be given part numbers, e.g. 39222i.1, 39222i.2 The copies must be identical impressions. Prints must be printed from the same unaltered plate, with no differences in the inscription. These are considered to be the same state. If there are differences the copies must be treated as individual items and given a unique ID number. 
 
-**Multiple images on a single sheet**
+### **Multiple images on a single sheet**
 
 In each instance ensure there is only **one** item record that can be ordered for a single sheet. 
 
@@ -27,7 +25,8 @@ In each instance ensure there is only **one** item record that can be ordered fo
   * Mounted or framed by the artist or as part of an original collection. Retain the grouping, and:  - the preferred option is to catalogue as 1 object. Describe all the images in one record, ensuring the description clearly states the relationship of the images. Allocate a single ID number. - where it is felt the objects warrant their own record and description, catalogue as 2 or more objects. Ensure the relationship between the images/records is clear in the catalogue. Allocate an ID number with part numbers. 
   * Where the mount of framing has occurred subsequently, and is not intrinsic to the original object or collection, treat as a Group of Objects \(see below\). The objects could be separated in the future for exhibition purposes, the catalogue records must account for this potential occurrence. 
 
-  
+### Group of Objects
+
   
 group of images each on separate sheets - guidelines on when to treat as a group
 
