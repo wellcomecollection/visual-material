@@ -29,7 +29,9 @@ In each instance ensure there is only **one** item record that can be ordered fo
 
 ### Group of Objects
 
-The level of cataloguing granularity required will vary between objects and groups of objects.
+The level of cataloguing granularity required will vary between objects and groups of objects. Cataloguing Groups of Objects generally takes a hierarchical approach. But the relationships can also be linear, for instance where 
+
+Hierarchical Groups. 
 
 For each group of objects consider:
 
