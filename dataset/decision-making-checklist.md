@@ -38,7 +38,7 @@ For each group of objects consider:
 * user need and whether the collection has been prioritised for cataloguing
 * access requirements
 * digitisation requirements
-* available resources \(cataloguing expertise\)
+* available resources and knowledge
 
 Minimum level of cataloguing for a group of objects  
 A single record to describe the whole group of objects. This would be allocated a single ID number. 
