@@ -9,7 +9,7 @@ This decision will also determine the allocation of unique ID numbers, and wheth
 ### Single object
 
 * A single object should be given a unique ID number, e.g. 39222i 
-* Identical copies of an object should be given part numbers, e.g. 39222i.1, 39222i.2 The copies must be identical impressions. Prints must be printed from the same unaltered plate, with no differences in the inscription. These are considered to be the same state. If there are differences the copies must be treated as individual items and given a unique ID number. 
+* Identical copies of an object should be given part numbers, e.g. 39222i.1, 39222i.2  The copies must be identical impressions. Prints must be printed from the same unaltered plate, with no differences in the inscription. These are considered to be the same state. If there are differences the copies must be treated as individual items and given a unique ID number. 
 
 ### **Multiple images on a single sheet**
 
@@ -30,6 +30,8 @@ In each instance ensure there is only **one** item record that can be ordered fo
 ### Group of Objects
 
 The level of cataloguing granularity required will vary between objects and groups of objects. Cataloguing Groups of Objects generally takes a hierarchical approach. But the relationships can also be linear, for instance where 
+
+Series
 
 Hierarchical Groups. 
 
