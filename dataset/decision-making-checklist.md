@@ -15,11 +15,16 @@ This decision will also determine the allocation of unique ID numbers, and wheth
 
 **Multiple images on a single sheet**
 
+In each instance ensure there is only **one** item record that can be ordered for a single sheet. 
+
 * Two or more images printed from the same plate \(with a single platemark\) = 1 object, allocate a single ID number. Describe both images in the same record. 
 * Two or more images printed from different plates \(more than one platemark\) = 2 or more objects, allocate a unique ID to each image. Each image will have it's own record. Ensure the relationship between the images/records is clear in the catalogue. 
-* Two or more images pasted onto or sharing a single sheet = 1 object, with 1 ID number. In the record briefly describe the images \(using cataloguers discretion to decide required specificity\) and ensure the nature and relationship of the images is clear in the record. _Sara's notes suggest an ID no for each image - check Inventory_ 
-* Two or more images on both sides of a single sheet 
-* Two or more images sharing a single mount or frame
+* Two or more images pasted onto or sharing a single sheet = 1 object, with 1 ID number. In the record briefly describe the images \(using cataloguers discretion to decide required specificity\) and ensure the nature and relationship of the images is clear in the record.  
+* Two or more images on both sides of a single sheet. 
+  * The preferred option is to catalogue as 1 object, describe both images in one record, ensuring the description clearly states the relationship of the images. Allocate a single ID number.
+  * For unique images \(drawings, paintings\) where it is felt the objects warrant their own record and description, catalogue as 2 or more objects. Ensure the relationship between the images/records is clear in the catalogue. Allocate an ID number with part numbers. 
+* Two or more images sharing a single mount or frame. In this situation consider how and when the images were framed or mounted together.  
+  * Mounted or framed by the artist or as part of an original collection. Retain the grouping, and:  - the preferred option is to catalogue as 1 object. Describe all the images in one record, ensuring the description clearly states the relationship of the images. Allocate a single ID number. - where it is felt the objects warrant their own record and description, catalogue as 2 or more objects. Ensure the relationship between the images/records is clear in the catalogue. Allocate an ID number with part numbers.
 
   
   
