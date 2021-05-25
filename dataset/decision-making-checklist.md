@@ -11,7 +11,7 @@ This decision will also determine the allocation of unique ID numbers, and wheth
 #### Single object
 
 * A single object should be given a unique ID number, e.g. 39222i 
-* Identical copies of an object should be given part numbers, e.g. 39222i.1, 39222i.2 The copies must be identical impressions. Prints must be printed from the same unaltered plate, with no differences in the inscription. These are considered to be the same state. If there are _any_ differences the copies must be treated as individual items and given a unique ID number. 
+* Identical copies of an object should be given part numbers, e.g. 39222i.1, 39222i.2 The copies must be identical impressions. Prints must be printed from the same unaltered plate, with no differences in the inscription. These are considered to be the same state. If there are differences the copies must be treated as individual items and given a unique ID number. 
 
 **Multiple images on a single sheet**
 
