@@ -8,10 +8,12 @@ This decision will also determine the allocation of unique ID numbers, and wheth
 
 ### Single object
 
-* A single object should be given a unique ID number, e.g. 39222i 
-* Identical copies of an object should be given part numbers, e.g. 39222i.1, 39222i.2  The copies must be identical impressions. Prints must be printed from the same unaltered plate, with no differences in the inscription. These are considered to be the same state. If there are differences the copies must be treated as individual items and given a unique ID number. 
+When cataloguing a single object consider if the object is a unique item, such as a painting, or one created as a multiple edition, such prints and posters. For objects created in a multiple edition, where identical copies may exist, check the Wellcome Library catalogue for an existing record. 
 
-### **Multiple images on a single sheet**
+* A single object should be given a unique ID number, e.g. 39222i 
+* Identical copies of an object should be given part numbers, e.g. 39222i.1, 39222i.2  The copies must be identical impressions. Prints must be printed from the same unaltered plate, with no differences in the inscription. These are considered to be the same state. If there are differences the copies must be treated as individual items and given a unique ID number.  
+
+**Multiple images on a single sheet**
 
 In each instance ensure there is only **one** item record that can be ordered for a single sheet.
 
@@ -24,12 +26,14 @@ In each instance ensure there is only **one** item record that can be ordered fo
 * Two or more images sharing a single mount or frame. In this situation consider how and when the images were framed or mounted together. 
   * Mounted or framed by the artist or as part of an original collection. Retain the grouping, and: 
     * The preferred option is to catalogue as 1 object. Describe all the images in one record, ensuring the description clearly states the relationship of the images. Allocate a single ID number. 
-    * Where it is felt the images/objects warrant their own record and description, catalogue as 2 or more objects. Ensure the relationship between the images/records is clear in the catalogue. Allocate an ID number with part numbers. _Or 2 ID numbers?_  
+    * Where it is felt the images/objects warrant their own record and description, catalogue as 2 or more objects. Ensure the relationship between the images/records is clear in the catalogue. Allocate an ID number with part numbers. __
   * Where the mount or framing has occurred subsequently, and is not intrinsic to the original object or collection, treat as a Group of Objects \(see below\). The objects could be separated in the future for exhibition purposes, the catalogue record\(s\) must account for this potential occurrence.
 
-### Group of Objects
+### Groups of Objects
 
-The level of cataloguing granularity required will vary between objects and groups of objects. Cataloguing Groups of Objects generally takes a hierarchical approach. But the relationships can also be linear, for instance where 
+When considering a group of objects the cataloguer can choose a high level or granular approach to cataloguing. A high level approach will describe all the objects in a single record. To add granularity to this approach a hierarchy of records can be added below the collection level description. 
+
+Cataloguing Groups of Objects generally takes a hierarchical approach. But the relationships can also be linear, for instance where 
 
 Series
 
@@ -42,10 +46,17 @@ For each group of objects consider:
 * digitisation requirements
 * available resources \(cataloguing expertise\)
 
-  
-group of images each on separate sheets - guidelines on when to treat as a group
+Minimum level of cataloguing for a group of objects  
+A single record to describe the whole group of objects. This would be allocated a single ID number. 
 
-Is the work a unique item, such as a painting, or one created as a multiple edition, like prints and posters?
+Adding item or smaller group 
+
+
+
+**Making relationships between objects clear**  
+Where objects may not directly be part of a group of objects, but are related in some way, such as a series of posters issued by the same publisher, make sure the record identifies the relationship.
+
+
 
 ## Sensitivity checking & personal data
 
