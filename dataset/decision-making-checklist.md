@@ -24,7 +24,7 @@ In each instance ensure there is only **one** item record that can be ordered fo
 * Two or more images sharing a single mount or frame. In this situation consider how and when the images were framed or mounted together. 
   * Mounted or framed by the artist or as part of an original collection. Retain the grouping, and: 
     * The preferred option is to catalogue as 1 object. Describe all the images in one record, ensuring the description clearly states the relationship of the images. Allocate a single ID number. 
-    * Where it is felt the images/objects warrant their own record and description, catalogue as 2 or more objects. Ensure the relationship between the images/records is clear in the catalogue. Allocate an ID number with part numbers. 
+    * Where it is felt the images/objects warrant their own record and description, catalogue as 2 or more objects. Ensure the relationship between the images/records is clear in the catalogue. Allocate an ID number with part numbers. _Or 2 ID numbers?_  
   * Where the mount or framing has occurred subsequently, and is not intrinsic to the original object or collection, treat as a Group of Objects \(see below\). The objects could be separated in the future for exhibition purposes, the catalogue record\(s\) must account for this potential occurrence.
 
 ### Group of Objects
