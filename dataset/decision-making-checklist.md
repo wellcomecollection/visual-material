@@ -31,6 +31,13 @@ In each instance ensure there is only **one** item record that can be ordered fo
 
 The level of cataloguing granularity required will vary between objects and groups of objects.
 
+For each group of objects consider:
+
+* user need and whether the collection has been prioritised for cataloguing
+* access requirements
+* digitisation requirements
+* available resources \(cataloguing expertise\)
+
   
 group of images each on separate sheets - guidelines on when to treat as a group
 
