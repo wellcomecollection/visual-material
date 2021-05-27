@@ -22,7 +22,7 @@ The catalogue record should include all known identification numbers associated 
 INV.2021/278 : Inventory Number
 
 A129247 : Accession Number
-
-JOS1284 : Former Richard Saltoun stock code
 {% endhint %}
+
+
 
