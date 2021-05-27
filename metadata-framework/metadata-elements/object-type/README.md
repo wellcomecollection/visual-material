@@ -20,13 +20,6 @@ Multiple terms can be chosen for the same object or group of objects, if known o
 
 Add all relevant Object Type terms to a catalogue record to optimise the access points.
 
-For 2D graphic objects select one of the followings terms and add additional specific terms where known or appropriate:  
-  
-Print  
-Painting  
-Drawing  
-Photograph
-
 
 
 _**Future wish list:**   
