@@ -2,7 +2,7 @@
 
 Include all the relevant terms for the object or group of objects being described in the catalogue record. 
 
-For 2D graphic objects select one of the followings terms and add additional specific terms where known or appropriate:  
+For 2D graphic objects select one of the followings terms and add additional specific terms from the Object Type list where known or appropriate:  
   
 Drawing  
 Painting  
