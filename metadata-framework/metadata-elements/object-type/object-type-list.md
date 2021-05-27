@@ -4,10 +4,10 @@ Include all the relevant terms for the object or group of objects being describe
 
 For 2D graphic objects select one of the followings terms and add additional specific terms where known or appropriate:  
   
-Print  
-Painting  
 Drawing  
-Photograph
+Painting  
+Photograph  
+Print
 
 If a suitable term is not present select the most appropriate term from the Getty Art & Architecture Thesaurus. 
 
