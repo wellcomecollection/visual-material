@@ -59,5 +59,11 @@ Terms in bold italics - These are mandatory data requirements from the Spectrum 
 
 ### Procedural Manual
 
-For more detail on inventory approach to recording metadata under the headings above, see the Visual and Material Culture procedural manual. \(link\)
+For more detail on inventory approach to recording metadata under the headings above, see the Visual and Material Culture procedural manual. [https://wellcomecloud.sharepoint.com/:w:/r/sites/wc2/cr/ci/Inventory/Visual%20%26%20material%20culture/Procedure%20manual/Inventory%20planning%20-%20procedure%20manual.docx?d=w6e2b4628e60043b88bd30de3a3c40993&csf=1&web=1&e=wTwY2b](https://wellcomecloud.sharepoint.com/:w:/r/sites/wc2/cr/ci/Inventory/Visual%20%26%20material%20culture/Procedure%20manual/Inventory%20planning%20-%20procedure%20manual.docx?d=w6e2b4628e60043b88bd30de3a3c40993&csf=1&web=1&e=wTwY2b)
+
+### Assigning temporary numbers
+
+Any item or group of items processed during inventory that are uncatalogued, will be assigned a temporary number in the format 'INV/YEAR/SEQUENTIAL NUMBER'. This number will never be applied to the item directly, but can be found on the housing, folder, or container the item or groups of items are stored in. These numbers will always be written in pencil, and can be used to identify material for cataloguing.
+
+### Please note that an inventory number can apply to one item or a group of items.
 
