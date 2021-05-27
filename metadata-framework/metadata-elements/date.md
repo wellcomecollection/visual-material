@@ -18,12 +18,6 @@ Record the date the object was created or produced as standardised below.
 **Publication Date**  
 If applicable and known, record the date the object was published.
 
-**Copyright Date**  
-If applicable and known, record the object’s copyright date.
-
-**Acquisition Date**  
-If applicable and known, record the object’s acquisition date.
-
 **Other Dates**  
 For some objects there can be multiple creation dates relating to different aspects of the process, or a date range to capture a period of creation. Where necessary include a note to explain the dates given to the object. Any other known dates associated with the alteration of the object, or if the object is a copy of another, should be added to a note or description field in the record. 
 
