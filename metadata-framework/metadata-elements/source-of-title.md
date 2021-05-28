@@ -18,5 +18,7 @@ Title taken from wording on the reverse of the drawing.
 Title taken from wording within the image. 
 
 Title devised by cataloguer.
+
+Title taken from auction documents.
 {% endhint %}
 
