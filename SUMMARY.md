@@ -6,7 +6,7 @@
 
 * [About Visual Material Collections](background/about-visual-material-collections.md)
 * [Cataloguing History](background/cataloguing-history.md)
-* [Inventory Metadata](background/inventory-metadata.md)
+* [Visual and Material Culture Inventory Metadata](background/inventory-metadata.md)
 
 ## CATALOGUING AIDS <a id="dataset"></a>
 
@@ -14,20 +14,8 @@
 * [Sources of Information](dataset/sources-of-information.md)
 * [Labelling](dataset/labelling.md)
 * [Identification](dataset/about/README.md)
-  * [Identifying paintings](dataset/about/identifying-paintings/README.md)
-    * [Watercolour](dataset/about/identifying-paintings/watercolour.md)
-    * [Tempera](dataset/about/identifying-paintings/tempera.md)
-    * [Gouache](dataset/about/identifying-paintings/gouache.md)
-    * [Oil](dataset/about/identifying-paintings/oil.md)
-    * [Acrylic](dataset/about/identifying-paintings/acrylic.md)
-  * [Identifying prints](dataset/about/untitled/README.md)
-    * [Relief Prints](dataset/about/untitled/relief-prints/README.md)
-      * [Woodcut](dataset/about/untitled/relief-prints/woodcut.md)
-      * [Wood Engravings](dataset/about/untitled/relief-prints/wood-engravings.md)
-    * [Intaglio Prints](dataset/about/untitled/intaglio-prints.md)
-    * [Lithographic Prints](dataset/about/untitled/lithographic-prints.md)
-    * [Photomechanical Prints](dataset/about/untitled/photomechanical-prints.md)
-    * [Digital Prints](dataset/about/untitled/digital-prints.md)
+  * [Identifying paintings](dataset/about/identifying-paintings.md)
+  * [Identifying prints](dataset/about/untitled.md)
   * [Identifying photographs](dataset/about/specifics.md)
 
 ## METADATA FRAMEWORK
@@ -68,7 +56,7 @@
   * [Condition](metadata-framework/metadata-elements/condition.md)
   * [Access Status and Conditions](metadata-framework/metadata-elements/access-status-and-conditions.md)
   * [Copyright](metadata-framework/metadata-elements/reproduction-conditions.md)
-  * [Current Location](metadata-framework/metadata-elements/location.md)
+  * [Location](metadata-framework/metadata-elements/location.md)
 
 ## CURRENT SYSTEM GUIDELINES
 

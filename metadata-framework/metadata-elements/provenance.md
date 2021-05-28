@@ -12,9 +12,17 @@ Record information about who previously owned the object, and when and how it wa
 
 {% endhint %}
 
+For information on how to record accession number see identifying numbers. 
+
+Accession date, acquisition/purchase date. 
+
+Place of acquisition/purchase
+
+Previous owner 
+
 ## Layout
 
-Record provenance information as free text repeating provenance information from the date and identifying numbers elements if known. 
+Record provenance information as free text. 
 
 ### Transcribe Wellcome
 

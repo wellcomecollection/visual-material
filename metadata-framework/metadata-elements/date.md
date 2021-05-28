@@ -19,11 +19,13 @@ Record the date the object was created or produced as standardised below.
 If applicable and known, record the date the object was published.
 
 **Other Dates**  
-For some objects there can be multiple creation dates relating to different aspects of the process, or a date range to capture a period of creation. Where necessary include a note to explain the dates given to the object. Any other known dates associated with the alteration of the object, or if the object is a copy of another, should be added to a note or description field in the record. 
+For some objects there can be multiple creation dates relating to different aspects of the process, or a date range to capture a period of creation. Where necessary include a note to explain the dates given to the object. Any other known dates associated with the alteration of the object, or if the object is a copy of another, should be added to a note or description field in the record.
 
 {% hint style="info" %}
 photograph taken 1898, printed 1914
 {% endhint %}
+
+Information on including the date of acquisition, purchase and/or accession in a catalogue record is included in the [provenance element](provenance.md). 
 
 ### ii. Transcribed Date
 
