@@ -6,7 +6,7 @@ description: 'Required: 2D objects, 3D objects, Born Digital. Non repeatable.'
 
 ## Definition 
 
-The permanent location of an object or group of objects. 
+The current location of an object or group of objects. 
 
 ## Identifier
 
