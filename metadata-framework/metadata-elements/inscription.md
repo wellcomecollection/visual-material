@@ -34,6 +34,8 @@ Where the object has been signed by hand record this information.
 
 {% hint style="info" %}
 Signed in pencil \(bottom right recto\)
+
+Bears number '216' \(in ink top right\)
 {% endhint %}
 {% endtab %}
 
@@ -51,10 +53,12 @@ If the mark can not easily be transcribed, include a brief description of the ma
 If the mark can be attributed to a particular person or identifiable body then include this information. 
 
 {% hint style="info" %}
-
+Artist London Proof \(stamped bottom right\)
 {% endhint %}
 
 ## Exhaustivity
+
+Whether the record captures the inscriptions in totality is down to the cataloguers discretion. It is a priority to record signatures, dates, and inscribed titles.
 
 If an inscription is too long to transcribe, transcribe part of it and indicate missing text with an ellipsis.
 
