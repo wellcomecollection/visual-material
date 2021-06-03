@@ -36,6 +36,8 @@ Unnumbered states generally date from the time before a print was completed or i
 
 **Printer's proof** is used for impressions printed as tests for the printer and excluded from the numbering of an edition. It maybe found ion the print, abbreviated **PP**.
 
+The terms below are commonly used to describe unnumbered states. 
+
 {% hint style="info" %}
 bon à tirer  
 printer's proof  
@@ -43,6 +45,12 @@ hors commerce
 artist's proof  
 proof before letters  
 proof
+{% endhint %}
+
+Where a free text field allows, include an explanatory note if required, and ensure the reference to any informative text is included in the record.  
+
+{% hint style="info" %}
+1st of 3 states as identified in Andrew Robison \(1986\) Early Architectural Fantasies: Catalogue Raisonné of the Piranesi Etchings
 {% endhint %}
 
 ## Related Elements
