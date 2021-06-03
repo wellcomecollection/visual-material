@@ -38,7 +38,7 @@ Signed in pencil \(bottom right recto\)
 {% endtab %}
 
 {% tab title="Groups of Objects" %}
-
+For groups of objects capturing inscriptions is not mandatory. Consider any text on the objects that may be useful as contextual information for the group as a whole, and transcribe if that information is not clear elsewhere in the record. 
 {% endtab %}
 {% endtabs %}
 
@@ -46,7 +46,7 @@ Signed in pencil \(bottom right recto\)
 
 Where a stamp or mark can be transcribed, include a transcription, followed by a brief explanation of the mark type.
 
-If the mark can not easily be transcribed, include a brief description of the mark type.
+If the mark can not easily be transcribed, include a brief description of the mark.
 
 If the mark can be attributed to a particular person or identifiable body then include this information. 
 
