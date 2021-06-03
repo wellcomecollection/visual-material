@@ -26,27 +26,23 @@ State is often expressed by a number indicating the place of the state in relati
 
 ### Unnumbered states
 
-Artist's proof \(or epreuve d'artiste\)
+Unnumbered states generally date from the time before a print was completed or in circulation. identified by specific terms
 
-Bon à tirer \(or right to print\)
+**Artist's proof:** Use artist's proof \(or epreuve d'artiste\) for impressions printed especially for the artist and excluded from the numbering of an edition. On the print, you may find it abbreviated as AP or EA, and numbered with an edition number according to the number of artist's proofs pulled \(e.g., AP 2/12\).  
+  
+**Bon à tirer:** Use bon à tirer \(or right to print\) for the proof approved by the artist to establish the standard for all of the other prints in the edition.
 
-**Hors commerce**  
-This means "outside the commercial edition" and is used for proofs that were excluded from the numbering of an edition, and were not intended for sale, not artist's proofs, or bon à tirer. It maybe abbreviated as **HC** on the print.
+**Hors commerce:** This means "outside the commercial edition" and is used for proofs that were excluded from the numbering of an edition, and were not intended for sale, not artist's proofs, or bon à tirer. It maybe abbreviated as **HC** on the print.
 
-Printer's proof
+**Printer's proof:** Use printer's proof for impressions printed as tests for the printer and excluded from the numbering of an edition. You may find it abbreviated PP on the print.
 
 {% hint style="info" %}
 bon à tirer  
 printer's proof  
 hors commerce  
-final state  
 artist's proof  
 proof before letters  
-experimental proof  
-progressive proof  
-printer's proof  
-counter proof  
-unnumbered  
+proof
 {% endhint %}
 
 ## Related Elements
