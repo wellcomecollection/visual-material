@@ -46,7 +46,7 @@ Signed in pencil \(bottom right recto\)
 
 Where a stamp or mark can be transcribed, include a transcription, followed by a brief explanation of the mark type.
 
-If the mark can not easily be transcribe, include a brief description of the mark type.
+If the mark can not easily be transcribed, include a brief description of the mark type.
 
 If the mark can be attributed to a particular person or identifiable body then include this information. 
 
@@ -59,7 +59,7 @@ If the mark can be attributed to a particular person or identifiable body then i
 If an inscription is too long to transcribe, transcribe part of it and indicate missing text with an ellipsis.
 
 {% hint style="info" %}
-The Doecker hospital huts recently purchased for  the accommodation of the wounded sent home from South Africa ... from a photograph by Stephen Cribb, Southsea
+The Doecker hospital huts recently purchased for the accommodation of the wounded sent home from South Africa ... from a photograph by Stephen Cribb, Southsea
 {% endhint %}
 
 ## Ambiguity and uncertainty
