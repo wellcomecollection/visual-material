@@ -44,6 +44,16 @@ Signed in pencil \(bottom right recto\)
 
 ## Capturing stamps and ownership marks
 
+Where a stamp or mark can be transcribed, include a transcription, followed by a brief explanation of the mark type.
+
+If the mark can not easily be transcribe, include a brief description of the mark type.
+
+If the mark can be attributed to a particular person or identifiable body then include this information. 
+
+{% hint style="info" %}
+
+{% endhint %}
+
 ## Exhaustivity
 
 If an inscription is too long to transcribe, transcribe part of it and indicate missing text with an ellipsis.
