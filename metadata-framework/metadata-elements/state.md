@@ -4,15 +4,25 @@ description: Prints
 
 # State
 
-## UNFINISHED DRAFT
-
 ## Definition
 
 The term state is used to describe identical impressions printed from the same unchanged printing plate, block or stone \(matrix\). It identifies the relationship of an object created in multiples to other stages of the same object.
 
-Types of State
+While state generally refers to prints, some of the same terminology is applied to sculptures, in reference to their state, such as artists proof.
 
-Numbered and named states
+This element aims to contain any known information related to an objects state.
+
+## Types of state and terminology
+
+### Numbered and named states
+
+State is often expressed by a number indicating the place of the state in relation to other known states. This is generally noted in conjunction with the name of the person who identified the known states and the date they published their research. 
+
+{% hint style="info" %}
+1st of 3 states \(Harrison \(1997\)\)
+
+3rd state as described in: Harrison, T. \(1997\) Hogarth's graphic works
+{% endhint %}
 
 Unnumbered states
 
@@ -39,7 +49,6 @@ progressive proof
 printer's proof  
 counter proof  
 unnumbered  
-1st of 3 states \(Harrison \(1997\)\)
 {% endhint %}
 
 ## Style and Language
