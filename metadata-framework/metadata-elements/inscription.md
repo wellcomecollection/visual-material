@@ -58,4 +58,5 @@ For any words or characters that are not clear, include these within square brac
 
 * Record **watermarks** in **Materials and Technique**s element.
 * Record **inscribed titles** in the **Title** element. 
+* Where **names** occur in text in the image, consider including them as entries in the subject, creator or provenance elements. 
 
