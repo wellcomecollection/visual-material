@@ -19,15 +19,15 @@ Transcribe the inscription exactly as it appears on the object, replicating the 
 Follow each discrete part of the inscription with an explanation of the inscription type and location on the object.
 
 {% hint style="info" %}
-'Etched by George Cruikshank' \(signature, printed, bottom left recto\)
+Etched by George Cruikshank \(signature, printed, bottom left recto\)
 
-'Artificial Pigeon Shooting, at the Stadium, Chelsea.' \(printed, bottom centre recto\)
+Artificial Pigeon Shooting, at the Stadium, Chelsea \(printed, bottom centre recto\)
 
-'Publish'd according to Act of Parliament Feb 1 1750' \(printed, bottom centre left recto\)
+Publish'd according to Act of Parliament Feb 1 1750 \(printed, bottom centre left recto\)
 
-'Design'd by W. Hogarth' \(printed, bottom left recto\) 
+Design'd by W. Hogarth \(printed, bottom left recto\) 
 
-'Pinewood. Parks, Margaret. 9.1.67' \(the name of the artist, the house at the hospital, the date of the work are written on the verso by Edward Adamson\)
+Pinewood. Parks, Margaret. 9.1.67 \(the name of the artist, the house at the hospital, the date of the work are written on the verso by Edward Adamson\)
 {% endhint %}
 
 Where the object has been signed by hand record this information. 
