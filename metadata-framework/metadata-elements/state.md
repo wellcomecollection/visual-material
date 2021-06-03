@@ -24,7 +24,7 @@ State is often expressed by a number indicating the place of the state in relati
 3rd state as described in: Harrison, T. \(1997\) Hogarth's graphic works
 {% endhint %}
 
-Unnumbered states
+### Unnumbered states
 
 Artist's proof \(or epreuve d'artiste\)
 
@@ -34,8 +34,6 @@ Bon à tirer \(or right to print\)
 This means "outside the commercial edition" and is used for proofs that were excluded from the numbering of an edition, and were not intended for sale, not artist's proofs, or bon à tirer. It maybe abbreviated as **HC** on the print.
 
 Printer's proof
-
-## Terminology
 
 {% hint style="info" %}
 bon à tirer  
@@ -50,8 +48,6 @@ printer's proof
 counter proof  
 unnumbered  
 {% endhint %}
-
-## Style and Language
 
 ## Related Elements
 
