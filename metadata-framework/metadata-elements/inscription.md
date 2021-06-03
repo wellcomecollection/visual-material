@@ -42,6 +42,8 @@ Signed in pencil \(bottom right recto\)
 {% endtab %}
 {% endtabs %}
 
+## Capturing stamps and ownership marks
+
 ## Exhaustivity
 
 If an inscription is too long to transcribe, transcribe part of it and indicate missing text with an ellipsis.
@@ -58,5 +60,5 @@ For any words or characters that are not clear, include these within square brac
 
 * Record **watermarks** in **Materials and Technique**s element.
 * Record **inscribed titles** in the **Title** element. 
-* Where **names** occur in text in the image, consider including them as entries in the **Subject** or **Creator** elements. 
+* Where **names** occur in text in the image, consider including them as entries in the **Subject** or **Creator** elements.  
 
