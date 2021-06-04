@@ -28,7 +28,7 @@ In each instance ensure there is only **one** item record that can be ordered fo
 
 
 
-  * Series - part number  
+  * Where the images are part of a series, catalogue as separate objects and allocate an ID with a part number.
 
 * Two or more images sharing a single mount or frame. In this situation consider how and when the images were framed or mounted together. 
   * Mounted or framed by the artist or as part of an original collection. Retain the grouping, and: 
@@ -45,19 +45,22 @@ For each group of objects consider:
 * user need and whether the collection has been prioritised for cataloguing
 * access requirements
 * digitisation requirements
-* available resources and knowledge how were the objects found - ready grouped Intended as a series?
+* available resources and knowledge
+* how were the objects found, were they already in a group?
+* were the objects intended as a series by the creator?
 
 **Minimum level of cataloguing for a group of objects**  
 A single record to describe the whole group of objects. This would be allocated a single ID number. 
 
-Part number - series & duplicate 
+### **Part numbers**
 
-Part of a already catalogued item - add a part number
+Part numbers are used in the following situations:
 
-**Making relationships between objects clear**  
-Where objects may not directly be part of a group of objects, but are related in some way, such as a series of posters issued by the same publisher, make sure the record identifies the relationship.
-
-
+* for identical objects
+* for objects given their own catalogue record, but sharing a sheet
+* for objects given their own catalogue record, but sharing a mount or frame
+* where the object is part of a already catalogued item
+* where the object is part of a series  _\*\*\*need to discuss this further\*\*\*_
 
 ## Sensitivity checking & personal data
 
