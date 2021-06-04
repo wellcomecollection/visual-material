@@ -52,7 +52,7 @@ For each group of objects consider:
 **Minimum level of cataloguing for a group of objects**  
 A single record to describe the whole group of objects. This would be allocated a single ID number. 
 
-### **Part numbers**
+## **Part numbers**
 
 Part numbers are used in the following situations:
 
