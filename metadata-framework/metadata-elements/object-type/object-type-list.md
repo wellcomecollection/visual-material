@@ -7,6 +7,7 @@ Select all that are applicable to the objector group of objects being catalogued
 | Album |
 | Architectural drawing |
 | Banner |
+| Bust |
 | Cabinet photograph |
 | Carte de visite |
 | Collage |
