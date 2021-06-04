@@ -34,6 +34,6 @@ Object type terms for 2D graphic objects maybe duplicated in the **Technique** e
 
 
 _**Future wish list:**   
-- the cataloguing system to include a pick list of Object types.  
+- the cataloguing system to include a pick list of Object types. The current system setup will necessitate the use of both the Wellcome genre list and the Object type list.  
 - the cataloguing system or search interface can identify relevant hierarchical relationships between object types, such as Print and Poster._
 
