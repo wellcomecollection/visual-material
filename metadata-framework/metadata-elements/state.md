@@ -10,7 +10,7 @@ The term state is used to describe identical impressions printed from the same u
 
 While state generally refers to prints, some of the same terminology is applied to sculptures, in reference to their state, such as artists proof.
 
-This element aims to contain any known information related to an objects state.
+This element contains any known information related to an objects state.
 
 ## Types of state and terminology
 
