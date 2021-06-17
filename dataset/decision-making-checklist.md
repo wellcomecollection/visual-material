@@ -60,7 +60,7 @@ Part numbers are used in the following situations:
 * for objects given their own catalogue record, but sharing a sheet
 * for objects given their own catalogue record, but sharing a mount or frame
 * where the object is part of a already catalogued item
-* where the object is part of a series  _\*\*\*need to discuss this further\*\*\*_
+* for objects that were conceived as a set, the cataloguer can choose to use part numbers
 
 ## Sensitivity checking & personal data
 
