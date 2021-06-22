@@ -20,7 +20,7 @@ At minimum the largest dimensions of the object should be recorded but enhanced 
 
 ## Unit of measurement
 
-Record dimensions in metric units, rounded up to the nearest mm
+Record dimensions in metric units, rounded up to the nearest cm
 
 ## Areas of Measurement
 
