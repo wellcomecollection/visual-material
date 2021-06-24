@@ -4,7 +4,7 @@ description: Purpose of the framework and what it applies to
 
 # Scope
 
-The metadata framework identifies relevant metadata categories \(elements\) for cataloguing an object from the Visual and Material Culture collection. The identified metadata elements aim to ensure catalogue  records contain common metadata content regardless of the system used for cataloguing.
+The metadata framework identifies relevant metadata categories \(elements\) for cataloguing an object from the Visual and Material Culture collection. The identified elements aim to ensure catalogue  records contain common metadata content regardless of the system used for cataloguing.
 
 The framework reflects the approach of [Cataloguing Cultural Objects CCO](https://vraweb.org/resources/cataloging-cultural-objects/) with additional practices taken from [Categories for the Description of Works of Art CDWA](http://www.getty.edu/research/publications/electronic_publications/cdwa/).
 
