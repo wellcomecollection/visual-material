@@ -23,7 +23,6 @@
 ## METADATA FRAMEWORK
 
 * [Scope](metadata-framework/scope.md)
-* [Metadata Crosswalk](metadata-framework/metadata-crosswalk.md)
 * [Metadata Table](metadata-framework/metadata-table.md)
 * [Metadata Elements](metadata-framework/metadata-elements/README.md)
   * [Identification Number](metadata-framework/metadata-elements/identification-number.md)
@@ -59,6 +58,7 @@
   * [Access Status and Conditions](metadata-framework/metadata-elements/access-status-and-conditions.md)
   * [Copyright](metadata-framework/metadata-elements/reproduction-conditions.md)
   * [Location](metadata-framework/metadata-elements/location.md)
+* [Metadata Crosswalk](metadata-framework/metadata-crosswalk.md)
 
 ## CURRENT SYSTEM GUIDELINES
 
