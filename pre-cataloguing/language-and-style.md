@@ -10,5 +10,7 @@ Other links \(perhaps link to wider resource around how we catalogue inclusively
 
 The National Library of Scotland have been working on a glossary of terms - link when available
 
-[https://onlybrowninthebuildinghome.wpcomstaging.com/2018/11/22/archives-and-inclusivity-respectful-descriptions-of-marginalised-groups/](https://onlybrowninthebuildinghome.wpcomstaging.com/2018/11/22/archives-and-inclusivity-respectful-descriptions-of-marginalised-groups/)
+{% embed url="https://onlybrowninthebuildinghome.wpcomstaging.com/2018/11/22/archives-and-inclusivity-respectful-descriptions-of-marginalised-groups/" %}
+
+## Style
 
