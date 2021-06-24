@@ -11,7 +11,7 @@
 
 ## PRE CATALOGUING DECISIONS <a id="pre-cataloguing"></a>
 
-* [Considerations before Cataloguing](pre-cataloguing/decision-making-checklist.md)
+* [Single & Groups of Objects: Numbering](pre-cataloguing/single-group-objects.md)
 * [Sources of Information](pre-cataloguing/sources-of-information.md)
 * [Labelling](pre-cataloguing/labelling.md)
 * [Identification](pre-cataloguing/about/README.md)
