@@ -9,7 +9,7 @@
 * [Visual and Material Culture Inventory Metadata](background/inventory-metadata.md)
 * [Historical Numbering Systems](background/historical-numbering.md)
 
-## PRE CATALOGUING DECISIONS <a id="pre-cataloguing"></a>
+## PRE CATALOGUING CONSIDERATIONS <a id="pre-cataloguing"></a>
 
 * [Single Objects & Groups of Objects](pre-cataloguing/single-group-objects.md)
 * [Sources of Information](pre-cataloguing/sources-of-information.md)
