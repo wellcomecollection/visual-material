@@ -24,7 +24,6 @@
 
 * [Scope](metadata-framework/scope.md)
 * [Metadata Elements](metadata-framework/metadata-elements/README.md)
-  * [Metadata Table](metadata-framework/metadata-elements/metadata-table.md)
   * [Identification Number](metadata-framework/metadata-elements/identification-number.md)
   * [Number of Objects](metadata-framework/metadata-elements/number-of-objects.md)
   * [Object Type](metadata-framework/metadata-elements/object-type/README.md)
@@ -58,6 +57,7 @@
   * [Access Status and Conditions](metadata-framework/metadata-elements/access-status-and-conditions.md)
   * [Copyright](metadata-framework/metadata-elements/reproduction-conditions.md)
   * [Location](metadata-framework/metadata-elements/location.md)
+* [Metadata Table](metadata-framework/metadata-table.md)
 * [Metadata Crosswalk](metadata-framework/metadata-crosswalk.md)
 
 ## CURRENT SYSTEM GUIDELINES
