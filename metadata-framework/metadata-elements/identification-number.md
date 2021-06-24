@@ -22,6 +22,8 @@ The catalogue record should include all known identification numbers associated 
 INV.2021/278 : Inventory Number
 
 A129247 : Accession Number
+
+R98/1937 : WHMM Registration Number
 {% endhint %}
 
 ### Accession Numbers and Registration Numbers
