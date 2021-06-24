@@ -11,7 +11,7 @@
 
 ## PRE CATALOGUING DECISIONS <a id="pre-cataloguing"></a>
 
-* [Single & Groups of Objects: Numbering](pre-cataloguing/single-group-objects.md)
+* [Single Objects & Groups of Objects](pre-cataloguing/single-group-objects.md)
 * [Sources of Information](pre-cataloguing/sources-of-information.md)
 * [Sensitivity](pre-cataloguing/sensitivity.md)
 * [Language & Style](pre-cataloguing/language-and-style.md)

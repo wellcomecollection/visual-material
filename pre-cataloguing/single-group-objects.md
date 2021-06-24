@@ -1,4 +1,4 @@
-# Single & Groups of Objects: Numbering
+# Single Objects & Groups of Objects
 
 ## What is being catalogued: single or multiple records?
 
@@ -62,19 +62,7 @@ Part numbers are used in the following situations:
 * where the object is part of a already catalogued item
 * for objects that were conceived as a set, the cataloguer can choose to use part numbers
 
-## Sensitivity checking & personal data
+## 
 
-Consider the context in which the item was produced, and any personal data to be included in the bibliographic record - was the item produced in a context that would warrant sensitivity considerations, such as a therapy session? Consult [Access to personal data within our research collections](http://wellcomelibrary.org/content/documents/policy-documents/access-to-personal-data.pdf) to identify material that should be considered for restricted access or personal data that should not be made public.
-
-## Language
-
-When including any information as free text ie. not controlled terminology, think about the language being used and how the information is framed. The [APA bias-free language guide](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language) is helpful to think about this process.
-
-Other links \(perhaps link to wider resource around how we catalogue inclusively\)
-
-[Words Matter](https://www.tropenmuseum.nl/en/about-tropenmuseum/words-matter-publication) - complied by the Troppen Museum, contains a glossary which contextualises historical terms commonly used in museum collections.
-
-The National Library of Scotland have been working on a glossary of terms - link when available
-
-[https://onlybrowninthebuildinghome.wpcomstaging.com/2018/11/22/archives-and-inclusivity-respectful-descriptions-of-marginalised-groups/](https://onlybrowninthebuildinghome.wpcomstaging.com/2018/11/22/archives-and-inclusivity-respectful-descriptions-of-marginalised-groups/)
+## 
 
