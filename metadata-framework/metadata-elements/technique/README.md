@@ -72,7 +72,7 @@ If hand-coloured or otherwise a notable characteristic of the object, see the [C
 
 ## Identification
 
-To help with identifying techniques, mediums and materials, please see the [Identification section](../../../dataset/about/specifics.md). 
+To help with identifying techniques, mediums and materials, please see the [Identification section](../../../pre-cataloguing/about/specifics.md). 
 
 
 

@@ -9,15 +9,15 @@
 * [Visual and Material Culture Inventory Metadata](background/inventory-metadata.md)
 * [Historical Numbering Systems](background/historical-numbering.md)
 
-## CATALOGUING AIDS <a id="dataset"></a>
+## PRE CATALOGUING DECISIONS <a id="pre-cataloguing"></a>
 
-* [Considerations before Cataloguing](dataset/decision-making-checklist.md)
-* [Sources of Information](dataset/sources-of-information.md)
-* [Labelling](dataset/labelling.md)
-* [Identification](dataset/about/README.md)
-  * [Identifying paintings](dataset/about/identifying-paintings.md)
-  * [Identifying prints](dataset/about/untitled.md)
-  * [Identifying photographs](dataset/about/specifics.md)
+* [Considerations before Cataloguing](pre-cataloguing/decision-making-checklist.md)
+* [Sources of Information](pre-cataloguing/sources-of-information.md)
+* [Labelling](pre-cataloguing/labelling.md)
+* [Identification](pre-cataloguing/about/README.md)
+  * [Identifying paintings](pre-cataloguing/about/identifying-paintings.md)
+  * [Identifying prints](pre-cataloguing/about/untitled.md)
+  * [Identifying photographs](pre-cataloguing/about/specifics.md)
 
 ## METADATA FRAMEWORK
 
