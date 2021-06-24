@@ -13,7 +13,7 @@
 
 * [Single & Groups of Objects: Numbering](pre-cataloguing/single-group-objects.md)
 * [Sources of Information](pre-cataloguing/sources-of-information.md)
-* [Labelling](pre-cataloguing/labelling.md)
+* [Sensitivity](pre-cataloguing/sensitivity.md)
 * [Identification](pre-cataloguing/about/README.md)
   * [Identifying paintings](pre-cataloguing/about/identifying-paintings.md)
   * [Identifying prints](pre-cataloguing/about/untitled.md)
