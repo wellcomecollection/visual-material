@@ -4,10 +4,9 @@
 
 ## BACKGROUND
 
-* [About Visual Material Collections](background/about-visual-material-collections.md)
 * [Cataloguing History](background/cataloguing-history.md)
 * [Visual and Material Culture Inventory Metadata](background/inventory-metadata.md)
-* [Historical Numbering Systems](background/historical-numbering.md)
+* [Historic Numbering Systems](background/historic-numbering.md)
 
 ## PRE CATALOGUING CONSIDERATIONS <a id="pre-cataloguing"></a>
 
@@ -22,7 +21,6 @@
 
 ## METADATA FRAMEWORK
 
-* [Scope](metadata-framework/scope.md)
 * [Metadata Elements](metadata-framework/metadata-elements/README.md)
   * [Identification Number](metadata-framework/metadata-elements/identification-number.md)
   * [Number of Objects](metadata-framework/metadata-elements/number-of-objects.md)
