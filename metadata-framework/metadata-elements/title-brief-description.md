@@ -16,6 +16,14 @@ The title or name given to an object, or a brief description of the object. This
 
 ### Descriptive Title
 
+## Title Source
+
+Record the source of the main title used in the record. Where possible select the appropriate text from the list below:
+
+* Title provided by the artist.
+* This work is untitled; the title has been supplied by the cataloguer for identification purposes.
+* Title taken from the Catalogue of prints & drawings in the British Museum.
+
 ## Preferred and Alternative Titles
 
 Record the title by which the object is known by at the owning institution as the preferred or main title.
@@ -26,13 +34,7 @@ Record all the known titles or names that have been associated with a work.
 
 ## Amending the preferred title
 
-## Title Source
-
-Record the source of the main title used in the record. Where possible select the appropriate text from the list below:
-
-* Title provided by the artist.
-* This work is untitled; the title has been supplied by the cataloguer for identification purposes.
-* Title taken from the Catalogue of prints & drawings in the British Museum.
+## 
 
 
 
