@@ -22,6 +22,8 @@ The title or name given to an object, or a brief description of the object. This
 
 ## Title Source
 
+Record whether the current title has been taken from the object itself, from the creator, from previous owners, from supporting documentation including purchase information, or whether the title is a brief description of the work created by the cataloguer. 
+
 Record the source of the preferred \(main\) title used in the record. Where possible select the appropriate text from the list below:
 
 * Title provided by the artist.
@@ -36,7 +38,7 @@ Where the preferred title is a Given title or Inscribed title, ensure a Descript
 
 Record all the known titles or names that have been associated with a work. 
 
-## Amending the preferred title
+## Amending the Preferred Title
 
 ## 
 
