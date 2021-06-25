@@ -4,8 +4,6 @@
 
 The title or name given to an object, or a brief description of the object. This element is essential, even when an object has no given title and can only be given a name or a brief description. It offers a name by which to refer to the object and aids identification. 
 
-Record all the known titles or names that have been associated with a work. 
-
 ## Types of Title
 
 ### Given Title
@@ -17,6 +15,14 @@ Record all the known titles or names that have been associated with a work.
 
 
 ### Descriptive Title
+
+## Preferred and Alternative Titles
+
+Record the title by which the object is known by the owning institution as the preferred or main title.
+
+Where the preferred title is a given or inscribed title, ensure a descriptive title is also included in the record.
+
+Record all the known titles or names that have been associated with a work. 
 
 ## Title Source
 
