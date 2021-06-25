@@ -4,9 +4,11 @@
 
 The title or name given to an object, or a brief description of the object. This element is essential, even when an object has no given title and can only be given a name or a brief description. It offers a name by which to refer to the object and aids identification. 
 
+Record all the known titles or names that have been associated with a work. 
+
 ## Types of Title
 
-### Title given by Creator
+### Given Title
 
 
 
@@ -14,11 +16,13 @@ The title or name given to an object, or a brief description of the object. This
 
 
 
-### Brief Descriptive Title
+### Descriptive Title
 
 
 
-## Alternative Titles
+
+
+
 
 
 
