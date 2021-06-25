@@ -18,11 +18,13 @@ The title or name given to an object, or a brief description of the object. This
 
 ## Preferred and Alternative Titles
 
-Record the title by which the object is known by the owning institution as the preferred or main title.
+Record the title by which the object is known by at the owning institution as the preferred or main title.
 
 Where the preferred title is a given or inscribed title, ensure a descriptive title is also included in the record.
 
 Record all the known titles or names that have been associated with a work. 
+
+## Amending the preferred title
 
 ## Title Source
 
