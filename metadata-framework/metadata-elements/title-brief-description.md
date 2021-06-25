@@ -1,6 +1,16 @@
 # Title/Brief Description
 
-Current guidance: [https://wellcomecloud.sharepoint.com/:w:/r/sites/wc2/cr/ci/\_layouts/15/Doc.aspx?sourcedoc=%7B286C6350-542F-4237-9C7A-C776E9B9521D%7D&file=Visual%20%26%20Material%20Description%20Rules%202017.docx&action=default&mobileredirect=true&DefaultItemOpen=1](https://wellcomecloud.sharepoint.com/:w:/r/sites/wc2/cr/ci/_layouts/15/Doc.aspx?sourcedoc=%7B286C6350-542F-4237-9C7A-C776E9B9521D%7D&file=Visual%20%26%20Material%20Description%20Rules%202017.docx&action=default&mobileredirect=true&DefaultItemOpen=1)
+## Definition
+
+The title or name given to an object, or a brief description of the object. This element is essential, even when an object has no given title and can only be given a name or a brief description. It offers a name by which to refer to the object and aids identification. 
+
+
+
+Title given by creator
+
+Inscribed title / caption title
+
+Brief descriptive title
 
 
 

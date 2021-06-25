@@ -6,7 +6,7 @@
 
 * [Cataloguing History](background/cataloguing-history.md)
 * [Visual and Material Culture Inventory Metadata](background/inventory-metadata.md)
-* [Historical Numbering Systems](background/historical-numbering.md)
+* [Historic Numbering Systems](background/historic-numbering.md)
 
 ## PRE CATALOGUING CONSIDERATIONS <a id="pre-cataloguing"></a>
 
