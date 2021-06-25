@@ -22,9 +22,7 @@ The title or name given to an object, or a brief description of the object. This
 
 ## Title Source
 
-Record whether the current title has been taken from the object itself, from the creator, from previous owners, from supporting documentation including purchase information, or whether the title is a brief description of the work created by the cataloguer. 
-
-Record the source of the preferred \(main\) title used in the record. Where possible select the appropriate text from the list below:
+Record the source of the preferred \(main\) title used in the record. Record if the title has been taken from the object itself, from the creator, from previous owners, from supporting documentation, or whether the title is a brief description of the work created by the cataloguer. Where possible select the appropriate text from the list below:
 
 * Title provided by the artist.
 * This work is untitled; the title has been supplied by the cataloguer for identification purposes.
