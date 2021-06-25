@@ -8,7 +8,7 @@ The title or name given to an object, or a brief description of the object. This
 
 ### Given Title
 
-
+Titles assigned to the work by the creator.
 
 ### Inscribed Title / Caption Title
 
@@ -38,7 +38,11 @@ Record all the known titles or names that have been associated with a work.
 
 ## Amending the Preferred Title
 
-## 
+## The use of Untitled as a title
+
+When a creator assigns Untitled as the title of an object, this should be used as the preferred title in the record.
+
+Untitled should not be used as a title when an object has no given title.
 
 
 
