@@ -6,15 +6,15 @@ The title or name given to an object, or a brief description of the object. This
 
 ## Types of Title
 
-### Title given by creator
+### Title given by Creator
 
 
 
-### Inscribed title / caption title
+### Inscribed Title / Caption Title
 
 
 
-### Brief descriptive title
+### Brief Descriptive Title
 
 
 
