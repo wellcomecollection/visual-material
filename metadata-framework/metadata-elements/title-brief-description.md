@@ -4,13 +4,21 @@
 
 The title or name given to an object, or a brief description of the object. This element is essential, even when an object has no given title and can only be given a name or a brief description. It offers a name by which to refer to the object and aids identification. 
 
+## Types of Title
+
+### Title given by creator
 
 
-Title given by creator
 
-Inscribed title / caption title
+### Inscribed title / caption title
 
-Brief descriptive title
+
+
+### Brief descriptive title
+
+
+
+## Alternative Titles
 
 
 
