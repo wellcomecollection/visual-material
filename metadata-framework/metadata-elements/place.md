@@ -18,10 +18,12 @@ Stanleyville
 Kisangani, Democratic Republic of the Congo
 {% endhint %}
 
-Otherwise record as town/city, country, where known.
+Otherwise record as current town/city then country, where known.
 
 {% hint style="info" %}
 Philadelphia, United States of America
+
+United Kingdom
 {% endhint %}
 
 If place of creation or publication is unknown, use the geographic or cultural origin of the creator instead.  

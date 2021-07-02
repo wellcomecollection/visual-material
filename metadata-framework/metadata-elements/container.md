@@ -33,3 +33,7 @@ Multiple containers may be included in natural language order
 
 The dimensions of a container, if relevant, may be recorded as part of the [dimensions](dimensions.md) element.
 
+## Related Elements 
+
+If cataloguing a grouping of material, the container may instead be understood as the [object type](object-type/). 
+

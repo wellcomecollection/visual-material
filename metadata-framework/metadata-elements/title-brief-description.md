@@ -2,7 +2,7 @@
 
 ## Definition
 
-The title or name given to an object, or a brief description of the object. This element is essential, even when an object has no given title and can only be given a name or a brief description. It offers a name by which to refer to the object and aids identification. 
+The title or name given to an object, or a brief description of the object. This element is essential, even when an object has no given title and can only be given a brief description. It offers a name by which to refer to the object and aids identification. 
 
 ## Types of Title 
 
@@ -33,7 +33,7 @@ A woman cradling a baby being watched by another woman.  [3025148i](https://well
 
 Studio Portraits of Marthe Vogt.  [PP/MLV/E/2/1](https://wellcomecollection.org/works/u6dgfwtr)
 
-Print in blue,black and yellow. PPAMI/C/1/17
+Print in blue, black and yellow. PPAMI/C/1/17
 {% endhint %}
 
 ## Title Source

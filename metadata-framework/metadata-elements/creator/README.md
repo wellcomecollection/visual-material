@@ -10,7 +10,7 @@ The Creator element should capture the name\(s\) of those responsible for the de
 
 Creators can be individuals, groups of individuals, corporate bodies or other entities involved in the creation of an object.
 
-For Prints - recording the Publisher, if known, as a creator is useful metadata.
+For published works, particularly prints, recording the publisher, if known, as a creator is also useful. 
 
 ### i. Identifying creators
 
@@ -82,15 +82,7 @@ In addition to the creator name, record the relationship of that person/entity t
 
 ### vii. Multiple creators
 
-{% tabs %}
-{% tab title="Individual Object" %}
-If multiple entities were involved in creating the object record all of them in the manner above. If they are too numerous, record the most important or most prominent. This includes both individuals and organisations involved in the commission, production, copying, alteration and/or publication.
-{% endtab %}
-
-{% tab title="Group of Objects" %}
-If multiple entities were involved in creating the group of objects \(such as photo albums\), record all of them in the manner above. If they are too numerous, record the most important or most prominent. This includes both individuals and organisations involved in the commission, production, copying, alteration and/or publication.
-{% endtab %}
-{% endtabs %}
+If multiple entities were involved in creating the object or group of objects, record all of them in the manner above. If they are too numerous, record the most important or most prominent. This includes both individuals and organisations involved in the commission, production, copying, alteration and/or publication.
 
 ### viii. Biographical details
 
@@ -98,5 +90,6 @@ Include biographical information on the creator when such information is not com
 
 _Future Wish List:_  
 _CCO ideal: in-house name authority list.  
-CCO would record Nationality._
+CCO would record Nationality.        
+CCO use of relator terms_      
 
