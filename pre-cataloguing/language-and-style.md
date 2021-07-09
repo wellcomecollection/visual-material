@@ -1,5 +1,7 @@
 # Language & Style
 
+Metadata created for the Collections must apply the principles outlined in the Collection Information Policy: diverse and inclusive, and consistent and coherent in the language used.
+
 ## Language
 
 When including any information as free text ie. not controlled terminology, think about the language being used and how the information is framed. The [APA bias-free language guide](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language) is helpful to think about this process.

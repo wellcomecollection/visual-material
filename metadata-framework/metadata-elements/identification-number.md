@@ -28,5 +28,5 @@ R98/1937 : WHMM Registration Number
 CC 4567 : Accession Number
 {% endhint %}
 
-
+Where the identification number is associated with the object prior to acquisition by Wellcome, it should be recorded under the Provenance element. 
 
