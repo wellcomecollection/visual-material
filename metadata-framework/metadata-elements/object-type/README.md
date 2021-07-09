@@ -14,16 +14,6 @@ This identifies the specific **type of object** being catalogued. It determines 
 
 Object Type is recorded using controlled vocabulary to ensure consistent terminology in the catalogue.  Common terms applicable to Wellcome Collection are listed in the [**Object Type List**](object-type-list.md). When cataloguing select from this list. When a relevant term for the item being catalogued is not listed, select a suitable term from the [Getty Art & Architecture Thesaurus.](https://www.getty.edu/research/tools/vocabularies/aat/)
 
-## Allocating multiple terms and specificity
-
-Multiple terms can be chosen for the same object or group of objects, if known or applicable.
-
-‌Include all the relevant terms for the object or group of objects being described in the catalogue record to optimise access.
-
-{% hint style="info" %}
-14 drawings, 8 photographs, and 9 prints 
-{% endhint %}
-
 For **2D graphic objects** select one of the followings terms and add additional specific terms from the Object Type list where known or appropriate:
 
 Drawing  
@@ -38,6 +28,18 @@ Sketchbook
 Scrapbook
 
 For born digital objects, use the following term and add additional specific terms from the Object Type list where known or appropriate:
+
+## Allocating multiple terms and specificity
+
+Multiple terms can be chosen for the same object or group of objects, if known or applicable.
+
+‌Include all the relevant terms for the object or group of objects being described in the catalogue record to optimise access.
+
+{% hint style="info" %}
+14 drawings, 8 photographs, and 9 prints 
+{% endhint %}
+
+
 
 
 
