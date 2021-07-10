@@ -10,8 +10,6 @@ The inscription element offers a transcription \(and where necessary a descripti
 
 ## Capturing an inscription
 
-Among the various types of inscriptions, it is a priority to record signatures, dates, and inscribed titles.
-
 {% tabs %}
 {% tab title="Single Object" %}
 Transcribe the inscription exactly as it appears on the object, replicating the spelling, diacritics, case and abbreviations used in the inscription. Indicate line breaks with a forward slash.
@@ -44,21 +42,9 @@ For groups of objects capturing inscriptions is not mandatory. Consider any text
 {% endtab %}
 {% endtabs %}
 
-## Capturing stamps and ownership marks
-
-Where a stamp or mark can be transcribed, include a transcription, followed by a brief explanation of the mark type.
-
-If the mark can not easily be transcribed, include a brief description of the mark.
-
-If the mark can be attributed to a particular person or identifiable body then include this information. 
-
-{% hint style="info" %}
-Artist London Proof \(stamped bottom right\)
-{% endhint %}
-
 ## Exhaustivity
 
-Whether the record captures the inscriptions in totality is down to the cataloguers discretion. It is a priority to record signatures, dates, and inscribed titles.
+Whether the record captures the inscriptions in totality is at the cataloguers discretion. It is a priority to record signatures, dates, and inscribed titles.
 
 If an inscription is too long to transcribe, transcribe part of it and indicate missing text with an ellipsis.
 
@@ -69,6 +55,18 @@ The Doecker hospital huts recently purchased for the accommodation of the wounde
 ## Ambiguity and uncertainty
 
 For any words or characters that are not clear, include these within square brackets to indicate uncertainty.
+
+## Capturing stamps and ownership marks
+
+Where a stamp or mark can be transcribed, include a transcription, followed by a brief explanation of the mark type.
+
+If the mark can not easily be transcribed, include a brief description of the mark.
+
+If the mark can be attributed to a particular person or identifiable body then include this information. 
+
+{% hint style="info" %}
+Artist London Proof \(stamped bottom right
+{% endhint %}
 
 ## Related elements
 
