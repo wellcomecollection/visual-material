@@ -39,10 +39,6 @@ Multiple terms can be chosen for the same object or group of objects, if known o
 14 drawings, 8 photographs, and 9 prints 
 {% endhint %}
 
-
-
-
-
 ## **Related fields**
 
 Object type terms for 2D graphic objects may be duplicated in the **Technique** element. 
