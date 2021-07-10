@@ -20,7 +20,7 @@ At minimum the largest dimensions of the object should be recorded but enhanced 
 
 ## Unit of measurement
 
-Record dimensions in metric units, rounded up to the nearest cm
+Record dimensions in cm, round to 1 decimal place.
 
 ## Areas of Measurement
 
@@ -43,7 +43,7 @@ Specify what is being measured using the following standard terms:
 * Object \[3D objects only\]
 
 {% hint style="info" %}
-Plate mark 20 x 30 cm, sheet 30 x 40 cm
+Plate mark 20.5 x 30.5 cm, sheet 30 x 40 cm
 {% endhint %}
 
 If the shape is unusual or a distinguishing characteristic also record an indication of the outline form.
