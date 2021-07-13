@@ -10,7 +10,7 @@
 
 ## PRE CATALOGUING CONSIDERATIONS <a id="pre-cataloguing"></a>
 
-* [Single Objects & Groups of Objects](pre-cataloguing/single-group-objects.md)
+* [Numbering: Single Objects & Groups of Objects](pre-cataloguing/single-group-objects.md)
 * [Sources of Information](pre-cataloguing/sources-of-information.md)
 * [Sensitivity](pre-cataloguing/sensitivity.md)
 * [Language & Style](pre-cataloguing/language-and-style.md)
