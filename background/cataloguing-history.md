@@ -21,5 +21,5 @@ First written 1992, 4th revision 1996.
 \*\*\*\*[**Adamson Cataloguing Guide**](https://wellcomecloud.sharepoint.com/:w:/r/sites/wc2/cr/ci/Cataloging/Visual%20%26%20material%20culture/Visual%20%26%20material%20culture%20cataloguing%20guidelines%20%28version%20history%29/Pre2018%20Visual%20%26%20Material%20Cataloguing/Adamson%20Cataloguing%20Guide.docx?d=wcc7023adf0b945bd8242515d49ed07f2&csf=1&web=1&e=EQ5bCr) **2018**
 
 [**2018 Visual & Material Culture Collection Cataloguing Guidelines**](https://wellcomecloud.sharepoint.com/:w:/r/sites/wc2/cr/ci/Cataloging/Visual%20%26%20material%20culture/Visual%20%26%20material%20culture%20cataloguing%20guidelines%20%28version%20history%29/VisualMaterialCataloguing_v1.0.docx?d=w390cede3bea649aa9b7214f5a3bbd18f&csf=1&web=1&e=RWli6S)  
-These were written to support the Wellcome Collection application for Museum Accreditation.
+Written to support the Wellcome Collection application for Museum Accreditation.
 
