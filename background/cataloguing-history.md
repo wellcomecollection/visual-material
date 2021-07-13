@@ -12,6 +12,8 @@ First written 1992, 4th revision 1996.
 
 [**Cribsheet 201**](https://wellcomecloud.sharepoint.com/:w:/r/sites/wc2/cr/ci/Cataloging/Visual%20%26%20material%20culture/Visual%20%26%20material%20culture%20cataloguing%20guidelines%20%28version%20history%29/Pre2018%20Visual%20%26%20Material%20Cataloguing/crib2015.doc?d=wbafeddcb459c4fec9c91fac5113d4b7a&csf=1&web=1&e=HciiWl#)**5**
 
+**WS notes on 246 & 415 Lettering fields**
+
 **Adamson cataloguing 2017**
 
 \*\*\*\*[**Adamson Cataloguing Guide**](https://wellcomecloud.sharepoint.com/:w:/r/sites/wc2/cr/ci/Cataloging/Visual%20%26%20material%20culture/Visual%20%26%20material%20culture%20cataloguing%20guidelines%20%28version%20history%29/Pre2018%20Visual%20%26%20Material%20Cataloguing/Adamson%20Cataloguing%20Guide.docx?d=wcc7023adf0b945bd8242515d49ed07f2&csf=1&web=1&e=EQ5bCr) **2018**
