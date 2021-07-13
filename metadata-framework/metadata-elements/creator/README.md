@@ -38,12 +38,14 @@ possibly by Denis Gascoigne Lillie or T. Jeffery Parker.
 
 ### iv. Name
 
-The format and spelling for creator names should be taken from an authority list to ensure consistency. Check for an entry in the **Wellcome Collection catalogue** and use this if present. If the name is new to the Wellcome catalogue, check: [**LC Library of Congress authorities**](https://authorities.loc.gov/), [**ULAN: Getty Union List of Artists Names**](http://www.getty.edu/research/tools/vocabularies/ulan/) or other reliable sources.
+The format and spelling for creator names should be taken from an authority list to ensure consistency. Check for an entry in the **Wellcome Collection catalogue** and use this if present.
+
+If the name is new to the Wellcome catalogue, check: [**LC Library of Congress authorities**](https://authorities.loc.gov/), [**ULAN: Getty Union List of Artists Names**](http://www.getty.edu/research/tools/vocabularies/ulan/) or other reliable sources. When using an existing entry in the Wellcome Catalogue or Library of Congress authority list, enter the name exactly as written in the authoritative source. Relator terms \(see below\) can be added as an addition to authority name entries. 
 
 **Personal names**  
 If there is more than one version of the name in use, select the most commonly used.
 
-Personal names should be structured as follows, include the known or relevant elements:
+When creating an entry for names not found in authority lists, structure personal names as follows, include the known or relevant elements:
 
 Surname, First name\(s\), Title, dates of existence, role in relation to the object
 
@@ -62,7 +64,7 @@ Raphael, 1493-1520
 {% endhint %}
 
 **Corporate names**  
-If no authority can be found, take the name as it is written on the object or accompanying documentation. Where there is more than version of the name in use prefer the version found in the LC or ULAN authority lists.
+If no authority can be found, take the name as it is written on the object or accompanying documentation. Where there is more than one version of the name in use prefer the version found in the LC or ULAN authority lists.
 
 ### v. Dates
 
