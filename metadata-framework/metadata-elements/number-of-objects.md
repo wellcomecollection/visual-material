@@ -22,6 +22,14 @@ The data for number of objects is best expressed in conjunction with the **objec
 {% endtab %}
 
 {% tab title="Group of Objects" %}
+For objects where multiple component parts are being described in a single record, the data should record the number of objects for each object type. 
+
+{% hint style="info" %}
+3 drawings, 20 prints, 40 photographs
+
+20 glass plates 
+{% endhint %}
+
 For objects where multiple component parts are being described in a single record, the data for number of objects is best expressed in conjunction with the **object type,** and the **container** or **support** where relevant. 
 
 {% hint style="info" %}
@@ -37,6 +45,8 @@ For objects where multiple component parts are being described in a single recor
 {% endhint %}
 {% endtab %}
 {% endtabs %}
+
+
 
 ## 
 
