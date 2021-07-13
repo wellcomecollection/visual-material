@@ -2,6 +2,8 @@
 
 ## Previous Cataloguing Guidelines
 
+[**Legacy files in SharePoint**](https://wellcomecloud.sharepoint.com/:f:/r/sites/wc2/cr/Legacy%20Files/Collections%20Information/Iconographic%20Cataloguing%20legacy%20docs?csf=1&web=1&e=B7cvvH)\*\*\*\*
+
 \*\*\*\*[**Rules for the Brief Description: rules for generating the 245 field in the IC catalogue**](https://wellcomecloud.sharepoint.com/:w:/r/sites/wc2/cr/ci/Cataloging/Visual%20%26%20material%20culture/Visual%20%26%20material%20culture%20cataloguing%20guidelines%20%28version%20history%29/Pre2018%20Visual%20%26%20Material%20Cataloguing/Rules245%20April%201996.doc?d=w91baad49267744c9ae540f8d0e888794&csf=1&web=1&e=gOJhBr)  
 First written 1992, 4th revision 1996.
 
