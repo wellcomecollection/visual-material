@@ -10,9 +10,7 @@
 
 ## PRE CATALOGUING CONSIDERATIONS <a id="pre-cataloguing"></a>
 
-* [Sources of Information](pre-cataloguing/sources-of-information.md)
-* [Sensitivity](pre-cataloguing/sensitivity.md)
-* [Language & Style](pre-cataloguing/language-and-style.md)
+* [Content considerations](pre-cataloguing/sources-of-information.md)
 * [Numbering: Single Objects & Groups of Objects](pre-cataloguing/single-group-objects.md)
 * [Identification](pre-cataloguing/about/README.md)
   * [Identifying paintings](pre-cataloguing/about/identifying-paintings.md)
