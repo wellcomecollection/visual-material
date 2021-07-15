@@ -11,7 +11,7 @@ Select all that are applicable to the objector group of objects being catalogued
 | Carte de visite |
 | Collage |
 | Drawing |
-| Digital Image \(AAT term, should it be Born Digital Object?\) |
+| Image File \(Born Digital objects\) |
 | Glass negative |
 | Label |
 | Negative |

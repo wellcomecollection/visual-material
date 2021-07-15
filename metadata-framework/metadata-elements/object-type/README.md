@@ -27,7 +27,9 @@ Album
 Sketchbook  
 Scrapbook
 
-For born digital objects, use the following term and add additional specific terms from the Object Type list where known or appropriate:
+For born digital objects, use the term Image File and add additional specific terms from the Object Type list where known or appropriate:
+
+Image File: drawing
 
 ## Allocating multiple terms and specificity
 
