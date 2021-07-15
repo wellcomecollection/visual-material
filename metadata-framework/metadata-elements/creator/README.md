@@ -40,7 +40,7 @@ possibly by Denis Gascoigne Lillie or T. Jeffery Parker.
 
 The format and spelling for creator names should be taken from an authority list to ensure consistency. Check for an entry in the **Wellcome Collection catalogue** and use this if present.
 
-If the name is new to the Wellcome catalogue, check: [**LC Library of Congress authorities**](https://authorities.loc.gov/), [**ULAN: Getty Union List of Artists Names**](http://www.getty.edu/research/tools/vocabularies/ulan/) or other reliable sources. When using an existing entry in the Wellcome Catalogue or Library of Congress authority list, enter the name exactly as written in the authoritative source. Relator terms \(see below\) can be added as an addition to authority name entries. 
+If the name is new to the Wellcome catalogue, check: [**Library of Congress authorities**](https://authorities.loc.gov/) **\(LC\)**, [**Getty Union List of Artists Names**](http://www.getty.edu/research/tools/vocabularies/ulan/) **\(ULAN\)** or other reliable sources. When using an existing entry in the Wellcome Catalogue or Library of Congress authority list, enter the name exactly as written in the authoritative source. Relator terms \(see below\) can be added as an addition to authority name entries. 
 
 **Personal names**  
 If there is more than one version of the name in use, select the most commonly used.
@@ -91,7 +91,6 @@ If multiple entities were involved in creating the object or group of objects, r
 Include biographical information on the creator when such information is not common knowledge and where the objects are unique or significant to Wellcome Collection.
 
 _Future Wish List:_  
-_CCO ideal: in-house name authority list.  
-CCO would record Nationality.        
-CCO use of relator terms_      
+_CCO ideal: in-house name authority list. The current situation using Authorities managed by Backstage doesn't allow for the adding of additional known information.  
+CCO would record Nationality._         
 
