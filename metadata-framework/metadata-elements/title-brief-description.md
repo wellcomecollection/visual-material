@@ -12,9 +12,9 @@ Title assigned to the work or a collective title for a group of works by the cre
 
 {% hint style="info" %}
 Nail schizophrene.  [3049675i](https://wellcomecollection.org/works/azc3hheb)
-
-Black album labelled drag. [2914633i](https://wellcomecollection.org/works/un4mdb8n)
 {% endhint %}
+
+
 
 ### Inscribed Title / Caption Title
 
