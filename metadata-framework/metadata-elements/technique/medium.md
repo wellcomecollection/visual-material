@@ -1,10 +1,10 @@
 # Technique List
 
-To ensure consistency, these terms for technique have been taken from the [Getty AAT](https://www.getty.edu/research/tools/vocabularies/aat/). They have been arranged to suggest broader to narrower terms. 
+To ensure consistency, these terms for technique have been taken from the [Getty AAT](https://www.getty.edu/research/tools/vocabularies/aat/). The object type column has been added to aid with the identification of broader to narrower terms. 
 
 ## Technique Terms
 
-| Broadest | Narrower | Narrowest |
+| OBJECT TYPE | Broader Technique Term | Narrower Technique Term |
 | :---: | :--- | :--- |
 | **Print** |  |  |
 |  | Engraving |  |
@@ -48,12 +48,13 @@ To ensure consistency, these terms for technique have been taken from the [Getty
 | **Photograph** |  |  |
 |  | Albumen print  |  |
 |  | Collotype  |  |
-|  | Digital photograph |  |
 |  | Daguerrotype |  |
+|  | Digital photograph |  |
 |  | Gelatin silver print  |  |
 |  | Stereograph |  |
 |  | Stereoscopic photograph |  |
+| **Image file** |  |  |
+|  | Digital photograph |  |
 | **Sculpture** |  |  |
 |  | Cut-paper work |  |
-| **Digital Images** |  |  |
 

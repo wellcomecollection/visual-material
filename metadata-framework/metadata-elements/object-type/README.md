@@ -12,24 +12,19 @@ This identifies the specific **type of object** being catalogued. It determines 
 
 ## Terminology
 
-Object Type is recorded using controlled vocabulary to ensure consistent terminology in the catalogue.  Common terms applicable to Wellcome Collection are listed in the [**Object Type List**](object-type-list.md). When cataloguing select from this list. When a relevant term for the item being catalogued is not listed, select a suitable term from the [Getty Art & Architecture Thesaurus.](https://www.getty.edu/research/tools/vocabularies/aat/)
+Object Type is recorded using controlled vocabulary to ensure consistent terminology in the catalogue.  Common terms applicable to Wellcome Collection are listed in the [**Object Type List**](object-type-list.md). When cataloguing select from this list. When a relevant term for the item being catalogued is not listed, select a suitable term from the [Getty Art & Architecture Thesaurus.](https://www.getty.edu/research/tools/vocabularies/aat/) 
 
-For **2D graphic objects** select one of the followings terms and add additional specific terms from the Object Type list where known or appropriate:
+For born digital objects, use the broad term 'image file'.
 
-Drawing  
-Painting  
-Photograph  
-Print
+The broadest **object type term or terms is** best expressed in conjunction with the **number of objects** data.
 
-For **3D objects** select one of the following terms. As our collection of 3D objects is small but less homogeneous than 2D, you may instead need to select a suitable term from the [Getty Art & Architecture Thesaurus.](https://www.getty.edu/research/tools/vocabularies/aat/)
+{% hint style="info" %}
+**1 print** 
 
-Album  
-Sketchbook  
-Scrapbook
+**3 paintings**
 
-For born digital objects, use the term Image File and add additional specific terms from the Object Type list where known or appropriate:
-
-Image File: drawing
+**14 drawings, 8 photographs and 9 paintings**
+{% endhint %}
 
 ## Allocating multiple terms and specificity
 
@@ -38,8 +33,28 @@ Multiple terms can be chosen for the same object or group of objects, if known o
 ‌Include all the relevant terms for the object or group of objects being described in the catalogue record to optimise access.
 
 {% hint style="info" %}
-14 drawings, 8 photographs, and 9 prints 
+4 image files 
+
+drawings and paintings
 {% endhint %}
+
+
+
+{% hint style="info" %}
+1 print
+
+poster
+{% endhint %}
+
+
+
+{% hint style="info" %}
+5 photographs
+
+glass plate negatives and sheet film 
+{% endhint %}
+
+
 
 ## **Related fields**
 

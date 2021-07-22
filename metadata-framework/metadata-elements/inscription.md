@@ -1,12 +1,12 @@
 ---
-description: '2D Objects, 3D Objects'
+description: 'Required, if extant (single); Optional (group): 2D Objects, 3D Objects.'
 ---
 
 # Inscription / Marks
 
 ## Definition
 
-The inscription element offers a transcription \(and where necessary a description\) of any distinguishing or identifying physical lettering, annotations, texts, markings, or labels that are affixed, applied, stamped, written, inscribed, or attached to the work. It excludes any mark or text inherent in the materials of which the work is made.
+The inscription element offers a transcription \(and where necessary a description\) of any distinguishing or identifying physical lettering, annotations, texts, markings, or labels that are affixed, applied, stamped, written, inscribed, or attached to the work. It excludes any mark or text inherent in the materials of which the work is made e.g. watermarks.
 
 ## Capturing an inscription
 
@@ -37,7 +37,7 @@ Bears number '216' \(in ink top right\)
 {% endhint %}
 {% endtab %}
 
-{% tab title="Groups of Objects" %}
+{% tab title="Group of Objects" %}
 For groups of objects capturing inscriptions is not mandatory. Consider any text on the objects that may be useful as contextual information for the group as a whole, and transcribe if that information is not clear elsewhere in the record. 
 {% endtab %}
 {% endtabs %}
@@ -56,6 +56,10 @@ The Doecker hospital huts recently purchased for the accommodation of the wounde
 
 For any words or characters that are not clear, include these within square brackets to indicate uncertainty.
 
+{% hint style="info" %}
+A map of the ear. Magnified to four times its natural size ; G. \[Kirtland\] delint. 1801, from a preparation of Mr. A\[st\]ley Cooper's
+{% endhint %}
+
 ## Capturing stamps and ownership marks
 
 Where a stamp or mark can be transcribed, include a transcription, followed by a brief explanation of the mark type.
@@ -65,7 +69,7 @@ If the mark can not easily be transcribed, include a brief description of the ma
 If the mark can be attributed to a particular person or identifiable body then include this information. 
 
 {% hint style="info" %}
-Artist London Proof \(stamped bottom right
+Artist London Proof \(stamped bottom right\)
 {% endhint %}
 
 ## Related elements

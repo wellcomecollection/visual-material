@@ -1,3 +1,7 @@
+---
+description: 'Required: 2D Objects, 3D Objects, Born Digital. Repeatable.'
+---
+
 # Title/Brief Description
 
 ## Definition
@@ -24,6 +28,8 @@ Lettering or inscription on the work or group of works which can be used for ide
 No smoking no hate.  [3197871i](https://wellcomecollection.org/works/trkdjmg3)
 {% endhint %}
 
+### 
+
 ### Descriptive Title
 
 A brief description of the subject of the work or group of works which can be used for identification purposes 
@@ -40,10 +46,31 @@ Print in blue, black and yellow. PPAMI/C/1/17
 
 Record the source of the preferred \(main\) title used in the record. Record if the title has been taken from the object itself, from the creator, from previous owners, from supporting documentation, or whether the title is a brief description of the work created by the cataloguer. Where possible select the appropriate text from the list below:
 
+{% tabs %}
+{% tab title="Single Object" %}
 * Title provided by the artist.
+* Title provided by the creator.
 * This work is untitled: the title has been taken from lettering on the object. 
-* This work is untitled; the title has been supplied by the cataloguer for identification purposes.
-* Title taken from the Catalogue of prints & drawings in the British Museum.
+* This work is untitled: the title has been supplied by the cataloguer for identification purposes.
+* This work is untitled: the title has been taken from acquisition documentation.
+* Title taken from published source: \[example: Catalogue of prints & drawings in the British Museum\].
+{% endtab %}
+
+{% tab title="Group of Objects" %}
+* Title provided by the artist.
+* Title provided by the creator.
+* These works are untitled: the title has been taken from lettering on the objects. 
+* These works are untitled: the title has been supplied by the cataloguer for identification purposes.
+* These works are untitled: the title has been taken from acquisition documentation.
+* Title taken from published source: \[example: Catalogue of prints & drawings in the British Museum\].
+{% endtab %}
+
+{% tab title="Born Digital Objects" %}
+* Title provided by the artist.
+* Title provided by the creator.
+* To enhance accessibility, the title has been supplied by the cataloguer. 
+{% endtab %}
+{% endtabs %}
 
 ## Preferred and Alternative Titles
 

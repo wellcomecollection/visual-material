@@ -1,5 +1,5 @@
 ---
-description: 'Required: 2D Objects, 3D Objects, Born Digital'
+description: 'Required: 2D Objects, 3D Objects'
 ---
 
 # Number of Objects
@@ -12,7 +12,7 @@ The number must be expressed as an Arabic numeral.
 
 {% tabs %}
 {% tab title="Individual Object" %}
-The data for number of objects is best expressed in conjunction with the **object type.**
+The data for number of objects is best expressed in conjunction with the broadest **object type term.**
 
 {% hint style="info" %}
 1 print
@@ -46,7 +46,9 @@ The data for number of objects is best expressed in conjunction with the **objec
 {% endtab %}
 {% endtabs %}
 
+## **Related fields**
 
+Number of Objects is recorded in association with Object Type. 
 
 ## 
 

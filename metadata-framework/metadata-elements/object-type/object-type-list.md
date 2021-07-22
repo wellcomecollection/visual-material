@@ -1,6 +1,6 @@
 # Object Type List
 
-Select all that are applicable to the objector group of objects being catalogued
+Select all that are applicable to the object or group of objects being catalogued.
 
 | Object Type Terms |
 | :--- |
@@ -10,10 +10,12 @@ Select all that are applicable to the objector group of objects being catalogued
 | Cabinet photograph |
 | Carte de visite |
 | Collage |
+| Digital print \[only to be used as an additional term for broader term photograph\] |
 | Drawing |
-| Image File \(Born Digital objects\) |
-| Glass negative |
+| Image File |
+| Glass plate negative |
 | Label |
+| Medal |
 | Negative |
 | Painting |
 | Photograph |
@@ -24,6 +26,7 @@ Select all that are applicable to the objector group of objects being catalogued
 | Print |
 | Scrapbook |
 | Sculpture |
+| Sheet film |
 | Sketchbook |
 | Sign |
 | Stereograph |

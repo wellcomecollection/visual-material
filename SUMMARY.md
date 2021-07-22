@@ -30,7 +30,7 @@
   * [Inscription / Marks](metadata-framework/metadata-elements/inscription.md)
   * [Date](metadata-framework/metadata-elements/date.md)
   * [Dimensions](metadata-framework/metadata-elements/dimensions.md)
-  * [Technique, Medium and Materials](metadata-framework/metadata-elements/technique/README.md)
+  * [Technique and Materials](metadata-framework/metadata-elements/technique/README.md)
     * [Technique List](metadata-framework/metadata-elements/technique/medium.md)
     * [Material List](metadata-framework/metadata-elements/technique/materials.md)
   * [Colour](metadata-framework/metadata-elements/colour.md)

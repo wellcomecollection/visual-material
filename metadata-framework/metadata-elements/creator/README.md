@@ -1,5 +1,5 @@
 ---
-description: 'Required: 2D Objects, 3D Objects, Born Digital. Repeatable'
+description: 'Required if known: 2D Objects, 3D Objects, Born Digital. Repeatable'
 ---
 
 # Creator
@@ -18,11 +18,11 @@ The names of creators should be taken from the object itself or accompanying doc
 
 ### ii. Unknown creators
 
-Where a creator is not known the creator element can be omitted. If the geographical origin is known this can be used in the description to provide background to an unknown creator, e.g. Italian
+Where a creator is not known the creator element can be omitted. If the geographical origin is known this can be used in the description to provide background to an unknown creator, e.g. Italian.
 
 ### iii. Ambiguous creators
 
-If attribution is uncertain or ambiguous record this information in the record.
+If attribution is uncertain or ambiguous record this information elsewhere in the record.
 
 {% hint style="info" %}
 attributed to Raphael
@@ -47,7 +47,7 @@ If there is more than one version of the name in use, select the most commonly u
 
 When creating an entry for names not found in authority lists, structure personal names as follows, include the known or relevant elements:
 
-Surname, First name\(s\), Title, dates of existence, role in relation to the object
+Surname, First name\(s\), Title, dates of existence, role in relation to the object.
 
 {% hint style="info" %}
 Lichtenstein, Roy, 1923-1997, painter
@@ -55,6 +55,8 @@ Lichtenstein, Roy, 1923-1997, painter
 Thompson, J. \(John\), 1837-1921, photographer
 
 Hogarth, William, 1697-1764
+
+Shrigley, David, artist 
 {% endhint %}
 
 When an artist is recognised by a single name, prefer the known name over Surname, First name structure.
@@ -65,6 +67,10 @@ Raphael, 1493-1520
 
 **Corporate names**  
 If no authority can be found, take the name as it is written on the object or accompanying documentation. Where there is more than one version of the name in use prefer the version found in the LC or ULAN authority lists.
+
+{% hint style="info" %}
+Wellcome Collection, commissioning body
+{% endhint %}
 
 ### v. Dates
 
@@ -89,6 +95,12 @@ If multiple entities were involved in creating the object or group of objects, r
 ### viii. Biographical details
 
 Include biographical information on the creator when such information is not common knowledge and where the objects are unique or significant to Wellcome Collection.
+
+## Related elements
+
+* Where Creator names occur in text in the image, transcribe them in the  **Inscription/Marks** element.  
+
+ 
 
 _Future Wish List:_  
 _CCO ideal: in-house name authority list. The current situation using Authorities managed by Backstage doesn't allow for the adding of additional known information.  
