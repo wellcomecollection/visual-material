@@ -20,8 +20,6 @@ Nail schizophrene.  [3049675i](https://wellcomecollection.org/works/azc3hheb)
 Time lapse. [3136753i](https://wellcomecollection.org/works/ftqy78zj)
 {% endhint %}
 
-
-
 ### Inscribed Title
 
 This is a title taken from an inscription \(lettering\) on the object or group of objects.
@@ -30,11 +28,9 @@ This is a title taken from an inscription \(lettering\) on the object or group o
 No smoking no hate.  [3197871i](https://wellcomecollection.org/works/trkdjmg3)
 {% endhint %}
 
-### 
-
 ### Descriptive Title
 
-With a descriptive title, a brief description of the object or group of objects is provided, which can be used for identification purposes. 
+With a descriptive title, a brief description of the object or group of objects is provided, which can be used for identification purposes. The cataloguer should aim to be concise, making clear to the reader what the what the work is or what its subject is about.
 
 For 2D and Born Digital graphic objects this should be a short description of the subject matter of the item. Include, as appropriate, the following types of information:
 
@@ -42,8 +38,6 @@ For 2D and Born Digital graphic objects this should be a short description of t
 * an identification of the main subject\(s\) depicted \(i.e., names of persons, events, activities, and objects\)
 * geographical location\(s\) depicted, if known and significant
 * the date of what is being depicted if different from the date of publication or execution
-
-For 3D objects
 
 {% hint style="info" %}
 A woman cradling a baby being watched by another woman.  [3025148i](https://wellcomecollection.org/works/wsq6ybqc)
@@ -53,6 +47,12 @@ Jo Spence in a hospice bed. [3069501i](https://wellcomecollection.org/works/aat5
 Studio Portraits of Marthe Vogt.  [PP/MLV/E/2/1](https://wellcomecollection.org/works/u6dgfwtr)
 
 Print in blue, black and yellow. PPAMI/C/1/17
+{% endhint %}
+
+For 3D objects use a suitable term or phrase to describe the object.
+
+{% hint style="info" %}
+Chessmen in the form of Saracens and Crusaders.[ 553759i](https://wellcomecollection.org/works/tush7jc4)
 {% endhint %}
 
 ## Title Source
