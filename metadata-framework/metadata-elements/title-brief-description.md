@@ -10,6 +10,10 @@ The title or name given to an object, or a brief description of the object. This
 
 ## Types of Title 
 
+All titles by which an object is known should be included in the catalogue record, but a preferred \(main title\) must be identified. 
+
+Record the title by which the object is known by at the owning institution as the **preferred** \(main\) title.
+
 ### Given Title
 
 This is a title for an object, or a collective title for a group of objects, assigned by the creator or another authoritative source.
