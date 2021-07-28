@@ -12,7 +12,7 @@ The title or name given to an object, or a brief description of the object. This
 
 ### Given Title
 
-This is a title of an object, or a collective title for a group of objects, assigned by the creator or another authoritative source.
+This is a title for an object, or a collective title for a group of objects, assigned by the creator or another authoritative source.
 
 {% hint style="info" %}
 Nail schizophrene.  [3049675i](https://wellcomecollection.org/works/azc3hheb)
@@ -32,19 +32,21 @@ No smoking no hate.  [3197871i](https://wellcomecollection.org/works/trkdjmg3)
 
 ### Descriptive Title
 
-With a descriptive title a brief description of the object or group of objects is provided which can be used for identification purposes. 
+With a descriptive title a brief description of the object or group of objects is provided, which can be used for identification purposes. 
 
 For 2D and Born Digital graphic objects this should be a short description of the subject matter of the item. Include, as appropriate, the following types of information:
 
 * the subject type or form of material, e.g., view\(s\), portrait\(s\), sketch\(es\)
 * an identification of the main subject\(s\) depicted \(i.e., names of persons, events, activities, and objects\)
 * geographical location\(s\) depicted, if known and significant
-* the date or span dates of what is being depicted if different from the date of publication or execution
+* the date of what is being depicted if different from the date of publication or execution
 
 For 3D objects
 
 {% hint style="info" %}
 A woman cradling a baby being watched by another woman.  [3025148i](https://wellcomecollection.org/works/wsq6ybqc)
+
+Jo Spence in a hospice bed. 3069501i
 
 Studio Portraits of Marthe Vogt.  [PP/MLV/E/2/1](https://wellcomecollection.org/works/u6dgfwtr)
 
