@@ -16,6 +16,8 @@ This is a title for an object, or a collective title for a group of objects, ass
 
 {% hint style="info" %}
 Nail schizophrene.  [3049675i](https://wellcomecollection.org/works/azc3hheb)
+
+Time lapse. [3136753i](https://wellcomecollection.org/works/ftqy78zj)
 {% endhint %}
 
 
@@ -32,7 +34,7 @@ No smoking no hate.  [3197871i](https://wellcomecollection.org/works/trkdjmg3)
 
 ### Descriptive Title
 
-With a descriptive title a brief description of the object or group of objects is provided, which can be used for identification purposes. 
+With a descriptive title, a brief description of the object or group of objects is provided, which can be used for identification purposes. 
 
 For 2D and Born Digital graphic objects this should be a short description of the subject matter of the item. Include, as appropriate, the following types of information:
 
@@ -46,7 +48,7 @@ For 3D objects
 {% hint style="info" %}
 A woman cradling a baby being watched by another woman.  [3025148i](https://wellcomecollection.org/works/wsq6ybqc)
 
-Jo Spence in a hospice bed. 3069501i
+Jo Spence in a hospice bed. [3069501i](https://wellcomecollection.org/works/aat5t9wc)
 
 Studio Portraits of Marthe Vogt.  [PP/MLV/E/2/1](https://wellcomecollection.org/works/u6dgfwtr)
 
