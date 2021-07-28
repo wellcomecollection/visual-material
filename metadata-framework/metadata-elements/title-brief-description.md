@@ -12,7 +12,7 @@ The title or name given to an object, or a brief description of the object. This
 
 ### Given Title
 
-Title assigned to the work or a collective title for a group of works by the creator or another authoritative source.
+This is a title of an object, or a collective title for a group of objects, assigned by the creator or another authoritative source.
 
 {% hint style="info" %}
 Nail schizophrene.  [3049675i](https://wellcomecollection.org/works/azc3hheb)
@@ -20,9 +20,9 @@ Nail schizophrene.  [3049675i](https://wellcomecollection.org/works/azc3hheb)
 
 
 
-### Inscribed Title / Caption Title
+### Inscribed Title
 
-Lettering or inscription on the work or group of works which can be used for identification purposes. 
+This is a title taken from an inscription \(lettering\) on the object or group of objects.
 
 {% hint style="info" %}
 No smoking no hate.  [3197871i](https://wellcomecollection.org/works/trkdjmg3)
@@ -32,7 +32,7 @@ No smoking no hate.  [3197871i](https://wellcomecollection.org/works/trkdjmg3)
 
 ### Descriptive Title
 
-A brief description of the subject of the work or group of works which can be used for identification purposes 
+With a descriptive title a brief description of the object or group of objects is provided which can be used for identification purposes. 
 
 {% hint style="info" %}
 A woman cradling a baby being watched by another woman.  [3025148i](https://wellcomecollection.org/works/wsq6ybqc)
@@ -44,13 +44,13 @@ Print in blue, black and yellow. PPAMI/C/1/17
 
 ## Title Source
 
-Record the source of the preferred \(main\) title used in the record. Record if the title has been taken from the object itself, from the creator, from previous owners, from supporting documentation, or whether the title is a brief description of the work created by the cataloguer. Where possible select the appropriate text from the list below:
+Record the source of the preferred \(main\) title used in the catalogue record. Record if the title was provided by the creator, has been taken from the object itself, from previous owners, from supporting documentation, or whether the title is a brief description of the work created by the cataloguer. Where possible select the appropriate text from the list below:
 
 {% tabs %}
 {% tab title="Single Object" %}
 * Title provided by the artist.
 * Title provided by the creator.
-* This work is untitled: the title has been taken from lettering on the object. 
+* The title has been taken from lettering on the object. 
 * This work is untitled: the title has been supplied by the cataloguer for identification purposes.
 * This work is untitled: the title has been taken from acquisition documentation.
 * Title taken from published source: \[example: Catalogue of prints & drawings in the British Museum\].
@@ -76,13 +76,9 @@ Record the source of the preferred \(main\) title used in the record. Record if 
 
 Record the title by which the object is known by at the owning institution as the preferred \(main\) title.
 
-Where the preferred title is a Given title or Inscribed title, ensure a brief description of the work is also included in the record.
+Where the preferred title is a Given title or Inscribed title, ensure a brief description of the object is also included in the record.
 
-Record all other known titles or names that have been associated with a work. 
-
-{% hint style="info" %}
-
-{% endhint %}
+Record all other known titles or names that have been associated with an object. 
 
 ## Amending the Preferred Title
 
@@ -101,7 +97,7 @@ When a creator assigns Untitled as the title of an object, this should be used a
 Untitled should not be used as a title when an object has no given title.
 
 {% hint style="info" %}
-Untitled. 3272401i
+Untitled. [3272401i](https://wellcomecollection.org/works/rnsgfs2m)
 {% endhint %}
 
 
