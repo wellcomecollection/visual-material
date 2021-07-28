@@ -22,7 +22,7 @@ Time lapse. [3136753i](https://wellcomecollection.org/works/ftqy78zj)
 
 ### Inscribed Title
 
-This is a title taken from an inscription \(lettering\) on the object or group of objects.
+This is a title taken from an inscription or text on the object or group of objects.
 
 {% hint style="info" %}
 No smoking no hate.  [3197871i](https://wellcomecollection.org/works/trkdjmg3)
