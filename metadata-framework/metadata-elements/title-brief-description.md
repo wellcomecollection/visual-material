@@ -17,6 +17,7 @@ All titles by which an object is known should be included in the catalogue recor
 * Where an object has a Given title, use this as the preferred title.
 * Where an object has an Inscribed title and no Given title, use this as the preferred title. 
 * Where an object does not have a Given or Inscribed title, the cataloguer should devise a brief description to use as the Descriptive title. 
+* Where the preferred title is a Given title or Inscribed title, ensure a brief description of the object is also included in the record.
 
 ### Given Title
 
@@ -46,6 +47,8 @@ For 2D and Born Digital graphic objects this should be a short description of t
 * an identification of the main subject\(s\) depicted \(i.e., names of persons, events, activities, and objects\)
 * geographical location\(s\) depicted, if known and significant
 * the date of what is being depicted if different from the date of publication or execution
+* look for literal representations, if there are no literal representations look for shapes and colours
+* avoid interpreting emotions, themes or allegories without a source
 
 {% hint style="info" %}
 A woman cradling a baby being watched by another woman.  [3025148i](https://wellcomecollection.org/works/wsq6ybqc)
@@ -92,14 +95,6 @@ Record the source of the preferred \(main\) title used in the catalogue record. 
 * To enhance accessibility, the title has been supplied by the cataloguer. 
 {% endtab %}
 {% endtabs %}
-
-## Preferred and Alternative Titles
-
-Record the title by which the object is known by at the owning institution as the preferred \(main\) title.
-
-Where the preferred title is a Given title or Inscribed title, ensure a brief description of the object is also included in the record.
-
-Record all other known titles or names that have been associated with an object. 
 
 ## Amending the Preferred Title
 
