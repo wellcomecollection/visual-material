@@ -10,9 +10,13 @@ The title or name given to an object, or a brief description of the object. This
 
 ## Types of Title 
 
-All titles by which an object is known should be included in the catalogue record, but a preferred \(main title\) must be identified. 
+### Preferred and Alternative Titles
 
-Record the title by which the object is known by at the owning institution as the **preferred** \(main\) title.
+All titles by which an object is known should be included in the catalogue record, but a preferred \(main title\) must be identified. All other titles should be recorded as alternative titles.
+
+* Where an object has a Given title, use this as the preferred title.
+* Where an object has an Inscribed title and no Given title, use this as the preferred title. 
+* Where an object does not have a Given or Inscribed title, the cataloguer should devise a brief description to use as the Descriptive title. 
 
 ### Given Title
 
@@ -26,7 +30,7 @@ Time lapse. [3136753i](https://wellcomecollection.org/works/ftqy78zj)
 
 ### Inscribed Title
 
-This is a title taken from an inscription or text on the object or group of objects.
+This is a title taken from an inscription, text or caption on the object or group of objects.
 
 {% hint style="info" %}
 No smoking no hate.  [3197871i](https://wellcomecollection.org/works/trkdjmg3)
