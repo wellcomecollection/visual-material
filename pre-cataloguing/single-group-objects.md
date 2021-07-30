@@ -1,4 +1,4 @@
-# Numbering: Single Objects & Groups of Objects
+# Numbering & Part Numbering
 
 ## What is being catalogued: single or multiple records?
 
