@@ -37,6 +37,8 @@ This is a title taken from an inscription, text or caption on the object or grou
 No smoking no hate.  [3197871i](https://wellcomecollection.org/works/trkdjmg3)
 {% endhint %}
 
+### Graphical ..... 
+
 ### Descriptive Title
 
 With a descriptive title, a brief description of the object or group of objects is provided, which can be used for identification purposes. The cataloguer should aim to be concise, making clear to the reader what the what the work is or what its subject is about.
