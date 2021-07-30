@@ -41,7 +41,7 @@ No smoking no hate.  [3197871i](https://wellcomecollection.org/works/trkdjmg3)
 
 With a descriptive title, a brief description of the object or group of objects is provided, which can be used for identification purposes. The cataloguer should aim to be concise, making clear to the reader what the what the work is or what its subject is about.
 
-Avoid interpretations, or interpreting emotions, themes or allegories without a source. Look for literal representations, if there are no literal representations look for shapes and colour
+Avoid interpretations, or inferring emotions, themes or allegories without a source. Look for literal representations, if there are no literal representations look for shapes and colour.
 
 For 2D and Born Digital graphic objects this should be a short description of the subject matter of the item. Include, as appropriate, the following types of information:
 
