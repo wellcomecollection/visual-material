@@ -78,7 +78,7 @@ Wellcome Collection, commissioning body
 
 ### v. Dates
 
-For personal names include dates if known.\* 
+For personal names include dates if known. When using names taken from the LC authority file use the same dates as recorded in the authority record.
 
 Where the birth and death dates are not known, include the full range of dates for the artworks you are aware of, as an approximate active date.
 
@@ -106,6 +106,5 @@ Include biographical information on the creator when such information is not com
 
 _Future Wish List:_  
 _CCO ideal: in-house name authority list. The current situation using Authorities managed by Backstage doesn't allow for the adding of additional known information.  
-\*_When using names taken from the LC authority file use the same dates as recorded in the authority record.  
-_CCO would record Nationality._         
+CCO would record Nationality._         
 
