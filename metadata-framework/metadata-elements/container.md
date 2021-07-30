@@ -1,22 +1,25 @@
 ---
-description: 'Optional: 2D Objects, 3D Objects, Born Digital'
+description: 'Required: 2D Objects, 3D Objects'
 ---
 
-# Container
+# Container/Support
 
 ## Definition
 
-This element records the original container an object, or group of objects, is stored in **if kept for production with the object**.
+This element records the **original** container or support for an object, or group of objects, if kept for production. 
 
 ## What is a container?
 
-A container includes any structured form that houses an object but is not integral to it.
+A container includes any structured form that houses an object upon acquisition, or the support if recording multiple intellectual objects on a single physical item. 
 
 Main known containers in the collection include:
 
 * Box
 * Frame
 * Mount
+* Sheet
+* Canvas
+* Panel
 
 If the container is to be recorded and produced separately, the container element should not be used. 
 
@@ -30,9 +33,9 @@ Multiple containers may be included in natural language order
 3 paintings mounted in frame
 
 4 photographs in box 
+
+9 drawings on sheet
 {% endhint %}
-
-
 
 Additional information written on the original container, the condition and/or the physical characteristics of the container, can be included in a descriptive or provenance note to enhance the record.
 
