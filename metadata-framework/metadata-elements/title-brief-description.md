@@ -37,7 +37,7 @@ This is a title taken from an inscription, text or caption on the object or grou
 No smoking no hate.  [3197871i](https://wellcomecollection.org/works/trkdjmg3)
 {% endhint %}
 
-### Graphical ..... 
+If an inscribed title taken from the object has notable features, such as being written in mirror writing, or is incorporated into the visual design, a note recording this feature can be added to the record. 
 
 ### Descriptive Title
 
