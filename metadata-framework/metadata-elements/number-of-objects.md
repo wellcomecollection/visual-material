@@ -1,5 +1,5 @@
 ---
-description: 'Required: 2D Objects, 3D Objects'
+description: 'Required: 2D Objects, 3D Objects. Repeatable.'
 ---
 
 # Number of Objects
@@ -50,7 +50,7 @@ Record where there are multiple images on or within a single physical item.
 
 ## **Related fields**
 
-Number of Objects is recorded in association with Object Type. 
+Number of Objects is recorded in association with Object Type and Container/Support. 
 
 ## 
 

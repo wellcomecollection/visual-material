@@ -59,6 +59,8 @@ Hogarth, William, 1697-1764
 Shrigley, David, artist
 
 Wren, Christopher, Sir, 1632-1723, architect
+
+Vanity Fair, publisher
 {% endhint %}
 
 When an artist is recognised by a single name, prefer the known name over Surname, First name structure.

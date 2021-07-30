@@ -1,5 +1,7 @@
 ---
-description: 'Required, if extant (single); Optional (group): 2D Objects, 3D Objects.'
+description: >-
+  Required, if extant (single); Optional, if extant (group): 2D Objects, 3D
+  Objects. Repeatable
 ---
 
 # Inscription / Marks

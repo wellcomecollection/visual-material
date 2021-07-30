@@ -87,6 +87,8 @@ If the group is relatively homogeneous, it may be useful to still specify other 
 
 {% hint style="info" %}
 Frames range in size from 24 x 52 cm to 34 x 60 cm; sheets range in size from 14 x 32 cm to 20 x 49 cm
+
+Album 30.5 x 55.7 cm; photographs range in size from 8.4 x 11.7 cm to 12.9 x 13.5 cm
 {% endhint %}
 {% endtab %}
 

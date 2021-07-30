@@ -1,5 +1,5 @@
 ---
-description: 'Required: 2D Objects, 3D Objects, Born Digital'
+description: 'Required: 2D Objects, 3D Objects, Born Digital. Repeatable.'
 ---
 
 # Identification Number
