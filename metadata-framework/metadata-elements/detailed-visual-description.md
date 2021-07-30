@@ -1,3 +1,7 @@
+---
+description: 'Optional: 2D objects, 3D Objects, Born Digital'
+---
+
 # Detailed Visual Description
 
 ## Definition
@@ -5,6 +9,8 @@
 This element records a description of the elements, depictions, colours and representations in the visual material. 
 
 Detailed visual description should be given for objects which would benefit from enhanced description due to their complexity, to enhance access for visually impaired audiences, or to include more detailed interpretation of the object not present elsewhere in the record. 
+
+Detailed Visual Description can be used when cataloguing a group of objects, but is typically best used for single objects. 
 
 ## Content 
 

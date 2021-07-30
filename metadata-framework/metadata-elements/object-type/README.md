@@ -54,12 +54,12 @@ poster
 glass plate negatives and sheet film 
 {% endhint %}
 
-
-
 ## **Related fields**
 
 Object type terms for 2D graphic objects may be duplicated in the **Technique** element.   
 Object type is recorded in association with the **Number of Objects**
+
+Object type is recorded in association with **Container**, where applicable  
 
 
 

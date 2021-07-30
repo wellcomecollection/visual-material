@@ -1,25 +1,24 @@
 ---
-description: '2D Objects, 3D Objects'
+description: 'Optional: 2D Objects, 3D Objects, Born Digital'
 ---
 
 # Container
 
 ## Definition
 
-This element records the original container an object, or group of objects, is stored in if kept for production.
+This element records the original container an object, or group of objects, is stored in **if kept for production with the object**.
 
 ## What is a container?
 
-A container includes any structured form that houses visual material, including boxes, frames, mounts and books.
+A container includes any structured form that houses an object but is not integral to it.
 
-Known containers in the collection include:
+Main known containers in the collection include:
 
-* Album
 * Box
 * Frame
 * Mount
-* Scrapbook
-* Sketchbook
+
+If the container is to be recorded and produced separately, the container element should not be used. 
 
 ## Layout
 
@@ -28,12 +27,20 @@ The container element is best displayed alongside the [number of objects](number
 Multiple containers may be included in natural language order
 
 {% hint style="info" %}
-4 photographs mounted in 1 frame
+3 paintings mounted in frame
+
+4 photographs in box 
 {% endhint %}
 
-The dimensions of a container, if relevant, may be recorded as part of the [dimensions](dimensions.md) element.
+
+
+Additional information written on the original container, the condition and/or the physical characteristics of the container, can be included in a descriptive or provenance note to enhance the record.
 
 ## Related Elements 
 
-If cataloguing a grouping of material, the container may instead be understood as the [object type](object-type/). 
+The dimensions of a container, if relevant, may be recorded as part of the [dimensions](dimensions.md) element.
+
+Container is recorded in association with **Object type** and the **Number of Objects.**
+
+
 

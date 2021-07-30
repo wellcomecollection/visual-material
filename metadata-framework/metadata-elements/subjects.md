@@ -1,3 +1,7 @@
+---
+description: 'Required: 2D Objects, 3D Objects, Born Digital'
+---
+
 # Subjects
 
 ## Definition
@@ -85,10 +89,6 @@ For certain collections additional thesauri may be considered, with a note provi
 [Chinese Iconography Thesaurus ](https://chineseiconography.org/thes/1)
 
 [Homosaurus](https://homosaurus.org/) \(wider discussion needed on adoption\)
-
-
-
- 
 
 ## Layout
 

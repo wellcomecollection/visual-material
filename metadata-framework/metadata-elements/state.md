@@ -1,5 +1,5 @@
 ---
-description: Prints
+description: 'Required, if known: Prints, 3D Objects'
 ---
 
 # State
@@ -11,6 +11,8 @@ The term state is used to describe identical impressions printed from the same u
 While state generally refers to prints, some of the same terminology is applied to sculptures, in reference to their state, such as artists proof.
 
 This element contains any known information related to an objects state.
+
+State should only be used when recording single objects, not groups. 
 
 ## Types of state and terminology
 

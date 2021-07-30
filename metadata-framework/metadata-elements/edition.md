@@ -1,5 +1,5 @@
 ---
-description: 'Prints, 2D & 3D Objects'
+description: 'Required, if relevant: 2D Objects, 3D Objects'
 ---
 
 # Edition
@@ -14,13 +14,15 @@ _or_
 
 * to place that object in relation to previous and subsequent editions.
 
+Edition should only be used when recording single objects, not groups. 
+
 ## Source
 
 Edition statements may be found on the title page or within book-like works, or in inscriptions on single-sheet works. Secondary sources, such as catalogues raisonnés, can help to identify the edition of a work, as will comparison to other known instances of the same work.
 
 ## Style and Language
 
-The metadata should describe specific edition to which the object belongs, it can be expressed as a fractional number or contextualised with a name or in relation to other objects from the same or other issues. 
+The metadata should describe the specific edition to which the object belongs, it can be expressed as a fractional number or contextualised with a name or in relation to other objects from the same or other issues. 
 
 * For objects issued in multiples at the same time, record the edition information as a fractional number: the impression number/edition size.
 * If the impression number is unknown, record the size of the edition, if known.

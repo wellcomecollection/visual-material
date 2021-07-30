@@ -1,5 +1,5 @@
 ---
-description: '2D objects, 3D objects, born digital'
+description: 'Optional: 2D objects, 3D objects'
 ---
 
 # Colour
@@ -29,10 +29,6 @@ Terms could include:
 * Includes 5 hand-coloured
 * All black and white 
 * Mix of sepia and blue tone  
-{% endtab %}
-
-{% tab title="Born digital" %}
-
 {% endtab %}
 {% endtabs %}
 

@@ -1,5 +1,5 @@
 ---
-description: '2D Objects, 3D Objects'
+description: 'Required: 2D Objects, 3D Objects'
 ---
 
 # Place
@@ -34,9 +34,15 @@ Nepalese
 Italian School
 {% endhint %}
 
-
-
 If uncertain or place is ambiguous include the term possibly or probably before it. 
+
+## Group of Objects
+
+Record all known places of creation and/or publication associated with the group of objects as suggested above.
+
+If this would result in too many different places than is practicable, choose the most prominent or common. 
+
+
 
 
 
