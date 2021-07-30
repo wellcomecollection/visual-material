@@ -1,5 +1,5 @@
 ---
-description: 'Optional. 2D, 3D Objects, Born Digital'
+description: 'Optional: 2D Objects, 3D Objects, Born Digital'
 ---
 
 # Gallery Label

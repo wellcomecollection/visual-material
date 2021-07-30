@@ -1,3 +1,7 @@
+---
+description: 'Optional: 2D Objects, 3D Objects, Born Digital'
+---
+
 # Copyright
 
 ## Definition 

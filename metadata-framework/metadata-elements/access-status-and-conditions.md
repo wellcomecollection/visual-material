@@ -1,12 +1,12 @@
 ---
-description: 'Required: 2D Objects, 3D Objects, Born Digital.'
+description: 'Required: 2D Objects, 3D Objects, Born Digital'
 ---
 
 # Access Status and Conditions
 
 ## Definition
 
-This element is for recording the access status and related conditions of access to the material 
+This element is for recording the access status and related conditions of access to the material. 
 
 
 

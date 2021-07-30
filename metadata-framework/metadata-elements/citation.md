@@ -1,12 +1,12 @@
 ---
-description: '2D, 3D, Born Digital'
+description: 'Required: 2D Objects, 3D Objects, Born Digital'
 ---
 
 # Citation
 
 ## Definition
 
-This element records how to cite the object or group of objects described in publications held by Wellcome Collection.
+This element records how to cite the object or group of objects for published re-use.
 
 ## Layout 
 

@@ -1,5 +1,5 @@
 ---
-description: '2D, 3D, Born Digital'
+description: 'Required, if relevant: 2D Objects, 3D Objects, Born Digital'
 ---
 
 # Reference Information
@@ -11,4 +11,14 @@ This element records references to published material and other supporting docum
 ## Layout
 
 Use APA, MLA or Harvard?
+
+{% hint style="info" %}
+APA - Cervone, D., & Pervin, L.A. \(2017\). _Personality: Theory and research_ \(13th ed.\). Wiley. 
+
+MLA - Cervone, D., & Pervin, L.A. _Personality: Theory and research,_ 13th ed., __Wiley, 2017.  __
+
+Harvard - Cervone, D., & Pervin, L.A. \(2017\). _Personality: Theory and research._ 13th ed. Wiley. 
+{% endhint %}
+
+
 

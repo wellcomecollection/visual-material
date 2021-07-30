@@ -48,6 +48,10 @@ A White woman is depicted in a white dress and bonnet and seated in a wooden cha
 The work is titled 'The cholic', and so it likely represents the muscular contractions and discomfort associated with Colic pain. \(Cataloguer's Interpretation\)
 {% endhint %}
 
+{% hint style="info" %}
+Two young men in an intimate pose. There is a suggestion of real affection and intimacy in this photograph which seems to go beyond comradeship \(James Gardiner\)
+{% endhint %}
+
 
 
 

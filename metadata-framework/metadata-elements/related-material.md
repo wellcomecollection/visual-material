@@ -1,3 +1,7 @@
+---
+description: 'Optional: 2D Objects, 3D Objects, Born Digital'
+---
+
 # Related Material
 
 ## Definition
@@ -13,10 +17,6 @@ Record the general relational link between the object and the object or group of
 * Wellcome Collection holds a photograph of this object at \[567733i\]\([https://wellcomecollection.org/works/hj28e97p](https://wellcomecollection.org/works/hj28e97p)\)
 * This object references this object \[67089i\]\([https://wellcomecollection.org/works/v3w3x8xa](https://wellcomecollection.org/works/v3w3x8xa)\)
 {% endhint %}
-
-## Layout 
-
-Record the relationship as free text. 
 
  
 
