@@ -98,7 +98,11 @@ If multiple entities were involved in creating the object or group of objects, r
 
 Include biographical information on the creator when such information is not common knowledge and where the objects are unique or significant to Wellcome Collection.
 
-### Work after the work of....
+## Works after the work of another creator
+
+Where an object is considered to be inspired by, or based on the work of another creator, ie _after_ that artist, include a note in the catalogue record recognising this fact. 
+
+Include the the name of the original creator as a named creator entry, with the relator term....?
 
 ## Related elements
 
