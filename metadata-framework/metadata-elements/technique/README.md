@@ -14,6 +14,7 @@ Technique refers to a specific process for applying or forming a material to cre
 * chalk drawing 
 * acrylic painting
 * stone carving
+* engraving
 * frosting
 {% endhint %}
 
