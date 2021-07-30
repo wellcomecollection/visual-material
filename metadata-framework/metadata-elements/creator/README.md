@@ -56,13 +56,17 @@ Thompson, J. \(John\), 1837-1921, photographer
 
 Hogarth, William, 1697-1764
 
-Shrigley, David, artist 
+Shrigley, David, artist
+
+Wren, Christopher, Sir, 1632-1723, architect
 {% endhint %}
 
 When an artist is recognised by a single name, prefer the known name over Surname, First name structure.
 
 {% hint style="info" %}
 Raphael, 1493-1520
+
+Cassils, artist
 {% endhint %}
 
 **Corporate names**  
@@ -74,15 +78,13 @@ Wellcome Collection, commissioning body
 
 ### v. Dates
 
-For personal names include dates if known.
+For personal names include dates if known.\* 
 
 Where the birth and death dates are not known, include the full range of dates for the artworks you are aware of, as an approximate active date.
 
 {% hint style="info" %}
 Bell, Stuart, active 1966-68
 {% endhint %}
-
-For corporate names, dates are only applied to names in relation to meeting or conference dates.
 
 ### vi. Role of creator
 
@@ -104,5 +106,6 @@ Include biographical information on the creator when such information is not com
 
 _Future Wish List:_  
 _CCO ideal: in-house name authority list. The current situation using Authorities managed by Backstage doesn't allow for the adding of additional known information.  
-CCO would record Nationality._         
+\*_When using names taken from the LC authority file use the same dates as recorded in the authority record.  
+_CCO would record Nationality._         
 
