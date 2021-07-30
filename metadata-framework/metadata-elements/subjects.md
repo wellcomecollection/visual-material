@@ -39,7 +39,9 @@ Marble Arch
 
 Vase
 
-American Revolution
+United States - History - Revolution, 1775-1783
+
+Newcastle-Upon-Tyne \(Northumberland, England\)
 
 Goldfinch
 {% endhint %}
@@ -66,7 +68,7 @@ Adoration of the Magi
 
 At Wellcome the subject element is recorded as subject terms. It may repeat terms used in the Title, Creator or Object description. An additional free text note may be added where clarification is required.
 
-A controlled list of terms must be used to ensure consistency with terminology based on [LCSH](https://authorities.loc.gov/), Getty [AAT](http://www.getty.edu/research/tools/vocabularies/aat), and [MeSH](https://meshb.nlm.nih.gov/search).  If possible, subject terms and related information should be stored in authorities linked to the work record.
+A controlled list of terms must be used to ensure consistency with terminology based on [LCSH](https://authorities.loc.gov/), Getty [AAT](http://www.getty.edu/research/tools/vocabularies/aat), and [MeSH](https://meshb.nlm.nih.gov/search).  If possible, subject terms and related information should be stored in authorities linked to the work record. In addition to topical subject terms, LCSH & AAT can be used to identify terms for personal and corporate names, and LCSH is a source of authorised terms for geographical places, and historical events.
 
 Multiple terms can be chosen up to 10 subject terms. Where more than 10 could be selected, choose the most prominent to record.
 
