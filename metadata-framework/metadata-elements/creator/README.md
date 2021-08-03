@@ -10,24 +10,28 @@ The Creator element should capture the name\(s\) of those responsible for the de
 
 Creators can be individuals, groups of individuals, corporate bodies or other entities involved in the creation of an object.
 
-For published works, particularly prints, recording the publisher, if known, as a creator is also useful. 
+For published works, particularly prints, record the publisher as a creator, if known. 
 
-### i. Identifying creators
+## Identifying creators
 
 The names of creators should be taken from the object itself or accompanying documentation from acquisition, previous cataloguing or provenance records. Where the creator name is taken from another source ensure that information is noted in the record and include a reference to the source.
 
-### ii. Unknown creators
+### ii. Uncertain attribution
 
-Where a creator is not known the creator element can be omitted. If the geographical origin is known this can be used in the description to provide background to an unknown creator, e.g. Italian.
+If attribution is uncertain or contested, record the attributed name\(s\) in the creator field and clarify the attribution with a qualifying term in a note.
 
-### iii. Ambiguous creators
+#### Attributions to a known creator
 
-If attribution is uncertain or ambiguous record this information elsewhere in the record.
+Where the name of the attributed creator is known use one of the following terms:
 
 {% hint style="info" %}
-attributed to Raphael
+attributed to
 
-probably by F. Vizetelly
+formerly attributed to
+
+probably by
+
+possibly by
 {% endhint %}
 
 If opinion on attribution is divided, then record this information in the record and index all the names in question.
@@ -36,13 +40,44 @@ If opinion on attribution is divided, then record this information in the record
 possibly by Denis Gascoigne Lillie or T. Jeffery Parker.
 {% endhint %}
 
-### iv. Name
+### iii. Unknown creators
+
+Where a creator is not known the creator element can be omitted. If the geographical origin is known this can be used in the description to provide background to an unknown creator, e.g. Italian.
+
+#### Unknown creators linked to a known creator
+
+Where the creator is unknown but they are known to have worked closely with a known creator or have been influenced by their work, use a qualifying term in a note to explain that association. 
+
+{% hint style="info" %}
+studio of
+
+pupil of 
+
+follower of
+
+style of
+
+after
+{% endhint %}
+
+### iii. Works after the work of another creator
+
+Where an object is considered to be based on the work of another creator, ie _after_ that artist, include a note in the catalogue record recognising this fact, using the qualifying term **after**.
+
+{% hint style="info" %}
+engraving by Rigou after Hogarth
+{% endhint %}
+
+Include the the name of the original creator as a named creator entry, with the relator term....? of
+
+## Name **source and format**
 
 The format and spelling for creator names should be taken from an authority list to ensure consistency. Check for an entry in the **Wellcome Collection catalogue** and use this if present.
 
 If the name is new to the Wellcome catalogue, check: [**Library of Congress authorities**](https://authorities.loc.gov/) **\(LC\)**, [**Getty Union List of Artists Names**](http://www.getty.edu/research/tools/vocabularies/ulan/) **\(ULAN\)** or other reliable sources. When using an existing entry in the Wellcome Catalogue or Library of Congress authority list, enter the name exactly as written in the authoritative source. Relator terms \(see below\) can be added as an addition to authority name entries. 
 
-**Personal names**  
+### **i. Personal names**
+
 If there is more than one version of the name in use, select the most commonly used.
 
 When creating an entry for names not found in authority lists, structure personal names as follows, include the known or relevant elements:
@@ -71,14 +106,15 @@ Raphael, 1493-1520
 Cassils, artist
 {% endhint %}
 
-**Corporate names**  
+### **ii. Corporate names**
+
 If no authority can be found, take the name as it is written on the object or accompanying documentation. Where there is more than one version of the name in use prefer the version found in the LC or ULAN authority lists.
 
 {% hint style="info" %}
 Wellcome Collection, commissioning body
 {% endhint %}
 
-### v. Dates
+### iii. Dates
 
 For personal names include dates if known. When using names taken from the LC authority file use the same dates as recorded in the authority record.
 
@@ -88,23 +124,17 @@ Where the birth and death dates are not known, include the full range of dates f
 Bell, Stuart, active 1966-68
 {% endhint %}
 
-### vi. Role of creator
+### iv. Role of creator
 
 In addition to the creator name, record the relationship of that person/entity to the object, i.e. their role in its creation. To ensure consistency, terminology should be taken from the Wellcome [**Relator Terms list**](relator-terms.md). If no appropriate terms are listed use another concise term to indicate the nature of the relationship.
 
-### vii. Multiple creators
+## Multiple creators
 
 If multiple entities were involved in creating the object or group of objects, record all of them in the manner above. If they are too numerous, record the most important or most prominent. This includes both individuals and organisations involved in the commission, production, copying, alteration and/or publication.
 
-### viii. Biographical details
+## Biographical details
 
 Include biographical information on the creator when such information is not common knowledge and where the objects are unique or significant to Wellcome Collection.
-
-## Works after the work of another creator
-
-Where an object is considered to be inspired by, or based on the work of another creator, ie _after_ that artist, include a note in the catalogue record recognising this fact. 
-
-Include the the name of the original creator as a named creator entry, with the relator term....?
 
 ## Related elements
 
