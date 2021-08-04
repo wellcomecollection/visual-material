@@ -56,7 +56,7 @@ The Doecker hospital huts recently purchased for the accommodation of the wounde
 
 ## Inscribed dates
 
-Where the date is inscribed on an object in a differing format to elsewhere in the record in the record, the cataloguer should transcribe as it is written in a free text date field or in a separate explanatory note. The transcribed date can be qualified by including the date in an unambiguous form within square brackets.
+Where the date is inscribed on an object in a differing format to elsewhere in the record, the cataloguer should transcribe as it is written, in a free text date field or in a separate explanatory note. The transcribed date can be qualified by including the date in an unambiguous form within square brackets.
 
 {% hint style="info" %}
 May 14 '53 \[14 May 1953\]
