@@ -54,6 +54,16 @@ If an inscription is too long to transcribe, transcribe part of it and indicate 
 The Doecker hospital huts recently purchased for the accommodation of the wounded sent home from South Africa ... from a photograph by Stephen Cribb, Southsea
 {% endhint %}
 
+## Inscribed dates
+
+Where the date is inscribed on an object in a differing format to elsewhere in the record in the record, the cataloguer should transcribe as it is written in a free text date field or in a separate explanatory note. The transcribed date can be qualified by including the date in an unambiguous form within square brackets.
+
+{% hint style="info" %}
+May 14 '53 \[14 May 1953\]
+
+7.9.71 \[7 September 1971\]
+{% endhint %}
+
 ## Ambiguity and uncertainty
 
 For any words or characters that are not clear, include these within square brackets to indicate uncertainty.
