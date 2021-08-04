@@ -4,7 +4,7 @@ Metadata created for the Collections must apply the principles outlined in the C
 
 ## Sources of Information
 
-The chief source of information is any text provided by the creator on or with the item being catalogued. DCRM\(G\)
+The chief source of information is any text provided by the creator on or with the item being catalogued. [DCRM\(G\)](https://rbms.info/files/dcrm/dcrmg/DCRMG-A4.pdf)
 
 If further information is available, beyond that provided by the creator or the item, then this should be included in the record and the source acknowledged where appropriate.
 
