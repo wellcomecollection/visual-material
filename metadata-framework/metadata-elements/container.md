@@ -20,6 +20,7 @@ Main known containers in the collection include:
 * Sheet
 * Canvas
 * Panel
+* Plate
 
 If the container is to be recorded and produced separately, the container element should not be used. 
 
