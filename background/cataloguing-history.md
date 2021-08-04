@@ -10,9 +10,9 @@ First written 1992, 4th revision 1996.
 \*\*\*\*[**The Description**](https://wellcomecloud.sharepoint.com/:w:/r/sites/wc2/cr/ci/Cataloging/Visual%20%26%20material%20culture/Visual%20%26%20material%20culture%20cataloguing%20guidelines%20%28version%20history%29/Pre2018%20Visual%20%26%20Material%20Cataloguing/Wellcome%20Library%20Iconographic%20Collections.docx?d=wc085bba070914f07950522da8b202ff3&csf=1&web=1&e=al9KmS) **\[Rules for the Brief Description\]**  
 5th edition, 2002
 
-[**Cribsheet 2013**](https://wellcomecloud.sharepoint.com/:w:/r/sites/wc2/cr/ci/Cataloging/Visual%20%26%20material%20culture/Visual%20%26%20material%20culture%20cataloguing%20guidelines%20%28version%20history%29/Pre2018%20Visual%20%26%20Material%20Cataloguing/crib2013.doc?d=w9a8c72c85f0046c29e17ee379e4ff405&csf=1&web=1&e=1PoZyM)\*\*\*\*
+\[Iconographic cataloguing\] [**Crib sheet 2013**](https://wellcomecloud.sharepoint.com/:w:/r/sites/wc2/cr/ci/Cataloging/Visual%20%26%20material%20culture/Visual%20%26%20material%20culture%20cataloguing%20guidelines%20%28version%20history%29/Pre2018%20Visual%20%26%20Material%20Cataloguing/crib2013.doc?d=w9a8c72c85f0046c29e17ee379e4ff405&csf=1&web=1&e=1PoZyM)\*\*\*\*
 
-[**Cribsheet 201**](https://wellcomecloud.sharepoint.com/:w:/r/sites/wc2/cr/ci/Cataloging/Visual%20%26%20material%20culture/Visual%20%26%20material%20culture%20cataloguing%20guidelines%20%28version%20history%29/Pre2018%20Visual%20%26%20Material%20Cataloguing/crib2015.doc?d=wbafeddcb459c4fec9c91fac5113d4b7a&csf=1&web=1&e=HciiWl#)**5**
+\[Iconographic cataloguing\] [**Crib sheet 201**](https://wellcomecloud.sharepoint.com/:w:/r/sites/wc2/cr/ci/Cataloging/Visual%20%26%20material%20culture/Visual%20%26%20material%20culture%20cataloguing%20guidelines%20%28version%20history%29/Pre2018%20Visual%20%26%20Material%20Cataloguing/crib2015.doc?d=wbafeddcb459c4fec9c91fac5113d4b7a&csf=1&web=1&e=HciiWl#)**5**
 
 \*\*\*\*[**WS notes on 246 & 415 Lettering fields**](https://wellcomecloud.sharepoint.com/:w:/r/sites/wc2/cr/ci/Cataloging/Visual%20%26%20material%20culture/Visual%20%26%20material%20culture%20cataloguing%20guidelines%20%28version%20history%29/Pre2018%20Visual%20%26%20Material%20Cataloguing/246%20and%20514%20Lettering.doc?d=w33b7a715c53d4739bd2c47558c712352&csf=1&web=1&e=cUeFME)\*\*\*\*
 
