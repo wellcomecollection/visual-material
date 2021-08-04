@@ -104,13 +104,7 @@ For free text fields in a database, record the date to the greatest specificity 
   </tbody>
 </table>
 
-Where the date is inscribed on an object in a differing format this should be recorded in the record within a free text date field or in a separate explanatory note. The transcribed date can be qualified by including the date in an unambiguous form within square brackets.
-
-{% hint style="info" %}
-May 14 '53 \[14 May 1953\]
-
-7.9.71 \[7 September 1971\]
-{% endhint %}
+Where the date is inscribed on an object in a differing format this should be recorded in the record within a free text date field or in a separate explanatory note. The transcribed date can be qualified by including the date in an unambiguous form within square brackets. _See Inscription element._ 
 
 ### iii. Source of Date
 
@@ -124,5 +118,5 @@ For **groups of objects**, ****record the range of dates for the earliest known 
 
 ### Related elements
 
-Dates transcribed from the object are included in the Inscription element. 
+Dates transcribed from the object are included in the **Inscription element**. 
 
