@@ -16,13 +16,9 @@ For published works, particularly prints, record the publisher as a creator, if 
 
 The names of creators should be taken from the object itself or accompanying documentation from acquisition, previous cataloguing or provenance records. Where the creator name is taken from another source ensure that information is noted in the record and include a reference to the source.
 
-### ii. Uncertain attribution
+### i. Uncertain attribution
 
-If attribution is uncertain or contested, record the attributed name\(s\) in the creator field and clarify the attribution with a qualifying term in a note.
-
-#### Attributions to a known creator
-
-Where the name of the attributed creator is known use one of the following terms:
+If attribution is uncertain or contested, record the attributed name\(s\) in the creator field and clarify the attribution with a qualifying term in a note. Where the name of the attributed creator is known use one of the following terms:
 
 {% hint style="info" %}
 attributed to
@@ -40,7 +36,7 @@ If opinion on attribution is divided, then record this information in the record
 possibly by Denis Gascoigne Lillie or T. Jeffery Parker.
 {% endhint %}
 
-### iii. Unknown creators
+### ii. Unknown creators
 
 Where a creator is not known the creator element can be omitted. If the geographical origin is known this can be used in the description to provide background to an unknown creator, e.g. Italian.
 
@@ -62,19 +58,17 @@ after
 
 ### iii. Works after the work of another creator
 
-Where an object is considered to be based on the work of another creator, ie _after_ that artist, include a note in the catalogue record recognising this fact, using the qualifying term **after**.
+Where an object is considered to be based on a work by another creator, include a note in the catalogue record recognising this fact, using the qualifying term **after**.
 
 {% hint style="info" %}
-engraving by Rigou after Hogarth
+engraving by Rigou after William Hogarth
 {% endhint %}
-
-Include the the name of the original creator as a named creator entry, with the relator term....? of
 
 ## Name **source and format**
 
 The format and spelling for creator names should be taken from an authority list to ensure consistency. Check for an entry in the **Wellcome Collection catalogue** and use this if present.
 
-If the name is new to the Wellcome catalogue, check: [**Library of Congress authorities**](https://authorities.loc.gov/) **\(LC\)**, [**Getty Union List of Artists Names**](http://www.getty.edu/research/tools/vocabularies/ulan/) **\(ULAN\)** or other reliable sources. When using an existing entry in the Wellcome Catalogue or Library of Congress authority list, enter the name exactly as written in the authoritative source. Relator terms \(see below\) can be added as an addition to authority name entries. 
+If the name is new to the Wellcome catalogue, check: [**Library of Congress authorities**](https://authorities.loc.gov/) **\(LC\)**, [**Getty Union List of Artists Names**](http://www.getty.edu/research/tools/vocabularies/ulan/) **\(ULAN\)** or other reliable sources. When using an existing entry in the Wellcome Catalogue, LC or ULAN authority lists, enter the name exactly as written in the authoritative source. Relator terms \(see below\) can be added as an addition to authority name entries. 
 
 ### **i. Personal names**
 
