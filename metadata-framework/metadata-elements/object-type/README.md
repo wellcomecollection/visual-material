@@ -35,7 +35,7 @@ Multiple terms can be chosen for the same object or group of objects, if known o
 {% hint style="info" %}
 4 image files 
 
-drawings and paintings
+drawings, paintings
 {% endhint %}
 
 
@@ -51,13 +51,13 @@ poster
 {% hint style="info" %}
 5 photographs
 
-glass plate negatives and sheet film 
+glass plate negatives, sheet film 
 {% endhint %}
 
 ## **Related fields**
 
 Object type terms for 2D graphic objects may be duplicated in the **Technique** element.   
-Object type is recorded in association with the **Number of Objects**
+The broadest applicable Object type is recorded in association with the **Number of Objects**
 
 Object type is recorded in association with **Container**, where applicable  
 

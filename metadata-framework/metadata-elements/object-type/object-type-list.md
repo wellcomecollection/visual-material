@@ -19,6 +19,7 @@ Select all that are applicable to the object or group of objects being catalogue
 | Negative |
 | Painting |
 | Photograph |
+| Photographic print \[to be used instead of print\] |
 | Plan |
 | Postage stamp |
 | Postcard |
