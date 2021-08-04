@@ -19,25 +19,15 @@ Record the date the object was created or produced as standardised below.
 If applicable and known, record the date the object was published.
 
 **Other Dates**  
-For some objects there can be multiple creation dates relating to different aspects of the process, or a date range to capture a period of creation. Where necessary include a note to explain the dates given to the object. Any other known dates associated with the alteration of the object, or if the object is a copy of another, should be added to a note or description field in the record.
+Some objects can have multiple creation dates relating to different aspects of the process, or a date range to capture a period of creation. Where necessary include a note to explain the dates given to the object. Any other known dates associated with the alteration of the object should be added to a note or description field in the record.
 
 {% hint style="info" %}
 photograph taken 1898, printed 1914
 {% endhint %}
 
-Information on including the date of acquisition, purchase and/or accession in a catalogue record is included in the [provenance element](provenance.md). 
+Dates relating acquisition, purchase, accession or ownership of an object should be included in the [provenance element](provenance.md). 
 
-### ii. Transcribed Date
-
-The date should be transcribed as it appears on the object in the catalogue record, within a free text date field or in a separate explanatory note. The transcribed date can be qualified by including the date in an unambiguous form within square brackets.
-
-{% hint style="info" %}
-May 14 '53 \[14 May 1953\]
-
-7.9.71 \[7 September 1971\]
-{% endhint %}
-
-### iii Date Formats
+### ii Date Formats
 
 For dates recorded in fixed fields in a database, enter the year or range of years. Where a range of years applies, record the Earliest and Latest dates in dedicated fields. 
 
@@ -114,9 +104,25 @@ For free text fields in a database, record the date to the greatest specificity 
   </tbody>
 </table>
 
-For **groups of objects**, ****record the range of dates for the earliest known or estimated date to the latest known or estimated date for the _**whole group**_ of objects being catalogued, not ranges of dates for each object. 
+Where the date is inscribed on an object in a differing format this should be recorded in the record within a free text date field or in a separate explanatory note. The transcribed date can be qualified by including the date in an unambiguous form within square brackets.
 
-### iv. Source of Date
+{% hint style="info" %}
+May 14 '53 \[14 May 1953\]
+
+7.9.71 \[7 September 1971\]
+{% endhint %}
+
+### iii. Source of Date
 
 Where dates are taken from another source or estimated this must be made clear in the record, either within an explanatory note or by the use of square brackets. 
+
+### iv. Dates for Groups of Objects
+
+For **groups of objects**, ****record the range of dates for the earliest known or estimated date to the latest known or estimated date for the _**whole group**_ of objects being catalogued, not ranges of dates for each object. 
+
+
+
+### Related elements
+
+Dates transcribed from the object are included in the Inscription element. 
 
