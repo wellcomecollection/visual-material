@@ -100,7 +100,7 @@ Record the source of the preferred \(main\) title used in the catalogue record. 
 
 ## Amending the Preferred Title
 
-If a new title needs to be given where an existing cataloguer title is incorrect, insufficient or offensive, include the existing title as an alternative title in the the following layout:
+If a new title needs to be given where an existing descriptive title is incorrect, insufficient or offensive, retain the existing title as an alternative title in the the following layout:
 
 Previous title, replaced DATE \(Month Year\): Text of previous title
 
