@@ -34,7 +34,6 @@
     * [Technique List](metadata-framework/metadata-elements/technique/medium.md)
     * [Material List](metadata-framework/metadata-elements/technique/materials.md)
   * [Colour](metadata-framework/metadata-elements/colour.md)
-  * [Container/Support](metadata-framework/metadata-elements/container.md)
   * [Place of creation](metadata-framework/metadata-elements/place.md)
   * [Subjects](metadata-framework/metadata-elements/subjects.md)
   * [Wellcome Legacy Subject Classification](metadata-framework/metadata-elements/previous-subject-classification.md)

@@ -36,6 +36,7 @@ Specify what is being measured using the following standard terms:
 * Sketchbook
 * Scrapbook
 * Print
+* Plate
 * Negative 
 * Canvas
 * Panel

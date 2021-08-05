@@ -28,3 +28,13 @@ The National Library of Scotland have been working on a glossary of terms - link
 
 ## Style
 
+
+
+## Additional Thesauri options
+
+For certain collections additional thesauri may be considered, with a note provided in the record to state use.
+
+[Chinese Iconography Thesaurus ](https://chineseiconography.org/thes/1)
+
+[Homosaurus](https://homosaurus.org/) \(wider discussion needed on adoption\)
+

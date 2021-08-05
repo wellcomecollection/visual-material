@@ -84,12 +84,6 @@ Subject Headings: Zeus; Poseidon; Amphitrite
 Probably represents Zeus and a female consort, but possibly Poseidon and Amphitrite
 {% endhint %}
 
-For certain collections additional thesauri may be considered, with a note provided in the record to state use.
-
-[Chinese Iconography Thesaurus ](https://chineseiconography.org/thes/1)
-
-[Homosaurus](https://homosaurus.org/) \(wider discussion needed on adoption\)
-
 ## Layout
 
 Use the plural form.

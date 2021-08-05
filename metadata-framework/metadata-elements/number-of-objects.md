@@ -26,17 +26,11 @@ For objects where multiple component parts are being described in a single recor
 
 {% hint style="info" %}
 3 drawings, 20 prints, 40 photographs
-
-20 glass negatives, 26 photographs
 {% endhint %}
 
-The data for number of objects is best expressed in conjunction with the **object type,** and the **container** or **support** where relevant. 
-
-Record where there are multiple images on or within a single physical item.
+Where there are multiple images on or within a single physical item, the data for number of objects is best expressed in conjunction with the **container** or **support** where relevant. 
 
 {% hint style="info" %}
-60 glass negatives in 1 box 
-
 2 drawings on 1 sheet 
 
 1 painting in 3 panels 
@@ -45,12 +39,38 @@ Record where there are multiple images on or within a single physical item.
 
 3 drawings on 1 mount
 {% endhint %}
+
+Where there are multiple images on a single support but also multiple supports, both should be expressed. 
+
+{% hint style="info" %}
+2 photographs on 1 plate, 2 photographs on 2 sheets
+{% endhint %}
 {% endtab %}
 {% endtabs %}
 
-## **Related fields**
+Any container or housing that is catalogued with the object or group of objects, either its container upon acquisition or if given to it during exhibition,  should be described in a descriptive note. 
 
-Number of Objects is recorded in association with Object Type and Container/Support. 
+{% hint style="info" %}
+mounted and framed
+
+framed during Wellcome exhibition
+
+in metal box acquired with object.
+{% endhint %}
+
+Additional information written on the original container, the condition and/or the physical characteristics of the container, may also be included in a descriptive or provenance note to enhance the record.
+
+If the container is to be recorded and produced separately, a reference to it should be added in a descriptive note. 
+
+{% hint style="info" %}
+Catalogue record for metal box acquired with object 540972i. 
+{% endhint %}
+
+## Related Elements 
+
+The dimensions of a container, if relevant, may be recorded as part of the [dimensions](dimensions.md) element.
+
+Number of Objects is recorded in association with Object Type. 
 
 ## 
 
