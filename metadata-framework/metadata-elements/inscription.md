@@ -90,7 +90,7 @@ Artist London Proof \(stamped bottom right\)
 
 ## Related elements
 
-* Record **watermarks** in **Materials and Technique**s element.
+* Record any notable **watermarks** in an explanatory note.
 * Record **inscribed titles** in the **Title** element. 
 * Where **names** occur in text in the image, consider including them as entries in the **Subject** or **Creator** elements.  
 
