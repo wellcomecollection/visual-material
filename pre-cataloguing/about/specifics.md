@@ -1,10 +1,6 @@
 # Identifying photographs
 
-## Process
-
-### Object View
-
-Looking at the object without magnification or additional lighting. Helpful to narrow down potential date ranges. 
+## General Tips
 
 #### Subject
 
@@ -24,7 +20,7 @@ Whilst paper is the most common support, certain supports can indicate a specifi
 
 #### Colour and tone
 
-The chemicals used in the process as well as the stability of the compounds over time will affect the colour of the photograph. This[ chart](http://www.graphicsatlas.org/media/pdfs/image_color.pdf) better helps understand the visual difference in colour and tone and [this](http://www.graphicsatlas.org/media/pdfs/image_deterioration.pdf) for specific image deterioration that might indicate specific techniques. 
+The chemicals used in the process as well as the stability of the compounds over time will affect the colour of the photograph. This[ chart](http://www.graphicsatlas.org/media/pdfs/image_color.pdf) helps show the visual difference in colour and tone and [this](http://www.graphicsatlas.org/media/pdfs/image_deterioration.pdf) for specific image deterioration that might indicate specific techniques. 
 
 #### Surface
 
