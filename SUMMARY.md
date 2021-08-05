@@ -35,7 +35,7 @@
     * [Material List](metadata-framework/metadata-elements/technique/materials.md)
   * [Colour](metadata-framework/metadata-elements/colour.md)
   * [Container/Support](metadata-framework/metadata-elements/container.md)
-  * [Place](metadata-framework/metadata-elements/place.md)
+  * [Place of creation](metadata-framework/metadata-elements/place.md)
   * [Subjects](metadata-framework/metadata-elements/subjects.md)
   * [Previous Subject Classification](metadata-framework/metadata-elements/previous-subject-classification.md)
   * [Edition](metadata-framework/metadata-elements/edition.md)
