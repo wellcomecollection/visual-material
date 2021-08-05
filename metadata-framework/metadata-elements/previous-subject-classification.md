@@ -1,4 +1,4 @@
-# Previous Subject Classification
+# Wellcome Legacy Subject Classification
 
 ## Definition 
 

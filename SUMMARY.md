@@ -37,7 +37,7 @@
   * [Container/Support](metadata-framework/metadata-elements/container.md)
   * [Place of creation](metadata-framework/metadata-elements/place.md)
   * [Subjects](metadata-framework/metadata-elements/subjects.md)
-  * [Previous Subject Classification](metadata-framework/metadata-elements/previous-subject-classification.md)
+  * [Wellcome Legacy Subject Classification](metadata-framework/metadata-elements/previous-subject-classification.md)
   * [Edition](metadata-framework/metadata-elements/edition.md)
   * [State](metadata-framework/metadata-elements/state.md)
   * [Language](metadata-framework/metadata-elements/language.md)
