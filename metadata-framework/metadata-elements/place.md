@@ -10,7 +10,7 @@ This element records the place of creation and/or publication of an object.
 
 ## Terminology
 
-Record as it appears on the work. If the location is now commonly known by another name, also include this term. 
+Record as it appears on the work.
 
 {% hint style="info" %}
 Stanleyville 
@@ -18,9 +18,11 @@ Stanleyville
 Kisangani, Democratic Republic of the Congo
 {% endhint %}
 
-Otherwise record as current town/city then country, where known.
+If not supplied and can be determined from supporting documentation or publications, record as current town/city then country.
 
 {% hint style="info" %}
+Kisangani, Democratic Republic of the Congo
+
 Philadelphia, United States of America
 
 United Kingdom
