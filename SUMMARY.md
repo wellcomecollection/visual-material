@@ -41,7 +41,6 @@
   * [Condition](metadata-framework/metadata-elements/condition.md)
   * [Copyright](metadata-framework/metadata-elements/reproduction-conditions.md)
   * [Location](metadata-framework/metadata-elements/location.md)
-* [Metadata Table](metadata-framework/metadata-table.md)
 * [Metadata Crosswalk](metadata-framework/metadata-crosswalk.md)
 
 ## PRE CATALOGUING CONSIDERATIONS <a id="pre-cataloguing"></a>
