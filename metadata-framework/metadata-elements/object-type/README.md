@@ -54,7 +54,7 @@ poster
 glass plate negatives, sheet film 
 {% endhint %}
 
-## **Related fields**
+## **Related Elements**
 
 Object type terms for 2D graphic objects may be duplicated in the **Technique** element.   
 The broadest applicable Object type is recorded in association with the **Number of Objects**

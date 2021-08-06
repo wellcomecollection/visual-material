@@ -130,7 +130,7 @@ If multiple entities were involved in creating the object or group of objects, r
 
 Include biographical information on the creator when such information is not common knowledge and where the objects are unique or significant to Wellcome Collection.
 
-## Related elements
+## Related Elements
 
 * Where Creator names occur in text in the image, transcribe them in the  **Inscription/Marks** element.  
 

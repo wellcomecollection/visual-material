@@ -118,9 +118,7 @@ Untitled should not be used as a title when an object has no given title.
 Untitled. [3272401i](https://wellcomecollection.org/works/rnsgfs2m)
 {% endhint %}
 
-
-
-### Related Fields
+## Related Elements
 
 Detailed visual description
 

@@ -114,9 +114,7 @@ Where dates are taken from another source or estimated this must be made clear i
 
 For **groups of objects**, ****record the range of dates for the earliest known or estimated date to the latest known or estimated date for the _**whole group**_ of objects being catalogued, not ranges of dates for each object. 
 
-
-
-### Related elements
+## Related Elements
 
 Dates transcribed from the object are included in the **Inscription element**. 
 

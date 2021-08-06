@@ -88,7 +88,7 @@ If the mark can be attributed to a particular person or identifiable body then i
 Artist London Proof \(stamped bottom right\)
 {% endhint %}
 
-## Related elements
+## Related Elements
 
 * Record any notable **watermarks** in an explanatory note.
 * Record **inscribed titles** in the **Title** element. 
