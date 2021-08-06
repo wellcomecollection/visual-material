@@ -1,8 +1,12 @@
 ---
-description: Crosswalk for existing standards (and potentially systems)
+description: Crosswalk for existing standards
 ---
 
 # Metadata Crosswalk
+
+## Crosswalk Table
+
+[https://collectionstrust.org.uk/resource/cataloguing-suggested-procedure/](https://collectionstrust.org.uk/resource/cataloguing-suggested-procedure/)
 
 <table>
   <thead>
@@ -78,7 +82,7 @@ description: Crosswalk for existing standards (and potentially systems)
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">Object name</td>
+      <td style="text-align:left">Object name; Content- object type</td>
       <td style="text-align:left"><b>Object Type</b>
       </td>
       <td style="text-align:left">Work Type</td>
@@ -230,25 +234,25 @@ description: Crosswalk for existing standards (and potentially systems)
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">Associated concept; Associated event name; Associated object; Associated
-        organisation; Associated people; Associated place</td>
-      <td style="text-align:left"><b>Subjects</b>
-      </td>
-      <td style="text-align:left">Subject</td>
-      <td style="text-align:left"><b>16.2. General Subject Terms</b>
-      </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Content- concept; Content - people; Content- person; Content - place</td>
+      <td
+      style="text-align:left"><b>Subjects</b>
+        </td>
+        <td style="text-align:left">Subject</td>
+        <td style="text-align:left"><b>16.2. General Subject Terms</b>
+        </td>
+        <td style="text-align:left"></td>
+        <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">Associated concept; Associated event name; Associated object; Associated
-        organisation; Associated people; Associated place</td>
-      <td style="text-align:left">Wellcome Legacy Subject Classification</td>
-      <td style="text-align:left">Subject</td>
-      <td style="text-align:left"><b>16.2. General Subject Terms</b>
-      </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Content- concept; Content - people; Content- person; Content - place</td>
+      <td
+      style="text-align:left">Wellcome Legacy Subject Classification</td>
+        <td style="text-align:left">Subject</td>
+        <td style="text-align:left"><b>16.2. General Subject Terms</b>
+        </td>
+        <td style="text-align:left"></td>
+        <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Record type</td>
