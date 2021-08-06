@@ -8,15 +8,6 @@
 * [Visual and Material Culture Inventory Metadata](background/inventory-metadata.md)
 * [Historic Numbering Systems](background/historic-numbering.md)
 
-## PRE CATALOGUING CONSIDERATIONS <a id="pre-cataloguing"></a>
-
-* [Content Considerations](pre-cataloguing/sources-of-information.md)
-* [Numbering & Part Numbering](pre-cataloguing/single-group-objects.md)
-* [Identification](pre-cataloguing/about/README.md)
-  * [Identifying paintings](pre-cataloguing/about/identifying-paintings.md)
-  * [Identifying prints](pre-cataloguing/about/untitled.md)
-  * [Identifying photographs](pre-cataloguing/about/specifics.md)
-
 ## METADATA FRAMEWORK
 
 * [Metadata Elements](metadata-framework/metadata-elements/README.md)
@@ -52,6 +43,15 @@
   * [Location](metadata-framework/metadata-elements/location.md)
 * [Metadata Table](metadata-framework/metadata-table.md)
 * [Metadata Crosswalk](metadata-framework/metadata-crosswalk.md)
+
+## PRE CATALOGUING CONSIDERATIONS <a id="pre-cataloguing"></a>
+
+* [Content Considerations](pre-cataloguing/sources-of-information.md)
+* [Numbering & Part Numbering](pre-cataloguing/single-group-objects.md)
+* [Identification](pre-cataloguing/about/README.md)
+  * [Identifying paintings](pre-cataloguing/about/identifying-paintings.md)
+  * [Identifying prints](pre-cataloguing/about/untitled.md)
+  * [Identifying photographs](pre-cataloguing/about/specifics.md)
 
 ## CURRENT SYSTEM GUIDELINES
 
