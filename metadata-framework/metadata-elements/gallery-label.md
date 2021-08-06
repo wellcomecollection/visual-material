@@ -6,7 +6,7 @@ description: 'Optional: 2D Objects, 3D Objects, Born Digital'
 
 ## Definition
 
-The Gallery Label element records the text of the caption or label accompanying the object when on display in Wellcome Collection. 
+The Gallery Label element records the text of the caption or label accompanying the object when on display in Wellcome Collection or legacy exhibitions with in the institution.
 
 ## Content
 
