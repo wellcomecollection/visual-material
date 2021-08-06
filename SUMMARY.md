@@ -10,7 +10,7 @@
 
 ## PRE CATALOGUING CONSIDERATIONS <a id="pre-cataloguing"></a>
 
-* [Content considerations](pre-cataloguing/sources-of-information.md)
+* [Content Considerations](pre-cataloguing/sources-of-information.md)
 * [Numbering & Part Numbering](pre-cataloguing/single-group-objects.md)
 * [Identification](pre-cataloguing/about/README.md)
   * [Identifying paintings](pre-cataloguing/about/identifying-paintings.md)
