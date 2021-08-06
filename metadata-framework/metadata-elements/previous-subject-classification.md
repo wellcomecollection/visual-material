@@ -1,3 +1,7 @@
+---
+description: 'Required, if extant: 2D objects'
+---
+
 # Wellcome Legacy Subject Classification
 
 ## Definition 

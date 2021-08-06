@@ -1,5 +1,5 @@
 ---
-description: 'Required: 2D Objects, 3D Objects'
+description: 'Required, if known: 2D Objects, 3D Objects'
 ---
 
 # Place of creation
@@ -37,6 +37,8 @@ Italian School
 {% endhint %}
 
 If uncertain or place is ambiguous include the term possibly or probably before it. 
+
+If not, leave blank. 
 
 ## Group of Objects
 

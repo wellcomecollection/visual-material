@@ -1,5 +1,5 @@
 ---
-description: 'Required, if relevant: 2D Objects, 3D Objects'
+description: 'Required, if extant (single): 2D Objects, 3D Objects'
 ---
 
 # Edition

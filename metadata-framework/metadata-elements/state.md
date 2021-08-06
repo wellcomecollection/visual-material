@@ -1,5 +1,5 @@
 ---
-description: 'Required, if known: Prints, 3D Objects'
+description: 'Required, if known (single): 2D Objects (prints), 3D Objects'
 ---
 
 # State

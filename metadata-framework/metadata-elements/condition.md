@@ -1,5 +1,5 @@
 ---
-description: 'Optional: 2D Objects, 3D Objects'
+description: 'Required, if significant to access: 2D Objects, 3D Objects'
 ---
 
 # Condition

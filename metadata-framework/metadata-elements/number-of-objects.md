@@ -1,5 +1,5 @@
 ---
-description: 'Required: 2D Objects, 3D Objects. Repeatable.'
+description: 'Required: 2D Objects, 3D Objects, Born Digital. Repeatable.'
 ---
 
 # Number of Objects

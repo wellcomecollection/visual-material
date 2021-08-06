@@ -48,7 +48,6 @@
   * [Related Material](metadata-framework/metadata-elements/related-material.md)
   * [Citation](metadata-framework/metadata-elements/citation.md)
   * [Condition](metadata-framework/metadata-elements/condition.md)
-  * [Access Status and Conditions](metadata-framework/metadata-elements/access-status-and-conditions.md)
   * [Copyright](metadata-framework/metadata-elements/reproduction-conditions.md)
   * [Location](metadata-framework/metadata-elements/location.md)
 * [Metadata Table](metadata-framework/metadata-table.md)

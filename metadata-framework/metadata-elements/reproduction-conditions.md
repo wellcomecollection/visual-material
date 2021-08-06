@@ -1,5 +1,5 @@
 ---
-description: 'Optional: 2D Objects, 3D Objects, Born Digital'
+description: 'Required, if known: 2D Objects, 3D Objects, Born Digital'
 ---
 
 # Copyright

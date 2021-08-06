@@ -1,5 +1,5 @@
 ---
-description: 'Required, if relevant: 2D objects, 3D objects, Born Digital'
+description: 'Required, if known and extant: 2D objects, 3D objects, Born Digital'
 ---
 
 # Language
