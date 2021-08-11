@@ -132,13 +132,11 @@ Include biographical information on the creator when such information is not com
 
 Where biographical information applies to a group of objects, include it at the highest level of the cataloguing hierarchy \(if applicable\), rather than repeating at the granular level for each individual object.
 
-## Related Elements
 
-* Where Creator names occur in text in the image, transcribe them in the  **Inscription/Marks** element.  
 
  
 
 _Future Wish List:_  
-_CCO ideal: in-house name authority list. The current situation using Authorities managed by Backstage doesn't allow for the adding of additional known information.  
+_CCO ideal: in-house name authority list, or ability to influence Backstage Authority updates. The current situation using Authorities managed by Backstage doesn't allow for the adding of additional known information.  
 CCO would record Nationality._         
 
