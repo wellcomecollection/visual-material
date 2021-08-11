@@ -1,6 +1,6 @@
 # Introduction
 
-These resources are designed to support cataloguing and access to the Visual and Material Culture Collections held in Wellcome Collection. The collection, although mainly 2D graphic material, covers a broad range of formats, including prints, drawings, paintings, photographs, born digital images, sculpture and other 3D objects across the collection.
+These resources are designed to support cataloguing and access to the Visual and Material Culture Collections held in Wellcome Collection. The collection, although mainly 2D graphic material, covers a broad range of formats, including prints, drawings, paintings, photographs, born digital images, sculpture and other 3D objects.
 
 Wellcome Collection's Visual Collections are not catalogued in a single database, therefore these guidelines aim to facilitate a common approach to cataloguing, regardless of the system they are catalogued in. 
 

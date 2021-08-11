@@ -68,6 +68,10 @@ For 3D objects use a suitable term or phrase to describe the object.
 Chessmen in the form of Saracens and Crusaders.[ 553759i](https://wellcomecollection.org/works/tush7jc4)
 {% endhint %}
 
+## Language of Title
+
+It an object has a non English title, record the title in it's original language, and original script if that is supported. Record it as the main title. If a translation and/or a transliteration are also present, include these as alternative titles. 
+
 ## Title Source
 
 Record the source of the preferred \(main\) title used in the catalogue record. Record if the title was provided by the creator, has been taken from the object itself, from previous owners, from supporting documentation, or whether the title is a brief description of the work created by the cataloguer. Where possible select the appropriate text from the list below:
