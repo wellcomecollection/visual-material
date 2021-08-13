@@ -6,7 +6,7 @@ Wellcome Collection's Visual Collections are not catalogued in a single database
 
 The Background section provides an insight into historic cataloguing of the collection \(pre 2021\), and an overview of the Inventory process begun in 2019.
 
-The Metadata Framework identifies the common types of data the cataloguer should aim to include in a record, if known or applicable to the object being described. The Framework is based on the Cataloguing Cultural Objects \(CCO\) manual published by the Visual Resources Association. 
+The Metadata Framework identifies the common types of data the cataloguer should aim to include in a record, if known or applicable to the object being described. The Framework is based on the Cataloguing Cultural Objects \(CCO\) manual published by the Visual Resources Association \(VRA\). 
 
 The Current System Guidelines apply the data Elements identified in the Metadata Framework to general Library \(MARC/RDA\) and Archive \(ISAD\(G\)\) principles, creating practical guidelines for use when cataloguing. 
 
