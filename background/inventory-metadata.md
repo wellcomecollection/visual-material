@@ -15,11 +15,6 @@ Some of the data we input or select within QuickBase, is from a controlled list 
 * Drawings
 * Photographs
 * Three-dimensional art such as sculpture and architecture.
-* Prints
-* Paintings
-* Drawings
-* Photographs
-* Three-dimensional art such as sculpture and architecture.
 
 **Data headings in QuickBase**
 
