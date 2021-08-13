@@ -16,7 +16,7 @@ Metadata created for the Collections must apply the principles outlined in the C
 
 When including any information as free text i.e. not controlled terminology, think about the language being used and how the information is framed. The following offer some guidance:
 
- [APA bias-free language guide](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language)
+[APA bias-free language guide](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language)
 
 [Words Matter](https://www.tropenmuseum.nl/en/about-tropenmuseum/words-matter-publication) - a glossary which contextualises historical terms commonly used in museum collections.
 
