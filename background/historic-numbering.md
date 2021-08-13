@@ -2,7 +2,7 @@
 
 ### Accession Numbers and Registration Numbers
 
-Accession numbers and registration numbers can be identifies for an item or group of items, which can be looked up on the Transcribe Wellcome database [https://wellcome.quickbase.com/db/bqg7rhzs8](https://wellcome.quickbase.com/db/bqg7rhzs8) It is important to note that visual material has been acquired historically within the remit of both the Wellcome Historical Medical Museum and Library. 
+Accession numbers and registration numbers can be identifiers for an item or group of items, which can be looked up on the Transcribe Wellcome database [https://wellcome.quickbase.com/db/bqg7rhzs8](https://wellcome.quickbase.com/db/bqg7rhzs8) It is important to note that visual material has been acquired historically within the remit of both the Wellcome Historical Medical Museum and Library. 
 
 * Library accession numbers \(also used for manuscripts\) are numbers of up to 6 digits e.g. 43578, 329517
 * Museum accession numbers always include the 'A' prefix e.g. A123456, A4598
