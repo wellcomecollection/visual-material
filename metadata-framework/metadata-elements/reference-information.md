@@ -10,14 +10,10 @@ This element records references to published material and other supporting docum
 
 ## Layout
 
-Use APA, MLA or Harvard?
+Use APA
 
 {% hint style="info" %}
-APA - Cervone, D., & Pervin, L.A. \(2017\). _Personality: Theory and research_ \(13th ed.\). Wiley. 
-
-MLA - Cervone, D., & Pervin, L.A. _Personality: Theory and research,_ 13th ed., __Wiley, 2017.  __
-
-Harvard - Cervone, D., & Pervin, L.A. \(2017\). _Personality: Theory and research._ 13th ed. Wiley. 
+Examples for book, journal, electronic resource needed
 {% endhint %}
 
 
