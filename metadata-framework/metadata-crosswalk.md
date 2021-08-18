@@ -40,7 +40,14 @@ description: Crosswalk for existing standards
       <td style="text-align:left">Repository&#x2019;s Unique ID</td>
       <td style="text-align:left"><b>3.1.1 Reference code(s)</b>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p><b>001 </b>Reference No (Mat Types k &amp; r only)
+          <br /><b>524</b> Citation
+          <br /><b>Item shelfmark</b>
+        </p>
+        <p><em>Fields for other nos  to be identified</em>
+        </p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -52,7 +59,7 @@ description: Crosswalk for existing standards
       </td>
       <td style="text-align:left"><b>3.1.5 Extent and medium of the unit of description (quantity, bulk, or size)</b>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><b>300 |a</b> Extent</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -81,7 +88,10 @@ description: Crosswalk for existing standards
       </td>
       <td style="text-align:left"><b>3.1.2 Title</b>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p><b>245</b> Title</p>
+        <p><b>246</b> Varying forms of title</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -107,7 +117,7 @@ description: Crosswalk for existing standards
       <td style="text-align:left">Detailed Visual Description</td>
       <td style="text-align:left">Description</td>
       <td style="text-align:left">3.3.1 Scope and content</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><b>520</b> Summary</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -119,7 +129,14 @@ description: Crosswalk for existing standards
       <td style="text-align:left"><b>Controlled Subject</b>
       </td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p><b>600 </b>Subject - Personal name</p>
+        <p><b>610</b> Subject - Corporate name
+          <br /><b>648</b> Subject - Chronological term
+          <br /><b>650</b> Subject - Topical term
+          <br /><b>651</b> Subject - Geographic name</p>
+        <p></p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -136,7 +153,13 @@ description: Crosswalk for existing standards
       <td style="text-align:left">Language</td>
       <td style="text-align:left">Language</td>
       <td style="text-align:left">3.4.3 Language/scripts of material</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p><b>Leader LANG</b>
+        </p>
+        <p><b>008 </b>Language<b><br />041 </b>Language code<b><br />546 </b>Language
+          note</p>
+        <p>&lt;b&gt;&lt;/b&gt;</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -147,7 +170,7 @@ description: Crosswalk for existing standards
       <td style="text-align:left"><b>Measurements Display</b>
       </td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><b>300 |c</b> Physical description</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -155,7 +178,7 @@ description: Crosswalk for existing standards
       <td style="text-align:left">Edition</td>
       <td style="text-align:left">Edition display</td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><b>250</b> Edition statement</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -163,7 +186,7 @@ description: Crosswalk for existing standards
       <td style="text-align:left">State</td>
       <td style="text-align:left">State display</td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><b>251</b> Version information</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
