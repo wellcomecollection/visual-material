@@ -42,7 +42,7 @@ Where a creator is not known the creator element can be omitted. If the geograph
 
 #### Unknown creators linked to a known creator
 
-Where the creator is unknown but they are known to have worked closely with a known creator or have been influenced by their work, use a qualifying term in a note to explain that association. 
+Where the creator is unknown but they are known to have worked closely with a known creator or have been influenced by their work, include the known name and use a qualifying term to explain the association. 
 
 {% hint style="info" %}
 studio of

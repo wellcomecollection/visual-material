@@ -68,9 +68,9 @@ Catalogue record for metal box acquired with object 540972i.
 
 ## Related Elements 
 
-The dimensions of a container, if relevant, may be recorded as part of the [dimensions](dimensions.md) element.
+The dimensions of a container, if relevant, may be recorded as part of the **D**[**imensions**](dimensions.md) element.
 
-Number of Objects is recorded in association with Object Type. 
+**Number of Objects** is recorded in association with **Object Type**. 
 
 ## 
 

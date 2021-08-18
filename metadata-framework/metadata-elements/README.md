@@ -10,7 +10,7 @@ The framework reflects the approach of [Cataloguing Cultural Objects CCO](https:
 
 It is recognised it may not be possible to provide content for each category, but the cataloguer should aim to populate as many as available information allows.
 
-The cataloguer may also have instances where there is additional relevant information about the object that does not fit the elements outlined in the Metadata Framework - in such cases include the information in a note field, or other suitable field for the system being used to catalogue.
+The cataloguer may have instances where there is additional relevant information about the object that does not fit the elements outlined in the Metadata Framework - in such cases include the information in a note field, or other suitable field for the system being used to catalogue.
 
 The framework is designed as a reference on which to build cataloguing instructions for specific databases and systems. 
 
