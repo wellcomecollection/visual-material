@@ -48,7 +48,7 @@ Where there are multiple images on a single support but also multiple supports, 
 {% endtab %}
 {% endtabs %}
 
-Any container or housing that is catalogued with the object or group of objects, either its container upon acquisition or if given to it during exhibition,  should be described in a descriptive note. 
+Any container or housing that is catalogued with the object or group of objects, can be described in a descriptive note. 
 
 {% hint style="info" %}
 mounted and framed

@@ -2,7 +2,7 @@
 description: 'Required, if extant: 2D Objects, 3D Objects, Born Digital'
 ---
 
-# Reference Information
+# Sources of Information
 
 ## Definition
 

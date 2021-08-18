@@ -18,9 +18,7 @@ Record information about who previously owned the object, and when and how it wa
 The painting was purchased at auction by the Wellcome Historical Medical Museum from Foster's on 1st November 1922 as part of Lot 174. It was later accessioned by WHMM as R131/1947 on 9th May 1947. 
 {% endhint %}
 
-## Layout
-
-Record provenance information as free text. The accession numbers may be repeated from elsewhere in the record.   
+ The accession numbers may be repeated from elsewhere in the record
 
 ## Sources of Information
 

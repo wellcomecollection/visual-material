@@ -34,7 +34,7 @@
   * [Provenance](metadata-framework/metadata-elements/provenance.md)
   * [Detailed Visual Description](metadata-framework/metadata-elements/detailed-visual-description.md)
   * [Citation](metadata-framework/metadata-elements/citation.md)
-  * [Reference Information](metadata-framework/metadata-elements/reference-information.md)
+  * [Sources of Information](metadata-framework/metadata-elements/reference-information.md)
   * [Exhibition Information](metadata-framework/metadata-elements/exhibition-information.md)
   * [Gallery Label](metadata-framework/metadata-elements/gallery-label.md)
   * [Related Material](metadata-framework/metadata-elements/related-material.md)
