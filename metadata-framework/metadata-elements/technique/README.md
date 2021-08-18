@@ -48,7 +48,7 @@ If this would result in too many different techniques or material terms, choose 
 {% endtab %}
 {% endtabs %}
 
-When this element is expressed as free text, naturalistic language may be used to express the relationships between techniques and materials or imply where one technique is more prominent than another.  
+When this element is expressed as free text, natural language may be used to express the relationships between techniques and materials or imply where one technique is more prominent than another.  
 
 {% hint style="info" %}
 stipple engraving with etching on paper

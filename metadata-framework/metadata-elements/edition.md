@@ -53,7 +53,6 @@ Victoria edition
 
 ## Related Elements
 
-* Inscriptions that indicate edition should be recorded in the **Inscriptions** element.  
 * Different stages of the same work should be recorded in the **State** element.  
 * The publisher of a work, who may be responsible for a particular edition should be recorded in the **Creator** element.  
 * The date an edition was issued should be recorded in the creation Date element. 
