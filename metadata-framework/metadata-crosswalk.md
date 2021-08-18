@@ -63,7 +63,11 @@ description: Crosswalk for existing standards
       </td>
       <td style="text-align:left"><b>3.1.5 Extent and medium of the unit of description (quantity, bulk, or size)</b>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p><b>007 </b>Specific material designation (Spec Mat)</p>
+        <p><b>300 |a</b> Extent</p>
+        <p><b>655</b> Genre</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
