@@ -26,5 +26,9 @@ A129247 : Accession Number
 R98/1937 : WHMM Registration Number
 
 CC 4567 : Accession Number
+
+1989/90 : Conservation Number
+
+JF1234 : Conservation Report Number
 {% endhint %}
 
