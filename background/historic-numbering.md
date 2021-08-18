@@ -13,9 +13,11 @@ Accession numbers and registration numbers can be identifiers for an item or gro
 
 Accession numbers should be recorded with no gaps between prefix and the number.
 
-## Conservation Numbers
+### Conservation Numbers
 
 Some material has historically been audited by colleagues in Collections Care. Some material in the audit included uncatalogued artworks, you can often find a unique number on the material that can be reconciled with a condition rating. i.e. Conservation Number: 1989/90
+
+Material that has been audited by colleagues in collections care may also be pre-fixed with the initials of the auditor. i.e. JF1234.
 
 ### Visual Collections: some context
 
