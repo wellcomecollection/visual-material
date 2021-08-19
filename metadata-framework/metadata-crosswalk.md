@@ -446,14 +446,6 @@ description: Crosswalk for existing standards
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left">Text</td>
-      <td style="text-align:left">Gallery Label</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Text</td>
       <td style="text-align:left">Exhibition Information</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
