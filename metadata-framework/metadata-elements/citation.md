@@ -10,10 +10,10 @@ This element records how to cite the object or group of objects for published re
 
 ## Layout 
 
-Include the title of the work followed by Wellcome Collection and copyright status if known.
+Prefix the Unique Identification number with Wellcome Collection No. 
 
 {% hint style="info" %}
-A cat in "gothic" style. Gouache by Louis Wain, 1925/1939. Wellcome Collection. PDM.
+Wellcome Collection no. 3049687i
 {% endhint %}
 
  
