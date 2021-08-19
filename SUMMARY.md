@@ -36,7 +36,6 @@
   * [Citation](metadata-framework/metadata-elements/citation.md)
   * [Sources of Information](metadata-framework/metadata-elements/reference-information.md)
   * [Exhibition Information](metadata-framework/metadata-elements/exhibition-information.md)
-  * [Gallery Label](metadata-framework/metadata-elements/gallery-label.md)
   * [Related Material](metadata-framework/metadata-elements/related-material.md)
   * [Condition](metadata-framework/metadata-elements/condition.md)
   * [Copyright](metadata-framework/metadata-elements/reproduction-conditions.md)

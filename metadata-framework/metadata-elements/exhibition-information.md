@@ -6,7 +6,7 @@ description: 'Required, if known and extant: 2D Objects, 3D Objects, Born Digita
 
 ## Definition
 
-The exhibition element records where and when an object has been exhibited.
+The exhibition element records where and when an object has been exhibited. 
 
 ## Content
 
@@ -20,5 +20,9 @@ Exhibited in "Being Human" at Wellcome Collection, London, from 5 September 2019
 Exhibited in "The Emotional Cancer Journey", a touring exhibition held in 6 venues in Sussex, 18 April - 1 October 1997
 {% endhint %}
 
+## Gallery Label
 
+For objects displayed at Wellcome Collection \(or historically within the institution\) there is the option to include the text of the caption or label that accompanied the object whilst on display.
+
+Include the text of the caption plus information on when and where the object was displayed.  
 
