@@ -24,7 +24,7 @@ Material that has been audited by colleagues in collections care may also be pre
 Before 1928, paintings were managed directly by the WHMM, whereas prints and drawings were the responsibility of the library. Separate catalogue and accession registers for prints survive from the early 1900s, with the first numbering sequence introduced in 1914. A distinction in documentation practice for paintings survived the merging of responsibility for prints, drawings, paintings and photographs into a single WHMM department in 1928: paintings destined for display continued to be entered into the museum registration systems \(often distinguished from other museum objects by a 'P' prefix in the sequence rather than the usual 'R'\), but unlike other museum objects do not appear to have been allocated 'A' numbers. Instead, separate accession registers and card indexes were maintained for prints, engravings, drawings, paintings and photographs, distinct from the main museum registers and card indexes. Collections of prints, drawings, paintings and photographs reverted to the responsibility of the library from 1974, although new acquisitions to these collections continued to be documented in the various specialist registers until the 1980s, and only thereafter in the main library registers.
 
   
-The table below summaries the numbering systems used for paintings, prints, drawings and photographs at various dates: 
+The table below summarises the numbering systems used for paintings, prints, drawings and photographs at various dates: 
 
 <table>
   <thead>
