@@ -70,7 +70,7 @@ Chessmen in the form of Saracens and Crusaders.[ 553759i](https://wellcomecollec
 
 ## Language of Title
 
-It an object has a non English title, record the title in it's original language, and original script if that is supported. Record it as the main title. If a translation and/or a transliteration are also present, include these as alternative titles. 
+If an object has a non English title, record the title in it's original language, and original script if that is supported. Record it as the main title. If a translation and/or a transliteration are also present, include these as alternative titles. 
 
 ## Title Source
 
