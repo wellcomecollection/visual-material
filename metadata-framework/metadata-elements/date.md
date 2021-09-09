@@ -25,7 +25,7 @@ Some objects can have multiple creation dates relating to different aspects of t
 photograph taken 1898, printed 1914
 {% endhint %}
 
-Dates relating acquisition, purchase, accession or ownership of an object should be included in the [provenance element](provenance.md). 
+Dates relating to acquisition, purchase, accession or ownership of an object should be included in the [provenance element](provenance.md). 
 
 ### ii Date Formats
 
