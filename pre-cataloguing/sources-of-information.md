@@ -2,7 +2,13 @@
 
 ## Sources of Information
 
-The main source of data for the catalogue record should be taken from the object itself, information provided by the creator, or from acquisition documentation.
+The main source of data for the catalogue record should be taken from:
+
+* the object itself
+* information provided by the creator
+* acquisition documentation
+* Wellcome Collections files
+* Wellcome Inventory database
 
 If further information is available, then this should be included in the record and the source acknowledged where appropriate.
 
