@@ -22,16 +22,6 @@ Portrait
 Landscape
 {% endhint %}
 
-This could also include the general form or function of the object which may be repeated from the technique, particularly for functional objects.
-
-{% hint style="info" %}
-watering can
-
-prayer rug
-
-divination object
-{% endhint %}
-
 ### **What is depicted?**
 
 This includes people, places, objects, events and animals depicted in the image.
