@@ -28,7 +28,7 @@ For objects where multiple component parts are being described in a single recor
 3 drawings, 20 prints, 40 photographs
 {% endhint %}
 
-Where there are multiple images on or within a single physical item, the data for number of objects is best expressed in conjunction with the **container** or **support** where relevant. 
+Where there are multiple images on or within a single physical item/single support, the data for number of objects is best expressed in conjunction with the **container** or **support** where relevant. 
 
 {% hint style="info" %}
 2 drawings on 1 sheet 
