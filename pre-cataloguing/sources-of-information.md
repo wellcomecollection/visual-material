@@ -9,6 +9,7 @@ The main source of data for the catalogue record should be taken from:
 * acquisition documentation
 * Wellcome Collections files
 * Wellcome Inventory database
+* Transcribe Wellcome
 
 If further information is available, then this should be included in the record and the source acknowledged where appropriate.
 
