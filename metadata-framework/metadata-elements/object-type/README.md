@@ -59,9 +59,3 @@ glass plate negatives, sheet film
 Object type terms for 2D graphic objects may be duplicated in the **Technique** element.   
 The broadest applicable Object type is recorded in association with the **Number of Objects**
 
-\*\*\*\*
-
-_**Future wish list:**   
-- the cataloguing system to include a pick list of Object types, rather than current free text fields. The current system setup will necessitate the use of both the Wellcome genre list and the Object type list.  
-- the cataloguing system or search interface can identify relevant hierarchical relationships between object types, such as Print and Poster._
-
