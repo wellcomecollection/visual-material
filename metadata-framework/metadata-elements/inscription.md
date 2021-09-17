@@ -46,7 +46,7 @@ For groups of objects capturing inscriptions is not mandatory. Consider any text
 
 ## Exhaustivity
 
-Whether the record captures the inscriptions in totality is at the cataloguers discretion. It is a priority to record signatures, dates, and inscribed titles.
+Whether the record captures the inscriptions in totality is at the cataloguers discretion. Record important information in the inscription in the appropriate elements elsewhere in the record: names, dates, title, subject. 
 
 If an inscription is too long to transcribe, transcribe part of it and indicate missing text with an ellipsis.
 
@@ -92,5 +92,6 @@ Artist London Proof \(stamped bottom right\)
 
 * Record any notable **watermarks** in an explanatory note.
 * Record **inscribed titles** in the **Title** element. 
-* Where **names** occur in text in the image, consider including them as entries in the **Subject** or **Creator** elements.  
+* Where **names** occur in text in the image, consider including them as entries in the **Subject** or **Creator** elements. 
+* Consider including any topical subjects mentioned in an inscription in the **Subject** element.
 
