@@ -1,3 +1,9 @@
+---
+description: >-
+  Contents of this section aren't Visual Material specific. Need a generic guide
+  to which the Visual Cataloguing Guide can link to.
+---
+
 # Content Considerations
 
 ## Sources of Information
@@ -12,8 +18,6 @@ The main source of data for the catalogue record should be taken from:
 * Transcribe Wellcome
 
 If further information is available, then this should be included in the record and the source acknowledged where appropriate.
-
-## _\*Ideally the Sensitivity & Language sections would link to a generic version for cataloguing all materials. There is no need for a specifically Visual Materials one\*_
 
 ## Sensitivity 
 
