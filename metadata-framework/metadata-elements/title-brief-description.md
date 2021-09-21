@@ -80,7 +80,7 @@ Record the source of the preferred \(main\) title used in the catalogue record. 
 {% tab title="Single Object" %}
 * Title provided by the artist.
 * Title provided by the creator.
-* The title has been taken from lettering on the object. 
+* The title has been taken from wording on the object. 
 * This work is untitled: the title has been supplied by the cataloguer for identification purposes.
 * This work is untitled: the title has been taken from acquisition documentation.
 * Title taken from published source: \[example: Catalogue of prints & drawings in the British Museum\].
