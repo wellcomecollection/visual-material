@@ -10,12 +10,14 @@ description: >-
 
 The main source of data for the catalogue record should be taken from:
 
-* the object itself
+* the object itself & it's housing
 * information provided by the creator
 * acquisition documentation
-* Wellcome Collections files
+* Wellcome Collections files / Research files
 * Wellcome Inventory database
 * Transcribe Wellcome
+* Related materials in the Collection
+* Wellcome Conservation & Exhibitions data
 
 If further information is available, then this should be included in the record and the source acknowledged where appropriate.
 
