@@ -10,6 +10,7 @@ Select all that are applicable to the object or group of objects being catalogue
 | Cabinet photograph |
 | Carte de visite |
 | Collage |
+| Colour transparency |
 | Digital print \[only to be used as an additional term for broader term\] |
 | Drawing |
 | Image File |
@@ -31,4 +32,7 @@ Select all that are applicable to the object or group of objects being catalogue
 | Sketchbook |
 | Sign |
 | Stereograph |
+| Transparency |
+
+
 
