@@ -2,7 +2,7 @@
 description: 'Required: 2D Objects, 3D Objects, Born Digital.'
 ---
 
-# Date
+# Date of Creation
 
 ## Definition
 
@@ -83,7 +83,7 @@ For free text fields in a database, record the date to the greatest specificity 
     <tr>
       <td style="text-align:left">Estimated year</td>
       <td style="text-align:left">
-        <p>c. 1962</p>
+        <p>c.1962</p>
         <p>approximately 1962
           <br />1962?</p>
       </td>
