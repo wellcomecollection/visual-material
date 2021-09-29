@@ -45,7 +45,7 @@ Some of the data we input or select within QuickBase, is from a controlled list 
 * Metadata work comments
 * Potential sensitivity
 * Additional notes/queries
-* Current Owner \[Required\]
+* **Current Owner** \[Required\]
 * Image \(uncatalogued material\)
 * Prioritise for cataloguing
 * _**Assessed by**_ \[Required\]
@@ -53,7 +53,7 @@ Some of the data we input or select within QuickBase, is from a controlled list 
 
 \*For subject classifications – we have imported existing lists into our database that cross reference to labels on containers in stores, to retain groupings and record historical cataloguing and collections management conventions.
 
-\*\* - The author fields here refer to creators, but for inventory purposes we have aligned headings with MARC as this is how the data has been organised/referred to in our existing catalogue.
+\*\* The author fields here refer to creators, but for inventory purposes we have aligned headings with MARC as this is how the data has been organised/referred to in our existing catalogue.
 
 Terms in bold italics - These are mandatory data requirements from the Spectrum Inventory Standard.
 
