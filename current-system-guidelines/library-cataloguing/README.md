@@ -1,2 +1,2 @@
-# Library cataloguing
+# Sierra MARC cataloguing
 
