@@ -30,14 +30,23 @@ The broadest **object type term or terms is** best expressed in conjunction with
 
 Multiple terms can be chosen for the same object or group of objects, if known or applicable.
 
-‌Include all the relevant terms for the object or group of objects being described in the catalogue record to optimise access.
+### 2D Objects
+For 2D objects include a broad term to describe the object type, and where possible a more specific term. Select the broad term from the following:
+
+*	drawing
+*	painting
+*	photograph
+*	print
+
+If a more specific term cannot be allocated to the object, or is not known, the broad terms listed above are sufficient. In such a situation the broad term can be repeated in the record if required by the cataloguing system.
+
+Include all the relevant terms for the object or group of objects being described in the catalogue record to optimise access.
 
 {% hint style="info" %}
 4 image files 
 
 drawings, paintings
 {% endhint %}
-
 
 
 {% hint style="info" %}
@@ -47,12 +56,13 @@ poster
 {% endhint %}
 
 
-
 {% hint style="info" %}
 5 photographs
 
 glass plate negatives, sheet film 
 {% endhint %}
+
+
 
 ## **Related Elements**
 
