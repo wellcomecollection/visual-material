@@ -53,8 +53,10 @@
 
 ## CURRENT SYSTEM GUIDELINES
 
-* [Library cataloguing](current-system-guidelines/library-cataloguing/README.md)
-  * [Library cataloguing specifics](current-system-guidelines/library-cataloguing/library-cataloguing-specifics.md)
+* [Sierra MARC cataloguing](current-system-guidelines/sierra-marc-cataloguing/README.md)
+  * [Bibliographic Record](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record.md)
+  * [Item Record](current-system-guidelines/sierra-marc-cataloguing/item-record.md)
+  * [Linking records & making connections between records apparent](current-system-guidelines/sierra-marc-cataloguing/sierra-links.md)
 * [Archive cataloguing](current-system-guidelines/archive-cataloguing/README.md)
   * [Archive cataloguing specifics](current-system-guidelines/archive-cataloguing/archive-cataloguing-specifics.md)
 
