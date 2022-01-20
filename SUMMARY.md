@@ -57,6 +57,6 @@
   * [Bibliographic Record](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record.md)
   * [Item Record](current-system-guidelines/sierra-marc-cataloguing/item-record.md)
   * [Linking records](current-system-guidelines/sierra-marc-cataloguing/sierra-links.md)
+  * [Format examples](current-system-guidelines/format-examples/format-examples.md)
 * [Archive cataloguing](current-system-guidelines/archive-cataloguing/README.md)
   * [Archive cataloguing specifics](current-system-guidelines/archive-cataloguing/archive-cataloguing-specifics.md)
-
