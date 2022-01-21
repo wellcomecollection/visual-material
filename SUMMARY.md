@@ -54,7 +54,10 @@
 ## CURRENT SYSTEM GUIDELINES
 
 * [Sierra MARC Guidelines](current-system-guidelines/sierra-marc-cataloguing/README.md)
-  * [Bibliographic Record](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record.md)
+  * [Bibliographic Record](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/README.md)
+    * [007 Fixed Field](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/007.md)
+    * [008 Fixed Field](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/008.md)
+    * [Leader Fields](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/leader-fields.md)
   * [Item Record](current-system-guidelines/sierra-marc-cataloguing/item-record.md)
   * [Linking Records](current-system-guidelines/sierra-marc-cataloguing/linking-records.md)
   * [Format Examples](current-system-guidelines/sierra-marc-cataloguing/format-examples/README.md)
