@@ -53,12 +53,11 @@
 
 ## CURRENT SYSTEM GUIDELINES
 
-* [Sierra MARC cataloguing](current-system-guidelines/sierra-marc-cataloguing/README.md)
+* [Sierra MARC Guidelines](current-system-guidelines/sierra-marc-cataloguing/README.md)
   * [Bibliographic Record](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record.md)
   * [Item Record](current-system-guidelines/sierra-marc-cataloguing/item-record.md)
   * [Linking Records](current-system-guidelines/sierra-marc-cataloguing/linking-records.md)
   * [Format Examples](current-system-guidelines/sierra-marc-cataloguing/format-examples/README.md)
-    * [Album](current-system-guidelines/sierra-marc-cataloguing/format-examples/album.md)
     * [Drawing](current-system-guidelines/sierra-marc-cataloguing/format-examples/drawing.md)
     * [Painting](current-system-guidelines/sierra-marc-cataloguing/format-examples/painting.md)
     * [Photograph](current-system-guidelines/sierra-marc-cataloguing/format-examples/photograph.md)
