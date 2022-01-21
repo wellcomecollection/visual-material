@@ -6,11 +6,11 @@ description: 'Required if known: 2D Objects, 3D Objects, Born Digital. Repeatabl
 
 ## Definition
 
-The Creator element should capture the name\(s\) of those responsible for the design and making of an object, and their role in that process. The metadata should record all identified creators.
+The Creator element should capture the name(s) of those responsible for the design and making of an object, and their role in that process. The metadata should record all identified creators.
 
 Creators can be individuals, groups of individuals, corporate bodies or other entities involved in the creation of an object.
 
-For published works, particularly prints, record the publisher as a creator, if known. 
+For published works, particularly prints, record the publisher as a creator, if known.&#x20;
 
 ## Identifying creators
 
@@ -18,7 +18,7 @@ The names of creators should be taken from the object itself or accompanying doc
 
 ### i. Uncertain attribution
 
-If attribution is uncertain or contested, record the attributed name\(s\) in the creator field and clarify the attribution with a qualifying term in a note. Where the name of the attributed creator is known use one of the following terms:
+If attribution is uncertain or contested, record the attributed name(s) in the creator field and clarify the attribution with a qualifying term in a note. Where the name of the attributed creator is known use one of the following terms:
 
 {% hint style="info" %}
 attributed to
@@ -42,12 +42,12 @@ Where a creator is not known the creator element can be omitted. If the geograph
 
 #### Unknown creators linked to a known creator
 
-Where the creator is unknown but they are known to have worked closely with a known creator or have been influenced by their work, include the known name and use a qualifying term to explain the association. 
+Where the creator is unknown but they are known to have worked closely with a known creator or have been influenced by their work, include the known name and use a qualifying term to explain the association.&#x20;
 
 {% hint style="info" %}
 studio of
 
-pupil of 
+pupil of&#x20;
 
 follower of
 
@@ -68,7 +68,7 @@ engraving by Rigou after William Hogarth
 
 The format and spelling for creator names should be taken from an authority list to ensure consistency. Check for an entry in the **Wellcome Collection catalogue** and use this if present.
 
-If the name is new to the Wellcome catalogue, check: [**Library of Congress authorities**](https://authorities.loc.gov/) **\(LC\)**, [**Getty Union List of Artists Names**](http://www.getty.edu/research/tools/vocabularies/ulan/) **\(ULAN\)** or other reliable sources. When using an existing entry in the Wellcome Catalogue, LC or ULAN authority lists, enter the name exactly as written in the authoritative source. Relator terms \(see below\) can be added as an addition to authority name entries. 
+If the name is new to the Wellcome catalogue, check: [**Library of Congress authorities**](https://authorities.loc.gov) **(LC)**, [**Getty Union List of Artists Names**](http://www.getty.edu/research/tools/vocabularies/ulan/) **(ULAN)** or other reliable sources. When using an existing entry in the Wellcome Catalogue, LC or ULAN authority lists, enter the name exactly as written in the authoritative source. Relator terms (see below) can be added as an addition to authority name entries.&#x20;
 
 ### **i. Personal names**
 
@@ -76,12 +76,12 @@ If there is more than one version of the name in use, select the most commonly u
 
 When creating an entry for names not found in authority lists, structure personal names as follows, include the known or relevant elements:
 
-Surname, First name\(s\), Title, dates of existence, role in relation to the object.
+Surname, First name(s), Title, dates of existence, role in relation to the object.
 
 {% hint style="info" %}
 Lichtenstein, Roy, 1923-1997, painter
 
-Thompson, J. \(John\), 1837-1921, photographer
+Thompson, J. (John), 1837-1921, photographer
 
 Hogarth, William, 1697-1764
 
@@ -130,7 +130,6 @@ If multiple entities were involved in creating the object or group of objects, r
 
 Include biographical information on the creator when such information is not common knowledge and where the objects are unique or significant to Wellcome Collection.
 
-Where biographical information applies to a group of objects, include it at the highest level of the cataloguing hierarchy \(if applicable\), rather than repeating at the granular level for each individual object.
+Where biographical information applies to a group of objects, include it at the highest level of the cataloguing hierarchy (if applicable), rather than repeating at the granular level for each individual object.
 
-        __
-
+&#x20;       __       &#x20;

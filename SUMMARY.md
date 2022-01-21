@@ -42,7 +42,7 @@
   * [Location](metadata-framework/metadata-elements/location.md)
 * [Metadata Crosswalk](metadata-framework/metadata-crosswalk.md)
 
-## PRE CATALOGUING CONSIDERATIONS <a id="pre-cataloguing"></a>
+## PRE CATALOGUING CONSIDERATIONS <a href="#pre-cataloguing" id="pre-cataloguing"></a>
 
 * [Content Considerations](pre-cataloguing/sources-of-information.md)
 * [Numbering & Part Numbering](pre-cataloguing/single-group-objects.md)
@@ -53,10 +53,20 @@
 
 ## CURRENT SYSTEM GUIDELINES
 
-* [Sierra MARC cataloguing](current-system-guidelines/sierra-marc-cataloguing/README.md)
+* [Sierra MARC Guidelines](current-system-guidelines/sierra-marc-cataloguing/README.md)
   * [Bibliographic Record](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record.md)
   * [Item Record](current-system-guidelines/sierra-marc-cataloguing/item-record.md)
-  * [Linking records](current-system-guidelines/sierra-marc-cataloguing/sierra-links.md)
-  * [Format examples](current-system-guidelines/format-examples/format-examples.md)
-* [Archive cataloguing](current-system-guidelines/archive-cataloguing/README.md)
-  * [Archive cataloguing specifics](current-system-guidelines/archive-cataloguing/archive-cataloguing-specifics.md)
+  * [Linking Records](current-system-guidelines/sierra-marc-cataloguing/linking-records.md)
+  * [Format Examples](current-system-guidelines/sierra-marc-cataloguing/format-examples/README.md)
+    * [Drawing](current-system-guidelines/sierra-marc-cataloguing/format-examples/drawing.md)
+    * [Painting](current-system-guidelines/sierra-marc-cataloguing/format-examples/painting.md)
+    * [Photograph](current-system-guidelines/sierra-marc-cataloguing/format-examples/photograph.md)
+    * [Poster](current-system-guidelines/sierra-marc-cataloguing/format-examples/poster.md)
+    * [Print](current-system-guidelines/sierra-marc-cataloguing/format-examples/print.md)
+* [CALM Guidelines](current-system-guidelines/archive-cataloguing/README.md)
+  * [Introduction and basic cataloguing principles](current-system-guidelines/archive-cataloguing/introduction-and-basic-cataloguing-principles.md)
+  * [IDENTITY](current-system-guidelines/archive-cataloguing/identity/README.md)
+    * [RefNo\*](current-system-guidelines/archive-cataloguing/identity/refno.md)
+    * [PublicRef\*](current-system-guidelines/archive-cataloguing/identity/publicref.md)
+    * [Previous\_Numbers](current-system-guidelines/archive-cataloguing/identity/previous\_numbers.md)
+    * [Title](current-system-guidelines/archive-cataloguing/identity/title.md)

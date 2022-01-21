@@ -4,16 +4,17 @@ description: 'Required, if known: 2D Objects, 3D Objects'
 
 # Place of creation
 
-## Definition
+Definition
+----------
 
-This element records the place of creation and/or publication of an object.   
+This element records the place of creation and/or publication of an object.  &#x20;
 
 ## Terminology
 
 Record as it appears on the work.
 
 {% hint style="info" %}
-Stanleyville 
+Stanleyville&#x20;
 
 Kisangani, Democratic Republic of the Congo
 {% endhint %}
@@ -28,25 +29,23 @@ Philadelphia, United States of America
 United Kingdom
 {% endhint %}
 
-If place of creation or publication is unknown, use the geographic or cultural origin of the creator instead.  
+If place of creation or publication is unknown, use the geographic or cultural origin of the creator instead. &#x20;
 
 {% hint style="info" %}
-Nepalese 
+Nepalese&#x20;
 
 Italian School
 {% endhint %}
 
-If uncertain or place is ambiguous include the term possibly or probably before it. 
+If uncertain or place is ambiguous include the term possibly or probably before it.&#x20;
 
-If not, leave blank. 
+If not, leave blank.&#x20;
 
 ## Group of Objects
 
 Record all known places of creation and/or publication associated with the group of objects as suggested above.
 
-If this would result in too many different places than is practicable, choose the most prominent or common. 
-
-
+If this would result in too many different places than is practicable, choose the most prominent or common.&#x20;
 
 
 
