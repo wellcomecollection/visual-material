@@ -41,9 +41,10 @@ To open the MARC leader press ctrl+r
 
 Select Ctrl + r to open the field and edit. Double click to open the sub fields to edit.
 
-#### **Category of Material** (MatCatg) = **k** non-projected graphic
+**Category of Material** (MatCatg) = **k** non-projected graphic
 
-**Specific Material Designation or Medium** (Spec Mat) = **c** Collage\
+**Specific Material Designation or Medium** (Spec Mat)\
+**c** = Collage\
 **d** = Drawing\
 **e** = Painting\
 **f** = Photomechanical print\
@@ -62,14 +63,13 @@ Select Ctrl + r to open the field and edit. Double click to open the sub fields 
 **m** = Mixed – the work is a mix of colour characteristics\
 **z** = Other – used for stained, tinted and toned items such as sepia photos
 
-#### **Primary Support Material** see the full list of options [here](https://www.oclc.org/bibformats/en/0xx/007nonproj.html)****
-
+**Primary Support Material**\
 **a** = canvas\
 **c** = cardboard\
-**o** = paper
+**o** = paper\
+See the full list of options [here](https://www.oclc.org/bibformats/en/0xx/007nonproj.html)
 
-#### **Secondary Support Material**
-
-Leave blank (code for ‘no secondary support’), unless the mount is of historical, informational, or archival importance
+**Secondary Support Material**\
+****Leave blank (code for ‘no secondary support’), unless the mount is of historical, informational, or archival importance
 
 ## 008 Date & Country
