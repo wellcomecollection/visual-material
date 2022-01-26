@@ -4,7 +4,7 @@ The Bibliographic record contains the descriptive information about an object. T
 
 Visual material records in Sierra should reflect the use of MARC across the whole Wellcome catalogue. With fields where content and use is standard across Wellcome, regardless of format, the guidelines will link to common shared instructions to ensure consistency in the catalogue.
 
-Visual records should aim to meet Spectrum standards for Museum Accreditation. In MARC the following fields should be populated in the Bibliographic record:
+Visual records should aim to meet Spectrum standards for Museum Accreditation. The ideal record should contain the following core fields in the Bibliographic record:
 
 
 
