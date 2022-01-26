@@ -66,7 +66,6 @@ For 3D objects (MAT Type **r**) fewer options will be offered, code the Spec Mat
 
 **Primary Support Material**\
 **a** = canvas\
-**c** = cardboard\
 **o** = paper\
 See the full list of options [here](https://www.oclc.org/bibformats/en/0xx/007nonproj.html)
 
