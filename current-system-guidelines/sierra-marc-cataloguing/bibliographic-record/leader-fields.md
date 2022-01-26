@@ -41,7 +41,8 @@ To open the MARC leader press ctrl+r
 
 Select Ctrl + r to open the field and edit. Double click to open the sub fields to edit.
 
-**Category of Material** (MatCatg) = **k** non-projected graphic
+**Category of Material** (MatCatg) = **k** non-projected graphic\
+For 3D objects (MAT Type **r**) fewer options will be offered, code the Spec Mat as **z** unspecified
 
 **Specific Material Designation or Medium** (Spec Mat)\
 **c** = Collage\
