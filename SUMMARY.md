@@ -55,10 +55,8 @@
 
 * [Sierra MARC Guidelines](current-system-guidelines/sierra-marc-cataloguing/README.md)
   * [Bibliographic Record](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/README.md)
-    * [Leader Fields](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/leader-fields.md)
+    * [Fixed Fields](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/leader-fields.md)
     * [001 Reference Number](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/001-reference-number.md)
-    * [007 Fixed: Physical Description](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/007.md)
-    * [008 Fixed: Date & Country](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/008.md)
     * [040 Cataloguing Source](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/040-cataloguing-source.md)
     * [041 Language Code](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/041-language-code.md)
     * [100/700 Personal Name](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/100-700-personal-name.md)
