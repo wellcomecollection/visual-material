@@ -8,19 +8,19 @@ description: >-
 
 ## Leader Fields
 
-| Populate the following fields: |                                                                                                                       |
-| ------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
-| **LANG**                       | enter three letter code for the languge of the item. See [LC Language Codes](https://www.loc.gov/marc/languages/)     |
-| SKIP                           | ignore, this will populate automatically                                                                              |
-| **LOCATION**                   | **stax** (for closed stores)                                                                                          |
-| **CAT DATE**                   | date item was first catalogued. When in thefield press T for today's date                                             |
-| **BIB LVL**                    | **m** = a single item                                                                                                 |
-|                                | **a** = part of an item                                                                                               |
-|                                | **c** = collection                                                                                                    |
-|                                | **d** = coll. subunit. Use for item part of a larger collection, e.g. Adamson Collection                              |
-| **MAT TYPE**                   | **k** = pictures                                                                                                      |
-|                                | **r** = 3D objects                                                                                                    |
-| **COUNTRY**                    | 3 letter code for the country of publication or creation. See [LC Country Codes](https://www.loc.gov/marc/countries/) |
+| Populate the following fields: |                                                                                          |
+| ------------------------------ | ---------------------------------------------------------------------------------------- |
+| **LANG**                       | three letter code for the languge of the item. See [LC Language Codes](https://www.loc.gov/marc/languages/)|
+| SKIP                           | ignore, this will populate automatically                                                           |
+| **LOCATION**                   | **stax** (for closed stores)                                                            |
+|**CAT DATE**                    |date item was first catalogued. When in thefield press T for today's date  |
+|**BIB LVL**                     | **m** = a single item  |
+|                                | **a** = part of an item  |
+|                                | **c** = collection  |
+|                                | **d** = coll. subunit. Use for item part of a larger collection, e.g. Adamson Collection |
+|**MAT TYPE**                    | **k** = pictures  
+|                                | **r** = 3D objects   |
+|**COUNTRY**                     |3 letter code for the country of publication or creation. See [LC Country Codes](https://www.loc.gov/marc/countries/)  |
 
 ## MARC Leader Fields
 
@@ -53,9 +53,9 @@ Select Ctrl + r to open the field and edit. Double click to open the sub fields 
 **i** = Picture\
 **j** = Print\
 **k** = Poster\
-**v** = Photograph\
-****\
-******Colour**\
+**v** = Photograph
+
+**Colour**\
 **a** = One colour monochrome (not photographs)\
 **b** = Black & white, used for photographs\
 **c** = Multi-coloured\
@@ -70,6 +70,6 @@ Select Ctrl + r to open the field and edit. Double click to open the sub fields 
 See the full list of options [here](https://www.oclc.org/bibformats/en/0xx/007nonproj.html)
 
 **Secondary Support Material**\
-****Leave blank (code for ‘no secondary support’), unless the mount is of historical, informational, or archival importance
+Leave blank (code for ‘no secondary support’), unless the mount is of historical, informational, or archival importance
 
 ## 008 Date & Country
