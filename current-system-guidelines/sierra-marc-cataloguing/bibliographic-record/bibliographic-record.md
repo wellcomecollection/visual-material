@@ -1,2 +1,0 @@
-# Bibliographic Record
-
