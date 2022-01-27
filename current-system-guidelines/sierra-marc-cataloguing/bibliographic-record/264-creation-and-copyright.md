@@ -16,6 +16,8 @@ Use the correct second indicator, this relates to the type of information being 
 
 The field is repeatable if multiple types of information are available, i.e. production and publication
 
+For some material the type of date maybe unclear, when in doubt treat as unpublished and record as date of production, using second indicator 0.
+
 If the information is taken from a source other than the object itself, place the information in a square bracket.
 
 Add a 500 or 510 note where information is taken from an outside source if considered significant.&#x20;
@@ -38,7 +40,7 @@ If the publisher cannot be identified the use _\[publisher not identified]_
 
 ### Date: subfield |c
 
-**Known Dates**\
+**Known dates**\
 Transcribe date(s) as they appears on the object. If this is known to be fictitious or incorrect supply a correction in square brackets.
 
 For known dates where the date does not appear on the item, include in square brackets.
@@ -58,7 +60,7 @@ If a copyright date is known include an additional 264 \_4 field to record the d
 {% hint style="info" %}
 **264 \_1**  London :**|b**Wellcome Trust,**|c**\[1983?]
 
-**264 \_1**  London :**|b**Wellcome Trust,**|c**\[between 1978 and 1982]
+**264 \_1**  London :**|b**Wellcome Trust,**|c**\[between 1970 and 1979]
 
 **264 \_1**  \[Italy] :**|b**\[publisher not identified],**|c**\[19th century]
 {% endhint %}
@@ -75,3 +77,22 @@ If no place of publication can be identified, then use cataloguer’s judgement 
 
 ### Date: subfield |c
 
+**Known dates**\
+Where possible transcribe the date as written on, or included with the object.
+
+For known dates where the date does not appear on the item, include in square brackets.
+
+{% hint style="info" %}
+**264 \_0** London :**|c**2011
+
+**264 \_0** \[London] :**|c**\[2001]
+{% endhint %}
+
+**Unknown, ambiguous and approximate dates**\
+When the date is an estimate, follow the date with **?** If an estimated date can only be placed with in a range, then include the earliest and latest dates. Place both in square brackets.
+
+{% hint style="info" %}
+**264 \_0** Birmingham :**|c**\[1896?]
+
+**264 \_0** London :**|c**\[between 1945 and 1960]
+{% endhint %}
