@@ -86,10 +86,23 @@ Select **Ctrl + r** to open the field and edit. Edit each field as follows:
 &#x20;                         **t** = a publishing date and a copyright date together (to be entered in this order)\
 &#x20;\
 **Date One**          the date the artwork was created.\
-&#x20;                         if the date is questionable the unknown numeral(s) can be represented by a u
+&#x20;                         for a single probable date (s) enter the probable date, do not use u. \
+&#x20;                         for questionable dates (q) represent the unknown numeral(s) with a u           &#x20;
 
 {% hint style="info" %}
-For an object known to be created in the 1960s enter the date as **196u**
+Dat Type   s
+
+Date One  1966
+
+264 \_0       |c\[1966?]
+
+
+
+Dat Type  q
+
+Date One 196u     Date Two
+
+264
 {% endhint %}
 
 **Date Two**         use for : the copyright date\
