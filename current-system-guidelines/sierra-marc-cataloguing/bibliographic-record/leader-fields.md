@@ -35,7 +35,7 @@ To open the MARC leader press ctrl+r
 |                                | **c** = collection                                                                       |
 |                                | **d** = coll. subunit. Use for item part of a larger collection, e.g. Adamson Collection |
 | **ENC LEVL**                   |                                                                                          |
-| **CAT FORM**                   | lower case i for ISBD punctuation                                                        |
+| **CAT FORM**                   | i = ISBD punctuation                                                                     |
 
 ## 007 Physical Description
 
@@ -126,7 +126,9 @@ Select **Ctrl + r** to open the field and edit. Edit each field as follows:
 
 **i =** inclusive dates of a collection. Use for unpublished items that have a range of dates of execution.
 
-For further explanation see [OCLC date types](https://www.oclc.org/bibformats/en/fixedfield/dtst.html)\
+For further explanation see [OCLC date types](https://www.oclc.org/bibformats/en/fixedfield/dtst.html)
+
+Dates included in the Fixed field should be led by the [264 field](264-creation-and-copyright.md)\
 &#x20;\
 **Date One**          the date the artwork was created.\
 &#x20;                         for a single probable date (s) enter the probable date, do not use u. \
