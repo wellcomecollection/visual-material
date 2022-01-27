@@ -78,37 +78,66 @@ Select **Ctrl + r** to open the field and edit. Edit each field as follows:
 
 **Date Ent**           catalogued date (YYMMDD).
 
-**Dat Type**          the code for the date can vary, it is generally **s**, but also available:\
-&#x20;                         **i =** inclusive dates of a collection\
-&#x20;                         **n** = dates unknown\
-&#x20;                         **q** = questionable date, exact date unknown, but range of years can be specified.\
-&#x20;                         **s** = a single date\
-&#x20;                         **t** = a publishing date and a copyright date together (to be entered in this order)\
+**Dat Type**          in most cases the code will be **s**, options include:
+
+**s** = single known or probable date (year)
+
+{% hint style="info" %}
+**Dat Type**   s                      for a single known date\
+**Date One**   2003\
+**264 \_0**       **|c**2003
+
+**Dat Type**   s                      for a single probable date\
+**Date One**  1966\
+**264 \_0**       **|c**\[1966?]  &#x20;
+
+**Dat Type**   s                      for a single probable date\
+**Date One**  19uu\
+**264 \_0**       **|c**\[20th century]  &#x20;
+{% endhint %}
+
+**t** = a publishing date and a copyright date together (to be entered in this order)
+
+**q** = questionable date, exact date unknown, but range of years can be specified. Put the earliest date in _Date 1_ and the latest in _Date 2_.         &#x20;
+
+{% hint style="info" %}
+**Dat Type**   q\
+**Date One**  1972\
+**Date Two**  1973\
+**264 \_0**       **|c**\[1972 or 1973]
+
+**Dat Type**   q\
+**Date One**  1921\
+**Date Two**  1928\
+**264 \_0**       **|c**\[between 1921 and 1973]
+
+**Dat Type**   q                                                                  for a group of objects\
+**Date One**  18uu\
+**Date Two**  19uu\
+**264 \_0**       **|c**\[late 19th and early 20th century]
+
+**Dat Type**   q\
+**Date One**  uuuu\
+**Date Two**  1960\
+**264 \_0**       **|c**\[not after 1960]
+{% endhint %}
+
+**n** = dates unknown. Use for _\[date of creation not identified]_ and similar situations, where no other code applies and a reasonable date cannot be determined. Both _Date 1_ and _Date 2_ should be coded _uuuu_
+
+**i =** inclusive dates of a collection. Use for unpublished items that have a range of dates of execution.
+
+For further explanation see [OCLC date types](https://www.oclc.org/bibformats/en/fixedfield/dtst.html)\
 &#x20;\
 **Date One**          the date the artwork was created.\
 &#x20;                         for a single probable date (s) enter the probable date, do not use u. \
-&#x20;                         for questionable dates (q) represent the unknown numeral(s) with a u           &#x20;
-
-{% hint style="info" %}
-Dat Type   s
-
-Date One  1966
-
-264 \_0       |c\[1966?]
-
-
-
-Dat Type  q
-
-Date One 196u     Date Two
-
-264
-{% endhint %}
+&#x20;                         for questionable dates (q) represent the unknown numeral(s) with a u  &#x20;
 
 **Date Two**         use for : the copyright date\
 &#x20;                                       the final date of a multi-volume set \
 &#x20;                                       the original date of publication of a reprint\
 &#x20;                                       the later date for a for questionable date.
+
+
 
 **Type Mat**          **k** = graphic
 
