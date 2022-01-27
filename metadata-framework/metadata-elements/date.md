@@ -45,11 +45,11 @@ For free text fields in a database, record the date to the greatest specificity 
 
 **Unknown, ambiguous and approximate dates**
 
-| Unknown date content | Unknown date format                                                            |
-| -------------------- | ------------------------------------------------------------------------------ |
-| Estimated year       | <p>c.1962</p><p>approximately 1962<br>1962?</p>                                |
-| 2 possible dates     | 1781 or 1782                                                                   |
-| Estimated range      | <p>c.1860-1872<br>1953-c.1960<br>c.1953-c.1969</p><p>between 1860 and 1893</p> |
+| Unknown date content | Unknown date format                                        |
+| -------------------- | ---------------------------------------------------------- |
+| Estimated year       | <p>c.1962</p><p>approximately 1962<br>1962?</p>            |
+| 2 possible dates     | 1781 or 1782                                               |
+| Estimated range      | <p>c.1860-1872<br>1953-c.1960<br>c.1953-c.1969</p><p>c</p> |
 
 Where the date is inscribed on an object in a differing format this should be recorded in the record within a free text date field or in a separate explanatory note. The transcribed date can be qualified by including the date in an unambiguous form within square brackets. _See Inscription element._&#x20;
 
