@@ -45,11 +45,13 @@ Transcribe date(s) as they appears on the object. If this is known to be fictiti
 
 For known dates where the date does not appear on the item, include in square brackets.
 
+{% hint style="info" %}
+**264 \_1**  \[Paris] :**|b**\[publisher not identified],**|c**\[1992]
+{% endhint %}
+
 If a copyright date is known include an additional 264 \_4 field to record the date.
 
 {% hint style="info" %}
-**264 \_1**  \[Paris] :**|b**\[publisher not identified],**|c**\[1992]
-
 **264 \_1**  London :**|b**Tate,**|c**2014\
 **264 \_4 |c**©2014
 {% endhint %}
@@ -59,6 +61,8 @@ If a copyright date is known include an additional 264 \_4 field to record the d
 
 {% hint style="info" %}
 **264 \_1**  London :**|b**Wellcome Trust,**|c**\[1983?]
+
+**264 \_1**  London :**|b**Wellcome Trust,**|c**\[approximately 1990]
 
 **264 \_1**  London :**|b**Wellcome Trust,**|c**\[between 1970 and 1979]
 
@@ -82,17 +86,25 @@ Where possible transcribe the date as written on, or included with the object.
 
 For known dates where the date does not appear on the item, include in square brackets.
 
+Where a transcribed date could be misread, follow the transcription with the date spelt out clearly, in square brackets. For detailed dates follow the convention _date-month-year_, or _month-year_.
+
 {% hint style="info" %}
 **264 \_0** London :**|c**2011
 
 **264 \_0** \[London] :**|c**\[2001]
+
+**264 \_0** \[Netherne, Surrey] :**|c** 25.7.68 \[25 July 1968]
 {% endhint %}
 
 **Unknown, ambiguous and approximate dates**\
-When the date is an estimate, follow the date with **?** If an estimated date can only be placed with in a range, then include the earliest and latest dates. Place both in square brackets.
+When the date is an estimate, follow the date with **?** or use **approximately**. If an estimated date can only be placed with in a range, then include the earliest and latest dates. Place both in square brackets.
 
 {% hint style="info" %}
 **264 \_0** Birmingham :**|c**\[1896?]
 
+**264 \_0** \[England] :**|c**\[approximately 1918]
+
 **264 \_0** London :**|c**\[between 1945 and 1960]
+
+**264 \_0** New Delhi :**|c**\[20th century]
 {% endhint %}
