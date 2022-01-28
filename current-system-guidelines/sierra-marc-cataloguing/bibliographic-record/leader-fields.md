@@ -139,10 +139,6 @@ Dates included in the Fixed field should be led by the [264 field](264-creation-
 &#x20;                                       the original date of publication of a reprint\
 &#x20;                                       the later date for a for questionable date.
 
-
-
-**Type Mat**          **k** = graphic
-
 **Country**            three letter code for country of publication or creation – see [LC Country Code List](http://www.loc.gov/marc/countries/)\
 \
 **Language**         three letter code for the language of the item – see [LC Language Code List](http://www.loc.gov/marc/languages/language\_code.html)
