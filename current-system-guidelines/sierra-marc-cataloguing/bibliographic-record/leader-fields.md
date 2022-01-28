@@ -54,7 +54,7 @@ For 3D objects (MAT Type **r**) fewer options will be offered, code the Spec Mat
 **i** = Picture\
 **j** = Print\
 **k** = Poster\
-**v** = Photograph
+**v** = Photograph, type unspecified
 
 **Colour**\
 **a** = One colour monochrome (not photographs)\
