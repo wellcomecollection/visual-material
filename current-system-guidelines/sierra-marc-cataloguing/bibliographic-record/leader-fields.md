@@ -15,7 +15,7 @@ description: >-
 | **LOCATION**                   | **stax** (for closed stores)                                                                                          |
 | **CAT DATE**                   | date item was first catalogued. When in the field press T for today's date                                            |
 | **BIB LVL**                    | **m** = a single item                                                                                                 |
-|                                | **a** = part of an item                                                                                               |
+|                                | **a** = part of an item (e.g. photos in an album)                                                                     |
 |                                | **c** = collection                                                                                                    |
 |                                | **d** = coll. subunit. Use for item part of a larger collection, e.g. Adamson Collection                              |
 | **MAT TYPE**                   | **k** = pictures                                                                                                      |
@@ -26,16 +26,16 @@ description: >-
 
 To open the MARC leader press ctrl+r
 
-| Populate the following fields: |                                                                                          |
-| ------------------------------ | ---------------------------------------------------------------------------------------- |
-| **REC TYP**                    | **k** = pictures (graphic materials)                                                     |
-| **BIB LVL**                    | same as preceeding BIB Levl:                                                             |
-|                                | **m** = a single whole item                                                              |
-|                                | **a** = part of an item, items physically part of a larger resource                      |
-|                                | **c** = collection                                                                       |
-|                                | **d** = coll. subunit. Use for item part of a larger collection, e.g. Adamson Collection |
-| **ENC LEVL**                   |                                                                                          |
-| **CAT FORM**                   | i = ISBD punctuation                                                                     |
+| Populate the following fields: |                                                                                              |
+| ------------------------------ | -------------------------------------------------------------------------------------------- |
+| **REC TYP**                    | **k** = pictures (graphic materials)                                                         |
+| **BIB LVL**                    | same as preceeding BIB Levl:                                                                 |
+|                                | **m** = a single whole item                                                                  |
+|                                | **a** = part of an item, items physically part of a larger resource, e.g. photos in an album |
+|                                | **c** = collection                                                                           |
+|                                | **d** = coll. subunit. Use for item part of a larger collection, e.g. Adamson Collection     |
+| **ENC LEVL**                   |                                                                                              |
+| **CAT FORM**                   | i = ISBD punctuation                                                                         |
 
 ## 007 Physical Description
 

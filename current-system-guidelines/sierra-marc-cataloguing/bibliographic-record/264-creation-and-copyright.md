@@ -30,7 +30,7 @@ Includes prints
 
 Transcribe the place of publication as it appears on the object. If this is known to be fictitious or incorrect supply a correction in square brackets.
 
-If no place of publication can be identified, then use cataloguer’s judgement to supply a place e.g. _\[England?]_ or use _\[Place of publication not identified]_
+If no place of publication can be identified, then use cataloguer’s judgement to supply a place e.g. _\[England?]._ If this can not be identified use _\[Place of publication not identified]_
 
 ### Publisher: subfield |b
 
