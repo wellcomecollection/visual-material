@@ -47,9 +47,18 @@ For free text fields in a database, record the date to the greatest specificity 
 
 | Unknown date content | Unknown date format                                |
 | -------------------- | -------------------------------------------------- |
-| Estimated year       | <p>c.1962</p><p>approximately 1962<br>1962?</p>    |
-| 2 possible dates     | 1781 or 1782                                       |
+| Probable date, estimated year       | <p>c.1962</p><br>1962?</p>   |
+| Approximate date     | <p>c.1962</p><br><p>approximately 1962</p>  |
+| Probable approximate date | <p> approximately 1580? </p> 	|
+| 2 possible dates     | <p>1781 or 1782</p>                                    |
 | Estimated range      | <p>c.1860-1872<br>1953-c.1960<br>c.1953-c.1969</p> |
+| Terminal date        | <p> not before 1479 </p><br> not after 21 August 1492 </p> |
+| Date span - certain  | <p>  between 1711 and 1749 </p>  |
+| Date span - uncertain | <p> between 1711 and 1749? </p> |
+| Decade - certain     | <p> between 1670 and 1680 </p>  |
+| Probable decade      | <p> between 1670 and 1680? </p>   |
+| Century - certain    | <p> between 1600 and 1700 </p> <br> <p> 17th century </p>
+| Probable century     | <p> between 1600 and 1700 </p>
 
 Where the date is inscribed on an object in a differing format this should be recorded in the record within a free text date field or in a separate explanatory note. The transcribed date can be qualified by including the date in an unambiguous form within square brackets. _See Inscription element._&#x20;
 
