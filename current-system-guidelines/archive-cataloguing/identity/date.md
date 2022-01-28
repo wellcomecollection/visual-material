@@ -39,12 +39,23 @@ To identify and record the date(s) of creation or production of the material in 
 
 “Some items in this \[add appropriate level e.g. series] have an estimated date by the cataloguer \[insert date range e.g. 20th century] that falls outside the specified date range.”&#x20;
 
-## Copies&#x20;
-
-* If the object is a copy or reproduction of an original object or work, record the creation date of the object you are cataloguing. You can reference the original object or work in the Related\_Material field if it is held by Wellcome Collection.&#x20;
-
 ## Born-digital&#x20;
 
 * For born-digital material provide a date range based on the earliest creation date (excluding 1 January 1970) and latest last modified date of the digital files within the item. If the dates are not straightforward (for instance if files were modified years after creation because they were checked by the depositor immediately prior to deposit), retain the dates but include an explanation in the description field and, if possible, an indication of a more accurate date/date range. Base the date range only on the dates of digital files and ignore folder dates.&#x20;
+
+
+
+## Other Dates&#x20;
+
+For guidance on how to include publication, copyright, accession, or cataloguing dates in the record see the following fields:
+
+* Acquisition
+* Copyright
+* Publication\_Production
+* ArchivistsNotes
+
+### Copies
+
+* If the object is a copy or reproduction of an original object or work, record the creation date of the object you are cataloguing. You can reference the original object or work in the Related\_Material field if it is held by Wellcome Collection.&#x20;
 
 &#x20;
