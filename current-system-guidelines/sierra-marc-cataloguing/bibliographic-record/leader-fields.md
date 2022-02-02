@@ -45,35 +45,15 @@ Select Ctrl + r to open the field and edit. Double click to open the sub fields 
 **Category of Material** (MatCatg) = **k** for non-projected graphics (MAT type k)\
 &#x20;                                                      \= **z** (unspecified) **** for 3D objects (MAT Type r)
 
-_**For MAT Type k only**_ populate the following fields as appropriate:
+_**For MAT Type k only:**_\
+_****_Populate the following fields as appropriate. Double click on the field to open the available options.
 
-**Specific Material Designation or Medium** (Spec Mat)\
-**c** = Collage\
-**d** = Drawing\
-**e** = Painting\
-**f** = Photomechanical print\
-**g** = Photonegative\
-**h** = Photoprint\
-**i** = Picture\
-**j** = Print\
-**k** = Poster\
-**v** = Photograph, type unspecified
-
-**Colour**\
-**a** = One colour monochrome (not photographs)\
-**b** = Black & white, used for photographs\
-**c** = Multi-coloured\
-**h** = Hand-coloured\
-**m** = Mixed – the work is a mix of colour characteristics\
-**z** = Other – used for stained, tinted and toned items such as sepia photos
-
-**Primary Support Material**\
-**a** = canvas\
-**o** = paper\
-See the full list of options [here](https://www.oclc.org/bibformats/en/0xx/007nonproj.html)
-
-**Secondary Support Material**\
-Leave blank (code for ‘no secondary support’), unless the mount is of historical, informational, or archival importance
+* **Specific Material Designation or Medium** (Spec Mat)
+* **Colour**\
+  **z** Other is used for stained, tinted and toned items such as sepia photos
+* **Primary Support Material**
+* **Secondary Support Material**\
+  Leave blank (code for ‘no secondary support’), unless the mount is of historical, informational, or archival importance
 
 ## 008 Date & Country
 
