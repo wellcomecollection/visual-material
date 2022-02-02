@@ -29,7 +29,8 @@ To open the MARC leader press ctrl+r
 | Populate the following fields: |                                                                                              |
 | ------------------------------ | -------------------------------------------------------------------------------------------- |
 | **REC TYP**                    | **k** = pictures (graphic materials)                                                         |
-| **BIB LVL**                    | same as preceeding BIB Levl:                                                                 |
+|                                | **r** = 3D object                                                                            |
+| **BIB LVL**                    | same as preceding BIB Levl:                                                                  |
 |                                | **m** = a single whole item                                                                  |
 |                                | **a** = part of an item, items physically part of a larger resource, e.g. photos in an album |
 |                                | **c** = collection                                                                           |
@@ -41,8 +42,10 @@ To open the MARC leader press ctrl+r
 
 Select Ctrl + r to open the field and edit. Double click to open the sub fields to edit.
 
-**Category of Material** (MatCatg) = **k** non-projected graphic\
-For 3D objects (MAT Type **r**) fewer options will be offered, code the Spec Mat as **z** unspecified
+**Category of Material** (MatCatg) = **k** for non-projected graphics (MAT type k)\
+&#x20;                                                      \= **z** (unspecified) **** for 3D objects (MAT Type r)
+
+_**For MAT Type k only**_ populate the following fields as appropriate:
 
 **Specific Material Designation or Medium** (Spec Mat)\
 **c** = Collage\
