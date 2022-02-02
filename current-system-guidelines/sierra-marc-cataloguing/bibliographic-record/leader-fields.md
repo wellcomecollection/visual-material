@@ -8,19 +8,19 @@ description: >-
 
 ## Leader Fields
 
-| Populate the following fields: |                                                                                                                       |
-| ------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
-| **LANG**                       | three letter code for the languge of the item. See [LC Language Codes](https://www.loc.gov/marc/languages/)           |
-| SKIP                           | ignore, this will populate automatically                                                                              |
-| **LOCATION**                   | **stax** (for closed stores)                                                                                          |
-| **CAT DATE**                   | date item was first catalogued. When in the field press T for today's date                                            |
-| **BIB LVL**                    | **m** = a single item                                                                                                 |
-|                                | **a** = part of an item (e.g. photos in an album)                                                                     |
-|                                | **c** = collection                                                                                                    |
-|                                | **d** = coll. subunit. Use for item part of a larger collection, e.g. Adamson Collection                              |
-| **MAT TYPE**                   | **k** = pictures                                                                                                      |
-|                                | **r** = 3D objects                                                                                                    |
-| **COUNTRY**                    | 3 letter code for the country of publication or creation. See [LC Country Codes](https://www.loc.gov/marc/countries/) |
+| Populate the following fields: |                                                                                                                                                                                    |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **LANG**                       | three letter code for the language of the item. See [LC Language Codes](https://www.loc.gov/marc/languages/) & [_Lang_](https://www.oclc.org/bibformats/en/fixedfield/lang.html).  |
+| SKIP                           | ignore, this will populate automatically                                                                                                                                           |
+| **LOCATION**                   | **stax** (for closed stores)                                                                                                                                                       |
+| **CAT DATE**                   | date item was first catalogued. When in the field press T for today's date                                                                                                         |
+| **BIB LVL**                    | **m** = a single item                                                                                                                                                              |
+|                                | **a** = part of an item (e.g. photos in an album)                                                                                                                                  |
+|                                | **c** = collection                                                                                                                                                                 |
+|                                | **d** = coll. subunit. Use for item part of a larger collection, e.g. Adamson Collection                                                                                           |
+| **MAT TYPE**                   | **k** = pictures                                                                                                                                                                   |
+|                                | **r** = 3D objects                                                                                                                                                                 |
+| **COUNTRY**                    | 3 letter code for the country of publication or creation. See [LC Country Codes](https://www.loc.gov/marc/countries/)                                                              |
 
 ## MARC Leader Fields
 
