@@ -2,9 +2,11 @@
 description: State.
 ---
 
-# 264 Creation & Copyright
+# 264 Date & Place of Creation
 
 264 relates to the production, publication, distribution and manufacture (i.e. the creation) of an object. It is also used for the copyright date.&#x20;
+
+Metadata in 264 should inform that entered into the relevant subfields in the [Fixed Fields](leader-fields.md).
 
 Use the correct second indicator, this relates to the type of information being recorded:
 

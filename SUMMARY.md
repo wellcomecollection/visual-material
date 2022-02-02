@@ -65,7 +65,7 @@
     * [245 Title](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/245-title.md)
     * [246 Varying Forms of Title](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/246-varying-forms-of-title.md)
     * [25X Edition & State](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/25x-edition-and-state.md)
-    * [264 Creation & Copyright](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/264-creation-and-copyright.md)
+    * [264 Date & Place of Creation](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/264-creation-and-copyright.md)
     * [33X Content, Media & Carrier](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/33x-content-media-and-carrier.md)
     * [500 General Note](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/500-general-note.md)
     * [508 Production Credits Note](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/508-production-credits-note.md)
