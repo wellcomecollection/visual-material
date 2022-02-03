@@ -6,7 +6,7 @@ description: Identification Number
 
 This is the unique Wellcome Collection identification number for the object being catalogued.
 
-It is created from the Sierra system number (b number) of the catalogue record: drop teh b and replace the last number with an i.&#x20;
+It is created from the Sierra system number (b number) of the catalogue record: drop the b and replace the last number with an i.&#x20;
 
 {% hint style="info" %}
 b30496639 would become **3049663i**
