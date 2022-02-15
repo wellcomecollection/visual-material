@@ -6,7 +6,7 @@ description: 'Required: 2D Objects, 3D Objects, Born Digital'
 
 ## Definition
 
-This element records the dimensions or overall size of the object or group of objects. 
+This element records the dimensions or overall size of the object or group of objects.&#x20;
 
 ## Which dimensions should be recorded
 
@@ -15,7 +15,7 @@ This element records the dimensions or overall size of the object or group of ob
 * Circular object: record diameter
 * Born digital object: record overall byte size
 
-At minimum the largest dimensions of a single object, or a range of the smallest and largest dimensions for a group of objects, should be recorded. Enhanced records may also include measurements of more specific elements such as plate mark.
+At minimum the largest dimensions of a single object, or a range of the smallest and largest dimensions for a group of objects, should be recorded. Records may also include measurements of more specific elements such as plate mark.
 
 ## Unit of measurement
 
@@ -27,22 +27,21 @@ Born Digital Objects: Record the size of the object or objects in bytes, roundin
 
 Specify what is being measured using the following standard terms:
 
-* Sheet 
-* Plate Mark
-* Mount 
-* Frame 
-* Box
-* Album
-* Sketchbook
-* Scrapbook
-* Print
-* Plate
-* Negative 
-* Canvas
-* Panel
-* Folded 
-* Rolled
-* Object \[3D objects only\]
+* sheet&#x20;
+* plate mark
+* mount&#x20;
+* frame&#x20;
+* box
+* album
+* sketchbook
+* scrapbook
+* print
+* plate
+* negative&#x20;
+* canvas
+* panel
+* folded&#x20;
+* rolled
 
 ## Layout
 
@@ -57,7 +56,7 @@ Plate mark 20.5 x 30.5 cm, sheet 30 x 40 cm
 If the shape is unusual or a distinguishing characteristic, record an indication of the outline form.
 
 {% hint style="info" %}
-Frame 45 x 20.5 cm \(oval\)
+Frame 45 x 20.5 cm (oval)
 {% endhint %}
 
 If the object contains multiple distinct images, record an indication of the section.
@@ -78,13 +77,13 @@ If the object is irregularly shaped record the greatest dimensions
 {% tab title="Group of objects" %}
 A group of objects can be recorded in the same way as individual objects.
 
-However if they are too numerous, or access wouldn't be significantly enhanced by describing dimensions individually, they may be expressed in a range including the greatest dimensions of the smallest and largest objects. 
+However if they are too numerous, or access wouldn't be significantly enhanced by describing dimensions individually, they may be expressed in a range including the greatest dimensions of the smallest and largest objects.&#x20;
 
 {% hint style="info" %}
 Frames range in size from 24 x 52 cm to 34 x 60 cm
 {% endhint %}
 
-If the group is relatively homogeneous, it may be useful to still specify other specific elements of the object being recorded in a range. 
+If the group is relatively homogeneous, it may be useful to still specify other specific elements of the object being recorded in a range.&#x20;
 
 {% hint style="info" %}
 Frames range in size from 24 x 52 cm to 34 x 60 cm; sheets range in size from 14 x 32 cm to 20 x 49 cm
@@ -107,4 +106,3 @@ Element of object being recorded is stated first followed by dimension then shap
 Specify the dimension type and value in lowercase with spaces between.
 
 Order dimensions according to natural orientation
-
