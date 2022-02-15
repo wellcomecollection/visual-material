@@ -1,5 +1,13 @@
 # Cataloguing History
 
+The first public catalogue came about with the publication of [Portraits of doctors & scientists in the Wellcome Institute of the History of Medicine](https://wellcomecollection.org/works/xsfrxzzm) by Renate Burgess (building on previous work by D. Pender Davidson and C.A. Earnshaw). Its basis was an inventory of the portrait prints organized by C.A. Earnshaw, enriched with the results of research by Burgess and through correspondence. It was envisaged as volume 1 in a series. A draft of volume 2, cataloguing group portraits, was completed in typescript (and later used as a basis for computer catalogue records). Further volumes, containing portraits of other professional and social groups, did not appear, as the catalogue became computer based.
+
+Computer cataloguing started in April 1990, with 100 test records. The first record was no. 1i. Cataloguing continued, mostly with brief records. Some areas of the collection were selected for more expansive treatment, when quality information was easily available (such as British caricatures before 1833). For some subject areas brief typescript box-lists were available. However, for the vast majority of the collection, there was no information at hand: records were created from scratch. There were no online catalogues for reference and the accessions records were not used.
+
+The catalogue was created in UKMARC, using the URICA system, with bespoke software written by Jeannette Lake (Wellcome Institute Library). The data was exported from URICA in 1999 to Innopac (Innovative Interfaces Inc.), later Millennium, then Sierra. From 1999 the data was held as MARC21, but the granularity of UKMARC that was not available in MARC21 was retained as far as possible (e.g. notes on titles and lettering, notes on publishing history), though lost in other respects (e.g. separate subfields for forenames and titles, which had previously permitted the reconstruction of personal names in natural-language order).
+
+In 2018 the written cataloguing guidance was revised for Museum Accreditation. This guidance covered objects catalogued in MARC, but not those that were part of the Archives or Manuscript collections. New approaches to recording data were explored from this date.
+
 ## Previous Cataloguing Guidelines
 
 [**Legacy files in SharePoint**](https://wellcomecloud.sharepoint.com/:f:/r/sites/wc2/cr/Legacy%20Files/Collections%20Information/Iconographic%20Cataloguing%20legacy%20docs?csf=1\&web=1\&e=B7cvvH)****
