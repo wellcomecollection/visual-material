@@ -12,57 +12,24 @@ This identifies the specific **type of object** being catalogued. It determines 
 
 ## Terminology
 
-Object Type is recorded using controlled vocabulary to ensure consistent terminology in the catalogue.  Common terms applicable to Wellcome Collection are listed in the [**Object Type List**](object-type-list.md). When cataloguing select from this list. When a relevant term for the item being catalogued is not listed, select a suitable term from the [Getty Art & Architecture Thesaurus.](https://www.getty.edu/research/tools/vocabularies/aat/) 
+Object Type must be recorded using controlled vocabulary to ensure consistency in the catalogue. The ideal is to create a list of controlled terms in existence in Wellcome data, until this is achieved the catalogue and Wellcome Genre List can be consulted for current term usage. _Note: the Genre list covers both object type and technique._ 
 
-For born digital objects, use the broad term 'image file'.
+When a relevant term for the item being catalogued is not listed, select a suitable term from the [Getty Art & Architecture Thesaurus.](https://www.getty.edu/research/tools/vocabularies/aat/)
 
-The broadest **object type term or terms is** best expressed in conjunction with the **number of objects** data.
+## Recording broad and specific terms 
+For 2D objects include one of the following broad terms (where applicable to the object being catalogued), plus a more specific term if known.
+* drawing
+* painting
+* photograph
+* print
 
-{% hint style="info" %}
-**1 print** 
+For born digital objects, use the broad term **image file**
 
-**3 paintings**
-
-**14 drawings, 8 photographs and 9 paintings**
-{% endhint %}
-
-## Allocating multiple terms and specificity
+If the cataloguer cannot determine a specific object type term for the object, a general, broader term will be sufficient. In such a situation the broad term can be repeated in the record if required by the cataloguing system.
 
 Multiple terms can be chosen for the same object or group of objects, if known or applicable.
 
-### 2D Objects
-For 2D objects include a broad term to describe the object type, and where possible a more specific term. Select the broad term from the following:
-
-*	drawing
-*	painting
-*	photograph
-*	print
-
-If a more specific term cannot be allocated to the object, or is not known, the broad terms listed above are sufficient. In such a situation the broad term can be repeated in the record if required by the cataloguing system.
-
 Include all the relevant terms for the object or group of objects being described in the catalogue record to optimise access.
-
-{% hint style="info" %}
-4 image files 
-
-drawings, paintings
-{% endhint %}
-
-
-{% hint style="info" %}
-1 print
-
-poster
-{% endhint %}
-
-
-{% hint style="info" %}
-5 photographs
-
-glass plate negatives, sheet film 
-{% endhint %}
-
-
 
 ## **Related Elements**
 
