@@ -54,10 +54,6 @@ If an inscription is too long to transcribe, transcribe part of it and indicate 
 The Doecker hospital huts recently purchased for the accommodation of the wounded sent home from South Africa ... from a photograph by Stephen Cribb, Southsea
 {% endhint %}
 
-## Inscribed titles
-
-When transcribing Inscribed titles into a title field, use sentence case. If the Inscribed title uses an alternative notable case include a note to record this.
-
 ## Inscribed dates
 
 Where the date is inscribed on an object in a differing format to how it is recorded elsewhere in the catalogue record, transcribe as it is written, in a free text date field or in a separate explanatory note. The transcribed date can be qualified by including the date in an unambiguous form within square brackets.
