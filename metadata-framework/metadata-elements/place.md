@@ -2,7 +2,7 @@
 description: 'Required, if known: 2D Objects, 3D Objects'
 ---
 
-# Place of creation
+# Place of Creation
 
 Definition
 ----------
@@ -24,22 +24,20 @@ If not supplied and can be determined from supporting documentation or publicati
 {% hint style="info" %}
 Kisangani, Democratic Republic of the Congo
 
-Philadelphia, United States of America
-
 United Kingdom
 {% endhint %}
 
 If place of creation or publication is unknown, use the geographic or cultural origin of the creator instead. &#x20;
 
 {% hint style="info" %}
-Nepalese&#x20;
+Nepal
 
-Italian School
+Italy
 {% endhint %}
 
 If uncertain or place is ambiguous include the term possibly or probably before it.&#x20;
 
-If not, leave blank.&#x20;
+If no place can be ascertained then leave blank.
 
 ## Group of Objects
 
