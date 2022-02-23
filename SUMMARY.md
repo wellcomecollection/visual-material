@@ -4,7 +4,7 @@
 
 ## Cataloguing History
 
-* [Cataloguing History](cataloguing-history.md)
+* [Cataloguing History](cataloguing-history/README.md)
 
 ## METADATA FRAMEWORK
 
