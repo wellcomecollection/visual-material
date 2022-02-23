@@ -2,8 +2,6 @@
 
 * [Introduction](README.md)
 
-## Cataloguing History
-
 * [Cataloguing History](cataloguing-history/README.md)
 
 ## METADATA FRAMEWORK
