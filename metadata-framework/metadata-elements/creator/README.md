@@ -61,7 +61,7 @@ after
 Where an object is considered to be based on a work by another creator, include a note in the catalogue record recognising this fact, using the qualifying term **after**.
 
 {% hint style="info" %}
-engraving by Rigou after William Hogarth
+engraving by J. Muller after H. Goltzius.
 {% endhint %}
 
 ## Name **source and format**
@@ -88,6 +88,8 @@ Hogarth, William, 1697-1764
 Shrigley, David, artist
 
 Wren, Christopher, Sir, 1632-1723, architect
+
+Bishop, Mary, active approximately 1955-1975.
 
 Vanity Fair, publisher
 {% endhint %}
