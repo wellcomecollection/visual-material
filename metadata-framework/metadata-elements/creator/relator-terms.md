@@ -24,12 +24,12 @@ Relator terms are used to explain the relationship between a name and an object.
 * issuing body
 * lithographer
 * manufacturer
-* photographer
-* publisher
+* painter
 * papermaker
+* photographer
 * platemaker
 * printer
 * printmaker
+* publisher
 * sculptor
 * woodcutter
-
