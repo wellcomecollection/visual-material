@@ -89,7 +89,7 @@ Shrigley, David, artist
 
 Wren, Christopher, Sir, 1632-1723, architect
 
-Bishop, Mary, active approximately 1955-1975.
+Bishop, Mary, active approximately 1955-1975
 
 Vanity Fair, publisher
 {% endhint %}
