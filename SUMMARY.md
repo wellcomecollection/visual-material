@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 
-## BACKGROUND
+## Cataloguing History
 
-* [Cataloguing History](background/cataloguing-history.md)
+* [Cataloguing History](cataloguing-history.md)
 
 ## METADATA FRAMEWORK
 
