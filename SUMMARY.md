@@ -5,8 +5,6 @@
 ## BACKGROUND
 
 * [Cataloguing History](background/cataloguing-history.md)
-* [Visual and Material Culture Inventory Metadata](background/inventory-metadata.md)
-* [Historic Numbering Systems](background/historic-numbering.md)
 
 ## METADATA FRAMEWORK
 
