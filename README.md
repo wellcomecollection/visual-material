@@ -4,7 +4,7 @@ These resources are designed to support cataloguing and access to the Visual and
 
 Wellcome Collection's Visual Collections are not catalogued in a single database, therefore these guidelines aim to facilitate a common approach to cataloguing, regardless of the system they are catalogued in.&#x20;
 
-The following Cataloguing History section provides an insight into past cataloguing of the collection (pre 2021), and gives context for the legacy metadata in existing cataloguing records.
+The following Cataloguing History section provides an insight into past cataloguing of the collection (pre 2021), and gives context for the legacy metadata in existing catalogue records.
 
 The Metadata Framework identifies the common types of data the cataloguer should aim to include in a record, if known or applicable to the object being described. The Framework is based on the Cataloguing Cultural Objects (CCO) manual published by the Visual Resources Association (VRA).&#x20;
 
