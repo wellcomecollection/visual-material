@@ -49,10 +49,12 @@ proof before letters\
 proof
 {% endhint %}
 
-Where a free text field allows, include an explanatory note if required, and ensure the reference to any informative text is included in the record. &#x20;
+If the cataloguer is able to describe what distinguishes this state being from others, include this information and ensure the reference to any informative text is included in the record. &#x20;
 
 {% hint style="info" %}
 1st of 3 states as identified in Andrew Robison (1986) Early Architectural Fantasies: Catalogue Raisonné of the Piranesi Etchings
+
+Rodney Engen, Dictionary of Victorian engravers, print publishers, and their works, Cambridge 1979, p. 61. This state doesn't include the following lettering: (Lord) Ashley, M.P.' after F. Bird")
 {% endhint %}
 
 ## Related Elements

@@ -6,7 +6,7 @@ description: 'Required, if extant: 2D Objects, 3D Objects, Born Digital'
 
 ## Definition
 
-This element records references to published material and other supporting documentation and resources used to inform the cataloguing of the specific object. 
+This element records references to published material and other supporting documentation and resources used to inform the cataloguing of the specific object and direct researchers to further information.
 
 ## Layout
 
@@ -15,6 +15,4 @@ Use APA
 {% hint style="info" %}
 Examples for book, journal, electronic resource needed
 {% endhint %}
-
-
 
