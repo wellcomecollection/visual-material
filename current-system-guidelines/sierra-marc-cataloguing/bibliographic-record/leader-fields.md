@@ -105,6 +105,8 @@ Select **Ctrl + r** to open the field and edit. Edit each field as follows:
 **264 \_0**       **|c**\[not after 1960]
 {% endhint %}
 
+**m** = multiple dates. Use for multi-part items
+
 **n** = dates unknown. Use for _\[date of creation not identified]_ and similar situations, where no other code applies and a reasonable date cannot be determined. Both _Date 1_ and _Date 2_ should be coded _uuuu_
 
 **i =** inclusive dates of a collection. Use for unpublished items that have a range of dates of execution.
