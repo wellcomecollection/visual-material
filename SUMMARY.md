@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-
 * [Cataloguing History](cataloguing-history/README.md)
 
 ## METADATA FRAMEWORK
@@ -72,8 +71,9 @@
     * [Drawing](current-system-guidelines/sierra-marc-cataloguing/format-examples/drawing.md)
     * [Painting](current-system-guidelines/sierra-marc-cataloguing/format-examples/painting.md)
     * [Photograph](current-system-guidelines/sierra-marc-cataloguing/format-examples/photograph.md)
-    * [Poster](current-system-guidelines/sierra-marc-cataloguing/format-examples/poster.md)
     * [Print](current-system-guidelines/sierra-marc-cataloguing/format-examples/print.md)
+    * [3D Object](current-system-guidelines/sierra-marc-cataloguing/format-examples/poster.md)
+    * [Album / Group](current-system-guidelines/sierra-marc-cataloguing/format-examples/album-group.md)
 * [CALM Guidelines](current-system-guidelines/archive-cataloguing/README.md)
   * [Introduction and basic cataloguing principles](current-system-guidelines/archive-cataloguing/introduction-and-basic-cataloguing-principles.md)
   * [IDENTITY](current-system-guidelines/archive-cataloguing/identity/README.md)
