@@ -136,12 +136,12 @@
       * [Engraving](current-system-guidelines/archive-cataloguing/format-examples/print/engraving.md)
       * [Lithograph](current-system-guidelines/archive-cataloguing/format-examples/print/lithograph.md)
       * [Digital](current-system-guidelines/archive-cataloguing/format-examples/print/digital.md)
-    
+
 ## CATALOGUING AIDS <a href="#pre-cataloguing" id="pre-cataloguing"></a>
 
-* [Content Considerations](pre-cataloguing/sources-of-information.md)
-* [Numbering & Part Numbering](pre-cataloguing/single-group-objects.md)
 * [Identification](pre-cataloguing/about/README.md)
   * [Identifying paintings](pre-cataloguing/about/identifying-paintings.md)
   * [Identifying prints](pre-cataloguing/about/untitled.md)
   * [Identifying photographs](pre-cataloguing/about/specifics.md)
+* [Content Considerations](pre-cataloguing/sources-of-information.md)
+* [Numbering & Part Numbering](pre-cataloguing/single-group-objects.md)
