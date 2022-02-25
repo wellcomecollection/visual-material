@@ -9,7 +9,6 @@ To ensure consistency, these terms for material have been taken from the [Getty 
 | canvas     |
 | cardboard  |
 | ceramic    |
-| chalk      |
 | clay       |
 | cotton     |
 | felt       |
