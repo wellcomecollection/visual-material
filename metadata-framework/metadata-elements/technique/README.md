@@ -68,9 +68,9 @@ ink drawing on paper&#x20;
 
 If there is uncertainty on the specific technique or medium, use the broadest applicable known term.
 
-### Access Point
+### Terms as access points
 
-To enhance accessibility, where possible, also record key techniques and materials as plural terms regardless of number.&#x20;
+Where a system allows inclusion of technique and material terms in fixed fields, or as access points, record these as plural terms regardless of number.&#x20;
 
 {% hint style="info" %}
 stipple engravings
@@ -92,9 +92,8 @@ To help with identifying techniques, mediums and materials, please see the [Iden
 
 ## Related Elements
 
-If hand-coloured or otherwise a notable characteristic of the object, see the [Colour](../colour.md) element.&#x20;
-
-
+Terms for 2D graphic objects may be duplicated in the **Object Type** element.\
+Further detail relating to colour present in the object can be recorded in the **Colour** element.&#x20;
 
 ##
 
