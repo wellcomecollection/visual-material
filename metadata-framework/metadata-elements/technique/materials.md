@@ -4,14 +4,12 @@ To ensure consistency, these terms for material have been taken from the [Getty 
 
 ## Material Terms <a href="#technique-terms" id="technique-terms"></a>
 
-| calico      |
-| ----------- |
 | canvas      |
+| ----------- |
 | cardboard   |
 | ceramic     |
 | clay        |
 | cotton      |
-| felt        |
 | glass       |
 | gouache     |
 | gum arabic  |
