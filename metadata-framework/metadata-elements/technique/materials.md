@@ -11,7 +11,6 @@ To ensure consistency, these terms for material have been taken from the [Getty 
 | ceramic   |
 | chalk     |
 | clay      |
-| concrete  |
 | cotton    |
 | felt      |
 | glass     |
