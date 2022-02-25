@@ -1,12 +1,14 @@
 # Cataloguing History
 
-The first public catalogue came about with the publication of [Portraits of doctors & scientists in the Wellcome Institute of the History of Medicine](https://wellcomecollection.org/works/xsfrxzzm) by Renate Burgess (building on previous work by D. Pender Davidson and C.A. Earnshaw). Its basis was an inventory of the portrait prints organized by C.A. Earnshaw, enriched with the results of research by Burgess and through correspondence. It was envisaged as volume 1 in a series. A draft of volume 2, cataloguing group portraits, was completed in typescript (and later used as a basis for computer catalogue records). Further volumes, containing portraits of other professional and social groups, did not appear, as the catalogue became computer based.
+The first public catalogue came about with the publication of [Portraits of doctors & scientists in the Wellcome Institute of the History of Medicine](https://wellcomecollection.org/works/xsfrxzzm) by Renate Burgess (building on previous work by D. Pender Davidson and C.A. Earnshaw). Its basis was an inventory of the portrait prints organized by C.A. Earnshaw, enriched with the results of research by Burgess and through correspondence. It was envisaged as volume 1 in a series. A draft of volume 2, cataloguing group portraits, was completed in typescript (and later used as a basis for computer catalogue records). Further volumes, containing portraits of other professional and social groups, did not appear, as the catalogue was computerised.
 
 Computer cataloguing started in April 1990, with 100 test records. The first record was no. 1i. Cataloguing continued, mostly with brief records. Some areas of the collection were selected for more expansive treatment, when quality information was easily available (such as British caricatures before 1833). For some subject areas brief typescript box-lists were available. However, for the vast majority of the collection, there was no information at hand: records were created from scratch. There were no online catalogues for reference and the accessions records were not used.
 
 The catalogue was created in UKMARC, using the URICA system, with bespoke software written by Jeannette Lake (Wellcome Institute Library). The data was exported from URICA in 1999 to Innopac (Innovative Interfaces Inc.), later Millennium, then Sierra. From 1999 the data was held as MARC21, but the granularity of UKMARC that was not available in MARC21 was retained as far as possible (e.g. notes on titles and lettering, notes on publishing history), though lost in other respects (e.g. separate subfields for forenames and titles, which had previously permitted the reconstruction of personal names in natural-language order).
 
 In 2018 the written cataloguing guidance was revised for Museum Accreditation. This guidance covered objects catalogued in MARC, but not those that were part of the Archives or Manuscript collections. New approaches to recording data were explored from this date.
+
+In 2019, as a requirement of Museum Accreditation, a full Inventory of the Visual & Material Collections was begun. The resulting Inventory records provide data that meets the Core data requirements of Spectrum (Museum Accreditation Standard), and can provide the basis for full catalogue records.
 
 ## Previous Cataloguing Guidelines
 
@@ -30,3 +32,5 @@ Iconographic Cataloguing [Crib sheet 201](https://wellcomecloud.sharepoint.com/:
 
 [Visual & Material Culture Collection Cataloguing Guidelines](https://wellcomecloud.sharepoint.com/:w:/r/sites/wc2/cr/ci/Cataloging/Visual%20%26%20material%20culture/Visual%20%26%20material%20culture%20cataloguing%20guidelines%20\(version%20history\)/VisualMaterialCataloguing\_v1.0.docx?d=w390cede3bea649aa9b7214f5a3bbd18f\&csf=1\&web=1\&e=RWli6S), 2018\
 Written to support the Wellcome Collection application for Museum Accreditation in 2018.
+
+Visual & Material Culture Collections [Inventory Documentation](https://app.gitbook.com/o/-LumfFcEMKx4gYXKAZTQ/s/-Mgjvi2MWgBW-bCdzb4u-887967055/)
