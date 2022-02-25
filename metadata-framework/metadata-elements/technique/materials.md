@@ -4,27 +4,32 @@ To ensure consistency, these terms for material have been taken from the [Getty 
 
 ## Material Terms <a href="#technique-terms" id="technique-terms"></a>
 
-| calico     |
-| ---------- |
-| canvas     |
-| cardboard  |
-| ceramic    |
-| clay       |
-| cotton     |
-| felt       |
-| glass      |
-| gum arabic |
-| lace       |
-| latex      |
-| linen      |
-| metal      |
-| paper      |
-| papyrus    |
-| plastic    |
-| resin      |
-| silicon    |
-| silk       |
-| velum      |
-| wax        |
-| wood       |
-| wool       |
+| calico      |
+| ----------- |
+| canvas      |
+| cardboard   |
+| ceramic     |
+| clay        |
+| cotton      |
+| felt        |
+| glass       |
+| gouache     |
+| gum arabic  |
+| ink         |
+| lace        |
+| latex       |
+| linen       |
+| metal       |
+| oil paint   |
+| paper       |
+| papyrus     |
+| pencil      |
+| plastic     |
+| resin       |
+| silicon     |
+| silk        |
+| velum       |
+| watercolour |
+| wax         |
+| wood        |
+| wool        |
