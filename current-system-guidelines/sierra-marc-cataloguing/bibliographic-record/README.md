@@ -6,7 +6,7 @@ Visual material records in Sierra should reflect the use of MARC across the whol
 
 Visual records should aim to meet Spectrum standards for Museum Accreditation. The ideal record should contain the following core fields in the Bibliographic record:
 
-| **   <br>MARC Field   ** | **   <br>Data Type   **        |
+| **MARC Field** | **Data Type**        |
 |--------------------------|--------------------------------|
 | Leader                   | Coded data elements            |
 | 001                      | Ref No. Unique ID              |
