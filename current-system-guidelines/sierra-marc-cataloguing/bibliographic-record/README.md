@@ -26,7 +26,6 @@ Visual records should aim to meet Spectrum standards for Museum Accreditation. T
 | 561            | Provenance                     |
 | 600            | Subject: Personal name         |
 | 610            | Subject: Corporate name        |
-| 648            | Subject: Chronology            |
 | 650            | Subject: Topical               |
 | 651            | Subject: Geographic            |
 | 655            | Genre                          |
