@@ -37,15 +37,6 @@
   * [Catalogued Date](metadata-framework/metadata-elements/cat-date.md)
 * [Metadata Crosswalk](metadata-framework/metadata-crosswalk.md)
 
-## CATALOGUING AIDS <a href="#pre-cataloguing" id="pre-cataloguing"></a>
-
-* [Content Considerations](pre-cataloguing/sources-of-information.md)
-* [Numbering & Part Numbering](pre-cataloguing/single-group-objects.md)
-* [Identification](pre-cataloguing/about/README.md)
-  * [Identifying paintings](pre-cataloguing/about/identifying-paintings.md)
-  * [Identifying prints](pre-cataloguing/about/untitled.md)
-  * [Identifying photographs](pre-cataloguing/about/specifics.md)
-
 ## CURRENT SYSTEM GUIDELINES
 
 * [Sierra MARC Guidelines](current-system-guidelines/sierra-marc-cataloguing/README.md)
@@ -56,17 +47,14 @@
     * [041 Language Code](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/041-language-code.md)
     * [100/700 Personal Name](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/100-700-personal-name.md)
     * [110/710 Corporate Name](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/110-710-corporate-name.md)
-    * [24X Title](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/245-title.md)
+    * [245 Title](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/245-title.md)
+    * [246 Varying Forms of Title](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/246-varying-forms-of-title.md)
     * [25X Edition & State](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/25x-edition-and-state.md)
     * [264 Date & Place of Creation](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/264-creation-and-copyright.md)
-    * [300 Physical Description](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/300-physical-description.md)
     * [33X Content, Media & Carrier](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/33x-content-media-and-carrier.md)
     * [500 General Note](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/500-general-note.md)
     * [508 Production Credits Note](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/508-production-credits-note.md)
     * [510 References Note](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/510-references-note.md)
-    * [514 Inscription](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/514-inscription.md)
-    * [5XX Provenance](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/5xx-provenance.md)
-    * [6XX Subjects](current-system-guidelines/sierra-marc-cataloguing/bibliographic-record/6xx-subjects.md)
   * [Item Record](current-system-guidelines/sierra-marc-cataloguing/item-record.md)
   * [Linking Records](current-system-guidelines/sierra-marc-cataloguing/linking-records.md)
   * [Format Examples](current-system-guidelines/sierra-marc-cataloguing/format-examples/README.md)
@@ -148,3 +136,12 @@
       * [Engraving](current-system-guidelines/archive-cataloguing/format-examples/print/engraving.md)
       * [Lithograph](current-system-guidelines/archive-cataloguing/format-examples/print/lithograph.md)
       * [Digital](current-system-guidelines/archive-cataloguing/format-examples/print/digital.md)
+    
+  ## CATALOGUING AIDS <a href="#pre-cataloguing" id="pre-cataloguing"></a>
+
+* [Content Considerations](pre-cataloguing/sources-of-information.md)
+* [Numbering & Part Numbering](pre-cataloguing/single-group-objects.md)
+* [Identification](pre-cataloguing/about/README.md)
+  * [Identifying paintings](pre-cataloguing/about/identifying-paintings.md)
+  * [Identifying prints](pre-cataloguing/about/untitled.md)
+  * [Identifying photographs](pre-cataloguing/about/specifics.md)
