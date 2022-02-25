@@ -6,30 +6,30 @@ Visual material records in Sierra should reflect the use of MARC across the whol
 
 Visual records should aim to meet Spectrum standards for Museum Accreditation. The ideal record should contain the following core fields in the Bibliographic record:
 
-| **   <br>MARC Field   ** | **   <br>Data Type   **                  |
-|--------------------------|------------------------------------------|
-|    <br>Leader            |    <br>Coded data elements               |
-|    <br>001               |    <br>Ref No. Unique ID                 |
-|    <br>007               |    <br>Coded physical characteristics    |
-|    <br>008               |    <br>Coded data elements               |
-|    <br>100/110/111       |    <br>Name Entry. Creator               |
-|    <br>245               |    <br>Title                             |
-|    <br>264               |    <br>Creation Place & Date             |
-|    <br>300               |    <br>Physical Description              |
-|    <br>336               |    <br>Content type                      |
-|    <br>337               |    <br>Media type                        |
-|    <br>338               |    <br>Carrier type                      |
-|    <br>500               |    <br>Source of Title                   |
-|    <br>514               |    <br>Lettering                         |
-|    <br>520               |    <br>Summary / description             |
-|    <br>524               |    <br>Cite as                           |
-|    <br>561               |    <br>Provenance                        |
-|    <br>600               |    <br>Subject: Personal name            |
-|    <br>610               |    <br>Subject: Corporate name           |
-|    <br>648               |    <br>Subject: Chronology               |
-|    <br>650               |    <br>Subject: Topical                  |
-|    <br>651               |    <br>Subject: Geographic               |
-|    <br>655               |    <br>Genre                             |
-|    <br>700/710/711       |    <br>Name Entry. Contributors          |
+| **   <br>MARC Field   ** | **   <br>Data Type   **        |
+|--------------------------|--------------------------------|
+| Leader                   | Coded data elements            |
+| 001                      | Ref No. Unique ID              |
+| 007                      | Coded physical characteristics |
+| 008                      | Coded data elements            |
+| 100/110/111              | Name Entry. Creator            |
+| 245                      | Title                          |
+| 264                      | Creation Place & Date          |
+| 300                      | Physical Description           |
+| 336                      | Content type                   |
+| 337                      | Media type                     |
+| 338                      | Carrier type                   |
+| 500                      | Source of Title                |
+| 514                      | Lettering                      |
+| 520                      | Summary / description          |
+| 524                      | Cite as                        |
+| 561                      | Provenance                     |
+| 600                      | Subject: Personal name         |
+| 610                      | Subject: Corporate name        |
+| 648                      | Subject: Chronology            |
+| 650                      | Subject: Topical               |
+| 651                      | Subject: Geographic            |
+| 655                      | Genre                          |
+| 700/710/711              | Name Entry. Contributors       |
 
 It is recognised some information may not be available to the cataloguer, in which case include all the known information. Include all additional information where available. If a suitable MARC field is not specified in the Visual cataloguing guidelines, select a recognised field from the [OCLC](https://www.oclc.org/bibformats/en.html) guidelines.
