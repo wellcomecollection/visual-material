@@ -137,7 +137,7 @@
       * [Lithograph](current-system-guidelines/archive-cataloguing/format-examples/print/lithograph.md)
       * [Digital](current-system-guidelines/archive-cataloguing/format-examples/print/digital.md)
     
-  ## CATALOGUING AIDS <a href="#pre-cataloguing" id="pre-cataloguing"></a>
+## CATALOGUING AIDS <a href="#pre-cataloguing" id="pre-cataloguing"></a>
 
 * [Content Considerations](pre-cataloguing/sources-of-information.md)
 * [Numbering & Part Numbering](pre-cataloguing/single-group-objects.md)
