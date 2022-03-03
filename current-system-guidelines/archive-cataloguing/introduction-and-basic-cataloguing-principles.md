@@ -47,7 +47,7 @@ The elements in the Visual Material Metadata Framework are referred to in square
 
 ## Level of Detail
 
-To make cataloguing more consistent across Wellcome Collection, refer to the [Pre Cataloguing Considerations](../../pre-cataloguing/single-group-objects.md) section to decide whether the material would benefit from more granular cataloguing.
+To make cataloguing more consistent across Wellcome Collection, refer to the [Pre Cataloguing Considerations](broken-reference) section to decide whether the material would benefit from more granular cataloguing.
 
 ## Arrangement and Data formatting
 

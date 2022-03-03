@@ -1,2 +1,0 @@
-# 545 Biographical Note
-
