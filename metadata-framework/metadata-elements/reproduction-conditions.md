@@ -14,4 +14,4 @@ If known, the holder of copyright for reproduction of the object should be provi
 
 If the name cannot be provided for reasons of confidentiality, the term 'In Copyright' should be entered instead.&#x20;
 
-If not known, the element may be left blank.&#x20;
+If not known, the element may be omitted.&#x20;
