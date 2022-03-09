@@ -8,7 +8,7 @@ description: >-
 
 ## Definition
 
-The inscription element offers a transcription (and where necessary a description) of any distinguishing or identifying physical lettering, annotations, texts, markings, or labels that are affixed, applied, stamped, written, inscribed, or attached to the work. It excludes any mark or text inherent in the materials of which the work is made e.g. watermarks.
+The inscription element offers a transcription (and where necessary a description) of any distinguishing or identifying physical lettering, annotations, texts, markings, or labels that are affixed, applied, stamped, printed, written, inscribed, or attached to the work. It excludes any mark or text inherent in the materials of which the work is made e.g. watermarks.
 
 ## Capturing an inscription
 
