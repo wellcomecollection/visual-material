@@ -37,6 +37,8 @@ This is a title taken from an inscription, text or caption on the object or grou
 No smoking no hate.  [3197871i](https://wellcomecollection.org/works/trkdjmg3)
 {% endhint %}
 
+If there are multiple options for a title on the object; use cataloguer's judgement to select one as the preferred title. Record the other options as alternative titles if considered necessary.
+
 If an inscribed title taken from the object has notable features, such as being written in mirror writing, or is incorporated into the visual design, a note recording this feature can be added to the record.&#x20;
 
 ### Descriptive Title
@@ -45,7 +47,8 @@ With a descriptive title, a brief description of the object or group of objects 
 
 Avoid interpretations, or inferring emotions, themes or allegories without a source. Look for literal representations, if there are no literal representations look for shapes and colour.
 
-For 2D and Born Digital graphic objects&#x20;this should be a short description of the subject matter of the item. Include, as appropriate, the following types of information:
+For 2D and Born Digital graphic objects&#x20;
+this should be a short description of the subject matter of the item. Include, as appropriate, the following types of information:
 
 * the subject type or form of material, e.g., view(s), portrait(s), sketch(es)
 * an identification of the main subject(s) depicted (i.e., names of persons, events, activities, and objects)
@@ -125,12 +128,5 @@ Untitled. [3272401i](https://wellcomecollection.org/works/rnsgfs2m)
 ## Related Elements
 
 Detailed visual description
-
-
-
-
-
-
-
 
 
