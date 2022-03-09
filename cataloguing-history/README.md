@@ -8,7 +8,7 @@ The catalogue was created in UKMARC, using the URICA system, with bespoke softwa
 
 In 2018 the written cataloguing guidance was revised for Museum Accreditation. This guidance covered objects catalogued in MARC, but not those that were part of the Archives or Manuscript collections. New approaches to recording data were explored from this date.
 
-In 2019, as a requirement of Museum Accreditation, a full Inventory of the Visual & Material Collections was begun. The resulting Inventory records provide data that meets the Core data requirements of Spectrum (Museum Accreditation Standard), and can provide the basis for full catalogue records.
+In 2019, as a requirement of Museum Accreditation, a full Inventory of the Visual & Material Collections was begun. The resulting Inventory records provide data that meets the Core data requirements of Spectrum (Museum Accreditation Standard), and can provide the basis for fuller catalogue records.
 
 ## Previous Cataloguing Guidelines
 
