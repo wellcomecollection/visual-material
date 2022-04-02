@@ -4,17 +4,17 @@ description: State.
 
 # 264 Date & Place of Creation
 
-264 relates to the production, publication, distribution and manufacture (i.e. the creation) of an object. It is also used for the copyright date.&#x20;
+264 relates to the production, publication, distribution and manufacture (i.e. the creation) of an object. It is also used for the copyright date.
 
 Metadata in 264 should inform that entered into the relevant subfields in the [Fixed Fields](leader-fields.md).
 
 Use the correct second indicator, this relates to the type of information being recorded:
 
-**264 \_0**  Production\
-**264 \_1**  Publication\
-**264 \_2**  Distribution\
-**264 \_3**  Manufacture\
-**264 \_4**  Copyright date
+**264 \_0** Production\
+**264 \_1** Publication\
+**264 \_2** Distribution\
+**264 \_3** Manufacture\
+**264 \_4** Copyright date
 
 The field is repeatable if multiple types of information are available, i.e. production and publication
 
@@ -22,9 +22,9 @@ For some material the type of date maybe unclear, when in doubt treat as unpubli
 
 If the information is taken from a source other than the object itself, place the information in a square bracket.
 
-Add a 500 or 510 note where information is taken from an outside source if considered significant.&#x20;
+Add a 500 or 510 note where information is taken from an outside source if considered significant.
 
-## Published Material&#x20;
+## Published Material
 
 Includes prints
 
@@ -48,30 +48,30 @@ Transcribe date(s) as they appears on the object. If this is known to be fictiti
 For known dates where the date does not appear on the item, include in square brackets.
 
 {% hint style="info" %}
-**264 \_1**  \[Paris] :**|b**\[publisher not identified],**|c**\[1992]
+**264 \_1** \[Paris] :**|b**\[publisher not identified],**|c**\[1992]
 {% endhint %}
 
 If a copyright date is known include an additional 264 \_4 field to record the date.
 
 {% hint style="info" %}
-**264 \_1**  London :**|b**Tate,**|c**2014\
+**264 \_1** London :**|b**Tate,**|c**2014\
 **264 \_4 |c**©2014
 {% endhint %}
 
 **Unknown, ambiguous and approximate dates**\
-****If the date is not known it can be estimated. Include such dates in square brackets.
+If the date is not known it can be estimated. Include such dates in square brackets.
 
 {% hint style="info" %}
-**264 \_1**  London :**|b**Wellcome Trust,**|c**\[1983?]
+**264 \_1** London :**|b**Wellcome Trust,**|c**\[1983?]
 
-**264 \_1**  London :**|b**Wellcome Trust,**|c**\[approximately 1990]
+**264 \_1** London :**|b**Wellcome Trust,**|c**\[approximately 1990]
 
-**264 \_1**  London :**|b**Wellcome Trust,**|c**\[between 1970 and 1979]
+**264 \_1** London :**|b**Wellcome Trust,**|c**\[between 1970 and 1979]
 
-**264 \_1**  \[Italy] :**|b**\[publisher not identified],**|c**\[19th century]
+**264 \_1** \[Italy] :**|b**\[publisher not identified],**|c**\[19th century]
 {% endhint %}
 
-## Unpublished Material&#x20;
+## Unpublished Material
 
 Includes drawings, paintings, photographs
 
