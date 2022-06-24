@@ -10,7 +10,7 @@ The Creator element should capture the name(s) of those responsible for the desi
 
 Creators can be individuals, groups of individuals, corporate bodies or other entities involved in the creation of an object.
 
-For published works, particularly prints, record the publisher as a creator, if known.&#x20;
+For published works, particularly prints, record the publisher as a creator, if known.
 
 ## Identifying creators
 
@@ -42,12 +42,12 @@ Where a creator is not known the creator element can be omitted. If the geograph
 
 #### Unknown creators linked to a known creator
 
-Where the creator is unknown but they are known to have worked closely with a known creator or have been influenced by their work, include the known name and use a qualifying term to explain the association.&#x20;
+Where the creator is unknown but they are known to have worked closely with a known creator or have been influenced by their work, include the known name and use a qualifying term to explain the association.
 
 {% hint style="info" %}
 studio of
 
-pupil of&#x20;
+pupil of
 
 follower of
 
@@ -64,11 +64,26 @@ Where an object is considered to be based on a work by another creator, include 
 engraving by J. Muller after H. Goltzius.
 {% endhint %}
 
+### iv. Common terminology found on prints
+
+The names of creators and their relationship to an object will often be present on a print, generally written in Latin. The name of the original artist is traditionally on the left of the image, the details of the printmaker is found on the right. Commonly found terms include:
+
+| Pinx. / Pinxit / Ping.             |  = painted by  |
+| ---------------------------------- | -------------- |
+| Del. / Delt. / Delin. / Delineavit |  = drawn by    |
+| Inv. / Invenit                     | = designed by  |
+| Des. / Desig.                      | = designer     |
+| F. / Fec. / Fac. / Fecit           | = made by      |
+| Sc. / Sculp. / Sculpsit            | = engraved by  |
+| Exc. / Excudit                     | = published by |
+| Imp. / Impressit                   | = printed by   |
+| Lithog.                            | = printed by   |
+
 ## Name **source and format**
 
 The format and spelling for creator names should be taken from an authority list to ensure consistency. Check for an entry in the **Wellcome Collection catalogue** and use this if present.
 
-If the name is new to the Wellcome catalogue, check: [**Library of Congress authorities**](https://authorities.loc.gov) **(LC)**, [**Getty Union List of Artists Names**](http://www.getty.edu/research/tools/vocabularies/ulan/) **(ULAN)** or other reliable sources. When using an existing entry in the Wellcome Catalogue, LC or ULAN authority lists, enter the name exactly as written in the authoritative source. Relator terms (see below) can be added as an addition to authority name entries.&#x20;
+If the name is new to the Wellcome catalogue, check: [**Library of Congress authorities**](https://authorities.loc.gov) **(LC)**, [**Getty Union List of Artists Names**](http://www.getty.edu/research/tools/vocabularies/ulan/) **(ULAN)** or other reliable sources. When using an existing entry in the Wellcome Catalogue, LC or ULAN authority lists, enter the name exactly as written in the authoritative source. Relator terms (see below) can be added as an addition to authority name entries.
 
 ### **i. Personal names**
 
@@ -134,4 +149,4 @@ Include biographical information on the creator when such information is not com
 
 Where biographical information applies to a group of objects, include it at the highest level of the cataloguing hierarchy (if applicable), rather than repeating at the granular level for each individual object.
 
-&#x20;       __       &#x20;
+\_\_
