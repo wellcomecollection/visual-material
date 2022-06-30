@@ -77,7 +77,7 @@ The names of creators and their relationship to an object will often be present 
 | Sc. / Sculp. / Sculpsit            | = engraved by  |
 | Exc. / Excudit                     | = published by |
 | Imp. / Impressit                   | = printed by   |
-| Lithog.                            | = printed by   |
+| Lithog.                            | = lithographer |
 
 ## Name **source and format**
 
