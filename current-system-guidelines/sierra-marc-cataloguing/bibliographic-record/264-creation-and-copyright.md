@@ -6,7 +6,7 @@ description: State.
 
 264 relates to the production, publication, distribution and manufacture (i.e. the creation) of an object. It is also used for the copyright date.
 
-Metadata in 264 should inform that entered into the relevant subfields in the [Fixed Fields](leader-fields.md).
+Metadata in 264 should inform data entered into the relevant subfields in the [Fixed Fields](leader-fields.md).
 
 Use the correct second indicator, this relates to the type of information being recorded:
 
@@ -17,8 +17,6 @@ Use the correct second indicator, this relates to the type of information being 
 **264 \_4** Copyright date
 
 The field is repeatable if multiple types of information are available, i.e. production and publication
-
-For some material the type of date maybe unclear, when in doubt treat as unpublished and record as date of production, using second indicator 0.
 
 If the information is taken from a source other than the object itself, place the information in a square bracket.
 
@@ -38,12 +36,14 @@ If no place of publication can be identified, then use cataloguer’s judgement 
 
 Transcribe the place of publication as it appears on the object. If this is known to be fictitious or incorrect supply a correction in square brackets.
 
-If the publisher cannot be identified the use _\[publisher not identified]_
+If the publisher cannot be identified then use _\[publisher not identified]_
+
+The publisher may be identifiable by a publisher’s mark or monogram.
 
 ### Date: subfield |c
 
 **Known dates**\
-Transcribe date(s) as they appears on the object. If this is known to be fictitious or incorrect supply a correction in square brackets.
+Transcribe date(s) as they appear on the object. If this is known to be fictitious or incorrect supply a correction in square brackets.
 
 For known dates where the date does not appear on the item, include in square brackets.
 
@@ -75,11 +75,13 @@ If the date is not known it can be estimated. Include such dates in square brack
 
 Includes drawings, paintings, photographs
 
+For unpublished material the 264 field will only contain place and date. The information being recorded relates to the date and place of creation.
+
 ### Place of Publication: subfield |a
 
 Transcribe the place of publication as it appears on the object. If this is known to be fictitious or incorrect supply a correction in square brackets.
 
-If no place of publication can be identified, then use cataloguer’s judgement to supply a place e.g. _\[England?]_ or use _\[Place of publication not identified]_
+If no place of publication can be identified, then use cataloguer’s judgement to supply a place, include it in square brackets, e.g. _\[England?]_&#x20;
 
 ### Date: subfield |c
 
@@ -110,3 +112,6 @@ When the date is an estimate, follow the date with **?** or use **approximately*
 
 **264 \_0** New Delhi :**|c**\[20th century]
 {% endhint %}
+
+**Facsimiles**\
+When recording the production details of a facsimile that has a production statement relating to the original manifestation as well as to the facsimile or reproduction, record a production statement relating to the facsimile or reproduction.
