@@ -16,7 +16,7 @@ Currently there is not a single sequence of identification numbers for objects i
 
 ## Additional numbers associated with an object
 
-The catalogue record should include all known identification numbers associated with an object or group of objects. The type of number should be recorded in addition to the number itself.
+The catalogue record should include all known Wellcome related identification numbers associated with an object or group of objects. The type of number should be recorded in addition to the number itself.
 
 {% hint style="info" %}
 INV.2021/278 : Inventory Number
@@ -25,10 +25,13 @@ A129247 : Accession Number
 
 R98/1937 : WHMM Registration Number
 
-CC 4567 : Accession Number
+R60514 : WHMM Registration Number
+
+CC 4567 : Accession Number (mainly paintings)
+
+PHO 15277 : Accession Number (photographs)
 
 1989/90 : Conservation Number
 
 JF1234 : Conservation Report Number
 {% endhint %}
-
