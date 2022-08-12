@@ -2,7 +2,7 @@
 
 Core Bibliographic Fields
 
-Examples:
+### Examples:
 
 Stereoscopes\
 [3291677i](https://wellcomecollection.org/works/m86tjntr) \
