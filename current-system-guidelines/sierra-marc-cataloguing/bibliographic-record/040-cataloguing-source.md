@@ -8,18 +8,12 @@
 
 Wellcome aims to comply with BSR in MARC records. To mark a Visual record as BSR compliant use the following fields:\
 \
-**|b**eng                = language of cataloguing\
-**|e**rda                 = a record applying RDA\
-**|e**dcrmg            = a record applying DCRM(G)
-
-The Wellcome Metadata Framework is based on CCO guidelines. To show the record takes this approach add:
-
-**|e**cco                 = a record applying CCO
+**|b**eng = language of cataloguing\
+**|e**rda = a record applying RDA\
+**|e**dcrmg = a record applying DCRM(G)
 
 {% hint style="info" %}
-&#x20;**040 \_\_** UkLW**|b**eng**|e**rda**|e**dcrmg**|e**cco
+**040 \_\_** UkLW**|b**eng**|e**rda**|e**dcrmg
 {% endhint %}
 
-
-
-&#x20;&#x20;
+The Wellcome Metadata Framework is based on CCO guidelines. To show the record takes this approach add: **|e**cco

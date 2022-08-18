@@ -115,3 +115,7 @@ When the date is an estimate, follow the date with **?** or use **approximately*
 
 **Facsimiles**\
 When recording the production details of a facsimile that has a production statement relating to the original manifestation as well as to the facsimile or reproduction, record a production statement relating to the facsimile or reproduction.
+
+### Legacy Record using 260
+
+For legacy records that record creation details the information can remain in 260, it does not need to be moved to 264, catalogues can accommodate a hybrid approach.&#x20;
