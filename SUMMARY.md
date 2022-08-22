@@ -53,7 +53,7 @@
     * [Print](current-system-guidelines/sierra-marc-cataloguing/format-examples/print.md)
     * [3D Object](current-system-guidelines/sierra-marc-cataloguing/format-examples/poster.md)
     * [Album / Group](current-system-guidelines/sierra-marc-cataloguing/format-examples/album-group.md)
-  * [Enquiries Amendments Quick Reference](current-system-guidelines/sierra-marc-cataloguing/enquiries/README.md)
+  * [Enquiries Amendments Quick Reference](current-system-guidelines/sierra-marc-cataloguing/linking-records.md)
     * [Finding records in Sierra](current-system-guidelines/sierra-marc-cataloguing/enquiries/finding-records-in-sierra.md)
     * [Title changes](current-system-guidelines/sierra-marc-cataloguing/enquiries/title-changes.md)
     * [Creator / Name edits](current-system-guidelines/sierra-marc-cataloguing/enquiries/creator-name-edits.md)

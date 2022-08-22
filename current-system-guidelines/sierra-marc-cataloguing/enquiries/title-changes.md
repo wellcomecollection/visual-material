@@ -17,16 +17,16 @@ If the title needs to be changed use the following procedure:
 {% endhint %}
 
 * Edit the existing 245 title field.
+* When the title being replaced includes other information about the object (creator, medium and technique, date), then ensure this information is included in the appropriate fields in the record. They do not need to be in the title.
 * Add a note to explain the source of the title in a 500 note. A list of phrases to use is [here](https://docs.wellcomecollection.org/visual-material/metadata-framework/metadata-elements/title-brief-description).
 * If you are adding a title that has been given by the artist or is taken from text on the object, then add a brief description of the visual content of the image / object in 520 field.
-* When the title being replaced includes other information about the object (creator, medium and technique, date), then ensure this information is included in the appropriate fields in the record. They do not need to be in the title.
 
 {% hint style="info" %}
 e.g. [5150i](https://wellcomecollection.org/works/mahrpy8v):  &#x20;
 
-**245 10** Disease is disguised. Don't gamble with VD!\
-\
-**246 1\_** **|i**Previous title, replaced November 2019**|a**The face of a beautiful woman is    revealed as a mask covering her real face, which is hideously disfigured with syphilitic sores. Colour lithograph after Forsyth, ca. 1946(?)**|5**UkLW
+**245 10** Disease is disguised. Don't gamble with VD!
+
+**246 1\_** **|i**Previous title, replaced November 2019**|a**The face of a beautiful woman is revealed as a mask covering her real face, which is hideously disfigured with syphilitic sores. Colour lithograph after Forsyth, ca. 1946(?)**|5**UkLW
 
 **500 \_\_** The title has been taken from wording on the object.
 
