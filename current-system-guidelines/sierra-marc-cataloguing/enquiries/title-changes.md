@@ -16,7 +16,17 @@ If the title needs to be changed use the following procedure:
 **246 1\_ |i**Previous title, replaced _DATE (Month Year)_**|a**Text of previous title**|5**UkLW
 {% endhint %}
 
-* Edit the existing 245 title field.
+* Edit the existing 245 title field so it contains the new title.
+* Check the first and second MARC indicators (numbers following the main field number):
+  * If the record contains a 100/110 entry the first indicator should be 1, if there is no 100/110 the first indicator should be 0.
+  * If the title starts with an article (the, an, a) then the 2nd indicator needs to indicate how many spaces to skip when indexing: a=2, an=3, the=4
+
+{% hint style="info" %}
+e.g.   245 1**2** A spaceman...\
+&#x20;        245 1**3** An apple...\
+&#x20;        245 1**4** The world...
+{% endhint %}
+
 * When the title being replaced includes other information about the object (creator, medium and technique, date), then ensure this information is included in the appropriate fields in the record. They do not need to be in the title.
 * Add a note to explain the source of the title in a 500 note. A list of phrases to use is [here](https://docs.wellcomecollection.org/visual-material/metadata-framework/metadata-elements/title-brief-description).
 * If you are adding a title that has been given by the artist or is taken from text on the object, then add a brief description of the visual content of the image / object in 520 field.

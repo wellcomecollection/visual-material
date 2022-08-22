@@ -29,3 +29,7 @@ Visual records should aim to meet Spectrum standards for Museum Accreditation. T
 | 700/710/711    | Name Entry. Contributors       |
 
 It is recognised some information may not be available to the cataloguer, in which case include all the known information. Include all additional information where available. If a suitable MARC field is not specified in the Visual cataloguing guidelines, select a recognised field from the [OCLC](https://www.oclc.org/bibformats/en.html) guidelines.
+
+
+
+**\*\*\* NOTE:** the full guidelines are awaiting general MARC / Sierra instructions to be agreed, so as to avoid duplication. In the meantime guidelines for cataloguing in Sierra are [**here**](https://wellcomecloud.sharepoint.com/:w:/r/sites/wc2/cr/ci/Cataloging/Visual%20%26%20material%20culture/Visual%20%26%20material%20culture%20cataloguing%20guidelines%20\(version%20history\)/VisualMaterialCataloguing\_v2.0\_Draft2022.docx?d=wd0ff0e2b76654dfc9b908f343c67cbfd\&csf=1\&web=1\&e=HXzjMI)**. \*\*\***&#x20;
