@@ -59,6 +59,7 @@
     * [Creator / Name edits](current-system-guidelines/sierra-marc-cataloguing/enquiries/creator-name-edits.md)
     * [Date edits](current-system-guidelines/sierra-marc-cataloguing/enquiries/date-edits.md)
     * [Adding extra information](current-system-guidelines/sierra-marc-cataloguing/enquiries/adding-extra-information.md)
+    * [Sierra Tips](current-system-guidelines/sierra-marc-cataloguing/enquiries/sierra-tips.md)
 * [CALM Guidelines](current-system-guidelines/archive-cataloguing/README.md)
   * [Introduction and basic cataloguing principles](current-system-guidelines/archive-cataloguing/introduction-and-basic-cataloguing-principles.md)
   * [IDENTITY](current-system-guidelines/archive-cataloguing/identity/README.md)
