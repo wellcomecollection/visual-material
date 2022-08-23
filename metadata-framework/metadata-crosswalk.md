@@ -45,6 +45,6 @@ The data/fields listed above relates to new (post 2021), not legacy data.
 
 **\***For MARC data in Sierra this is not a comprehensive list of the fields in use.
 
-A full crosswalk including legacy MARC data, RiC, CCO, WC Inventory data, WC Mimsy, wellcomecollection.org/collections can be found [here](https://wellcomecloud.sharepoint.com/:x:/r/sites/wc2/cr/ci/Cataloging/Cataloguing%20research/Visual%20and%20Material%20Culture%20\(Sara,%20Stephanie,%20Vicky\)/MetadataCrosswalk.xlsx?d=w77240a5a248b4d9c80a7a01f51421034\&csf=1\&web=1\&e=zGAhFO\)).
+A **full crosswalk** including legacy MARC data, RiC, CCO, WC Inventory data, WC Mimsy, wellcomecollection.org/collections can be found [**here**](https://wellcomecloud.sharepoint.com/:x:/r/sites/wc2/cr/ci/Cataloging/Cataloguing%20research/Visual%20and%20Material%20Culture%20\(Sara,%20Stephanie,%20Vicky\)/MetadataCrosswalk.xlsx?d=w77240a5a248b4d9c80a7a01f51421034\&csf=1\&web=1\&e=zGAhFO\))**.**
 
-For Museum Accreditation cataloguing requirements see the [Spectrum](https://collectionstrust.org.uk/resource/cataloguing-suggested-procedure) procedure.
+For Museum Accreditation cataloguing requirements see the [**Spectrum**](https://collectionstrust.org.uk/resource/cataloguing-suggested-procedure) procedure.
