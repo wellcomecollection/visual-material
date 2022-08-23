@@ -13,7 +13,7 @@ Visual records should aim to meet Spectrum standards for Museum Accreditation. T
 | 007            | Coded physical characteristics |
 | 008            | Coded data elements            |
 | 100/110/111    | Name Entry. Creator            |
-| 245            | Title                          |
+| 245            | Title / description            |
 | 264            | Creation Place & Date          |
 | 300            | Physical Description           |
 | 336            | Content type                   |
