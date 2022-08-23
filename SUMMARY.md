@@ -133,6 +133,7 @@
       * [Engraving](current-system-guidelines/archive-cataloguing/format-examples/print/engraving.md)
       * [Lithograph](current-system-guidelines/archive-cataloguing/format-examples/print/lithograph.md)
       * [Digital](current-system-guidelines/archive-cataloguing/format-examples/print/digital.md)
+    * [Template](current-system-guidelines/archive-cataloguing/format-examples/template.md)
 
 ## CATALOGUING AIDS <a href="#pre-cataloguing" id="pre-cataloguing"></a>
 
