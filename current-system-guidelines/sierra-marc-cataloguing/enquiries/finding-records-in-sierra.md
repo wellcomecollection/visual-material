@@ -9,7 +9,7 @@ Sierra data can be searched numerous ways. Options are in the drop down menu (to
 The quickest options are:
 
 * **Reference No.** (Ref No) – searches for
-  * **unique identifier** (**i number** or Iconographic number). Note the i is at the end of the number
+  * **i number** (Iconographic number, unique identifier) Note the i is at the end of the number
 * **System No.** – can search for:
   * **b number** – relates to the bibliographic record
   * **item number** – relates to the item record and has the i at the beginning
