@@ -125,15 +125,7 @@
     * [Modified\*](current-system-guidelines/archive-cataloguing/allied-materials/modified.md)
     * [Modifier\*](current-system-guidelines/archive-cataloguing/allied-materials/modifier.md)
     * [Metadata\_Licence](current-system-guidelines/archive-cataloguing/allied-materials/metadata\_licence.md)
-  * [Format Examples](current-system-guidelines/archive-cataloguing/format-examples/README.md)
-    * [Drawing](current-system-guidelines/archive-cataloguing/format-examples/drawing.md)
-    * [Painting](current-system-guidelines/archive-cataloguing/format-examples/painting.md)
-    * [Photograph](current-system-guidelines/archive-cataloguing/format-examples/photograph.md)
-    * [Print](current-system-guidelines/archive-cataloguing/format-examples/print/README.md)
-      * [Engraving](current-system-guidelines/archive-cataloguing/format-examples/print/engraving.md)
-      * [Lithograph](current-system-guidelines/archive-cataloguing/format-examples/print/lithograph.md)
-      * [Digital](current-system-guidelines/archive-cataloguing/format-examples/print/digital.md)
-    * [Template](current-system-guidelines/archive-cataloguing/format-examples/template.md)
+  * [Example Records](current-system-guidelines/archive-cataloguing/format-examples.md)
 
 ## CATALOGUING AIDS <a href="#pre-cataloguing" id="pre-cataloguing"></a>
 
