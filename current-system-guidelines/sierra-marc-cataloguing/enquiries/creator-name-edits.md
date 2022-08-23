@@ -12,7 +12,7 @@ All names are added in the format:
 _Surname, First name(s)_,**|d**_dates of existence/activity_,**|e**_relator term_
 {% endhint %}
 
-Check the **Wellcome catalogue** and the [**LC name authority files**](https://id.loc.gov/authorities/names.html) for existing entries to copy, to ensure consistency.
+Check the **Wellcome catalogue** and the [**LC name authority files**](https://id.loc.gov/authorities/names.html) for existing entries, to ensure consistency.
 
 **Relator terms** add context to a record, they are added in **subfield e**, a list of terms is [**here**](https://docs.wellcomecollection.org/visual-material/metadata-framework/metadata-elements/creator/relator-terms).
 
