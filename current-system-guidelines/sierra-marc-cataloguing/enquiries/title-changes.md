@@ -45,3 +45,29 @@ e.g. [5150i](https://wellcomecollection.org/works/mahrpy8v):  &#x20;
 
 **520 \_\_** The face of a woman is revealed as a mask covering her real face, which has visible syphilitic sores.
 {% endhint %}
+
+### **Changing titles regularly?**
+
+You can save the 246 1\_ field format in Sierra as a Macro, which you can use to easily add the text to a record in future:
+
+* In the top menu bar select **Admin>Settings**
+* Select the **Macros** tab
+* Select a free/empty f key and paste in the following:
+
+&#x20;      t2461 |iPrevious title, replaced August 2022:|a.|5UkLW
+
+Remember / make a note of the function key you allocated, then in future when amending records an empty field can be populated with the skeleton info required for the 246 1\_ field. You’ll just need to:
+
+* add a new field to the record
+* populate it with the 246 data by pressing the allocated function key
+* amend the date
+* paste in the old title
+
+### Viewing live catalogue records as you edit
+
+Edits take time to appear in Works, but appear instantly in the basic **Sierra** [**catalogue**](https://catalogue.wellcomelibrary.org/).
+
+When in the Sierra record:
+
+* from the **menu** option (top left of the record) select **View > Public Display**
+* the Sierra catalogue view will open.
