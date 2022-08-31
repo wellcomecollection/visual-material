@@ -1,6 +1,6 @@
 # Title changes
 
-**Before acting on a title change, check any questions around the title being wrong aren't a result of the wrong image being attached to a record -** see [Dealing with Image Links](dealing-with-image-links.md)
+**Before acting on a title change, check any images attached to a record are the right ones, a title may appear wrong but only because the wrong digital image is attached to the catalogue record -** see [Dealing with Image Links](dealing-with-image-links.md)
 
 When dealing with an enquiry relating to the title of an item in the Visual Collections, consider the existing title. Titles can be changed when one of the following issues apply:
 

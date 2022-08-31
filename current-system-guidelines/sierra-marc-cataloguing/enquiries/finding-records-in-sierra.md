@@ -20,4 +20,4 @@ Clicking on the **+** to the right of the search box will offer advanced search 
 
 ### **How do you identify the b number or i number?**
 
-Both the **b** & **i number** can be found in the public catalogue by turning on the **API toolbar** in your browser [here](https://dash.wellcomecollection.org/toggles/). When this is turned on, records you view in the catalogue should display the API toolbar at the top of the page. This will show the Sierra system number (b number) and Iconographic number (unique identifier, i number) when you view a record.
+Both the **b** & **i number** can be found in the public catalogue by turning on the **API toolbar** in your browser [**here**](https://dash.wellcomecollection.org/toggles/). When this is turned on, records you view in the catalogue should display the API toolbar at the top of the page. This will show the Sierra system number (b number) and Iconographic number (unique identifier, i number) when you view a record.

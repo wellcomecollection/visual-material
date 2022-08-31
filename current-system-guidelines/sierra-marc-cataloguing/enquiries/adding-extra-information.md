@@ -2,7 +2,7 @@
 
 ### General notes
 
-Use **500** to add general notes on the object. This field is free text and can be repeated - this helps the readability in the public catalogue.
+Use **500** to add general notes on the object. This field is free text and can be repeated. Repeating the field rather than putting all the information into a single paragraph helps readability in the public catalogue.
 
 ### Biographical information
 
