@@ -31,6 +31,7 @@ To help identify if a name should go in 100 or 700, consult **Identifying Main &
 If the name attributed to the creation of an object is changed:
 
 * Confirm the change is correct - does the enquirer reference a valid source?
+* Check the Library of Congress authority file. Are we using the correct one? Is the authority file incorrect? If the later, ask a librarian to propose an edit to LoC
 * Add the new name to the catalogue records:
   * In **100** if they are the main creator
   * In **700** if they are an additional creator, or a name associated with the object
