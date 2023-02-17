@@ -12,7 +12,36 @@ Rules:
 * Only one creator name per field. Repeat the field as required for each creator.
 * If the creator is unknown this field can be left blank.
 * Search the [**Library of Congress authorities**](https://authorities.loc.gov) **(LC)** and [**Getty Union List of Artists Names**](http://www.getty.edu/research/tools/vocabularies/ulan/) **(ULAN)** (which feed into Sierra). If the individual or body exist as creators here, copy the name in the form given here (to ensure cross-searchability).
-* If the name is not there, search the Sierra database for a local version of the name. The entry should be in line with Wellcome's standard order and punctuation. For individuals, list "Surname, First name(s), Title, DOB-DOD" without brackets. When an individual is recognised by a single name, prefer the known name over Surname, First name structure. An initial may be used if the first name is unknown. For organisations, use the most recent available name stated within the material, or in supporting documentation, capitalised in natural order followed by dates of operation. Where the organisation is still extant or the individual is still alive, the DOB,DOD and operating dates may be omitted.    &#x20;
+* If the name is not there, search the Sierra database for a local version of the name. The entry should be in line with Wellcome's standard order and punctuation.&#x20;
+
+
+
+* For individuals, list "Surname, First name(s), Title, DOB-DOD".
+
+&#x20;Lichtenstein, Roy, 1923-1997
+
+Thompson, J, 1837-1921
+
+Hogarth, William, 1697-1764
+
+Shrigley, David
+
+Wren, Christopher, Sir, 1632-1723
+
+Health Education Council, 1968-2000
+
+Raphael, 1493-1520
+
+Cassils
+
+Bishop, Mary (Mary Cecil Hamilton), 1914-1990
+
+The Adamson Collection Trust
+
+* When an individual is recognised by a single name, prefer the known name over Surname, First name structure.&#x20;
+* An initial may be used if the first name is unknown.&#x20;
+* If the individual has a longer name, including middle names, they are not commonly known by, this may be included after the first name in brackets.&#x20;
+* For organisations, use the most recent available name stated within the material, or in supporting documentation, capitalised in natural order followed by dates of operation. Where the organisation is still extant or the individual is still alive, the DOB,DOD and operating dates may be omitted.    &#x20;
 
 {% hint style="info" %}
 Lichtenstein, Roy, 1923-1997
@@ -31,7 +60,7 @@ Raphael, 1493-1520
 
 Cassils
 
-Bishop, Mary Cecil Hamilton, 1914-1990
+Bishop, Mary (Mary Cecil Hamilton), 1914-1990
 
 The Adamson Collection Trust
 {% endhint %}

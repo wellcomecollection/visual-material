@@ -81,7 +81,7 @@ The names of creators and their relationship to an object will often be present 
 
 ## Name **source and format**
 
-The format and spelling for creator names should be taken from an authority list to ensure consistency. Check for an entry in the **Wellcome Collection catalogue** and use this if present.
+The format and spelling for creator names should be taken from an authority list to ensure consistency. Check for an entry in the **Wellcome Collection catalogue** and use this if present. If multiple versions are present, prefer the LC/ULAN source, or local version closest to the guidance below.&#x20;
 
 If the name is new to the Wellcome catalogue, check: [**Library of Congress authorities**](https://authorities.loc.gov) **(LC)**, [**Getty Union List of Artists Names**](http://www.getty.edu/research/tools/vocabularies/ulan/) **(ULAN)** or other reliable sources. When using an existing entry in the Wellcome Catalogue, LC or ULAN authority lists, enter the name exactly as written in the authoritative source. Relator terms (see below) can be added as an addition to authority name entries.
 
@@ -91,22 +91,22 @@ If there is more than one version of the name in use, select the most commonly u
 
 When creating an entry for names not found in authority lists, structure personal names as follows, include the known or relevant elements:
 
-Surname, First name(s), Title, dates of existence, role in relation to the object.
+Surname, First name(s), Title, dates of existence
 
 {% hint style="info" %}
-Lichtenstein, Roy, 1923-1997, painter
+Lichtenstein, Roy, 1923-1997
 
-Thompson, J. (John), 1837-1921, photographer
+Thompson, J, 1837-1921
 
 Hogarth, William, 1697-1764
 
-Shrigley, David, artist
+Shrigley, David
 
-Wren, Christopher, Sir, 1632-1723, architect
+Wren, Christopher, Sir, 1632-1723
 
-Bishop, Mary, active approximately 1955-1975
+Health Education Council, 1968-2000
 
-Vanity Fair, publisher
+The Adamson Collection Trust
 {% endhint %}
 
 When an artist is recognised by a single name, prefer the known name over Surname, First name structure.
@@ -114,7 +114,13 @@ When an artist is recognised by a single name, prefer the known name over Surnam
 {% hint style="info" %}
 Raphael, 1493-1520
 
-Cassils, artist
+Cassils
+{% endhint %}
+
+If the individual has a longer name they are not commonly known by this may be included after the first name in brackets.
+
+{% hint style="info" %}
+Bishop, Mary (Mary Cecil Hamilton), 1914-1990
 {% endhint %}
 
 ### **ii. Corporate names**
@@ -122,7 +128,7 @@ Cassils, artist
 If no authority can be found, take the name as it is written on the object or accompanying documentation. Where there is more than one version of the name in use prefer the version found in the LC or ULAN authority lists.
 
 {% hint style="info" %}
-Wellcome Collection, commissioning body
+Wellcome Collection
 {% endhint %}
 
 ### iii. Dates
