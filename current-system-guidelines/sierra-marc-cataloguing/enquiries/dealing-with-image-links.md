@@ -1,2 +1,0 @@
-# Dealing with Image Links
-
