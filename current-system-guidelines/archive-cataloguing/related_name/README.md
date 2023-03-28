@@ -1,2 +1,0 @@
-# RELATED\_NAME
-

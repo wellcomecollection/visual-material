@@ -2,7 +2,7 @@
 description: '[Identification Number] [not public]'
 ---
 
-# ?Other\_Number\_Type
+# ?Previous\_Number\_Type
 
 To record the type or source of any numbers previously associated with the item that are not part of the current PublicRef, given by Wellcome Collection or its predecessor bodies
 
@@ -10,9 +10,11 @@ Rules:
 
 * Choose a number type from the picklist:&#x20;
 
-Inventory Number&#x20;
+Number inscribed on work
 
-Conservation Number&#x20;
+Number supplied with documentation&#x20;
+
+Previous Wellcome Reference Number&#x20;
 
 R Number (Old Registration System) &#x20;
 

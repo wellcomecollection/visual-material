@@ -22,7 +22,7 @@ First written 1992, 4th revision 1996.
 
 Iconographic Cataloguing [Crib sheet 2013](https://wellcomecloud.sharepoint.com/:w:/r/sites/wc2/cr/ci/Cataloging/Visual%20%26%20material%20culture/Visual%20%26%20material%20culture%20cataloguing%20guidelines%20\(version%20history\)/Pre2018%20Visual%20%26%20Material%20Cataloguing/crib2013.doc?d=w9a8c72c85f0046c29e17ee379e4ff405\&csf=1\&web=1\&e=1PoZyM)
 
-Iconographic Cataloguing [Crib sheet 201](https://wellcomecloud.sharepoint.com/:w:/r/sites/wc2/cr/ci/Cataloging/Visual%20%26%20material%20culture/Visual%20%26%20material%20culture%20cataloguing%20guidelines%20\(version%20history\)/Pre2018%20Visual%20%26%20Material%20Cataloguing/crib2015.doc?d=wbafeddcb459c4fec9c91fac5113d4b7a\&csf=1\&web=1\&e=HciiWl#)5
+Iconographic Cataloguing [Crib sheet 201](https://wellcomecloud.sharepoint.com/:w:/r/sites/wc2/cr/ci/Cataloging/Visual%20%26%20material%20culture/Visual%20%26%20material%20culture%20cataloguing%20guidelines%20\(version%20history\)/Pre2018%20Visual%20%26%20Material%20Cataloguing/crib2015.doc?d=wbafeddcb459c4fec9c91fac5113d4b7a\&csf=1\&web=1\&e=HciiWl)5
 
 [Notes on 246 & 415 Lettering fields](https://wellcomecloud.sharepoint.com/:w:/r/sites/wc2/cr/ci/Cataloging/Visual%20%26%20material%20culture/Visual%20%26%20material%20culture%20cataloguing%20guidelines%20\(version%20history\)/Pre2018%20Visual%20%26%20Material%20Cataloguing/246%20and%20514%20Lettering.doc?d=w33b7a715c53d4739bd2c47558c712352\&csf=1\&web=1\&e=cUeFME)
 
@@ -33,4 +33,4 @@ Iconographic Cataloguing [Crib sheet 201](https://wellcomecloud.sharepoint.com/:
 [Visual & Material Culture Collection Cataloguing Guidelines](https://wellcomecloud.sharepoint.com/:w:/r/sites/wc2/cr/ci/Cataloging/Visual%20%26%20material%20culture/Visual%20%26%20material%20culture%20cataloguing%20guidelines%20\(version%20history\)/VisualMaterialCataloguing\_v1.0.docx?d=w390cede3bea649aa9b7214f5a3bbd18f\&csf=1\&web=1\&e=RWli6S), 2018\
 Written to support the Wellcome Collection application for Museum Accreditation in 2018.
 
-Visual & Material Culture Collections [Inventory Documentation](https://app.gitbook.com/o/-LumfFcEMKx4gYXKAZTQ/s/-Mgjvi2MWgBW-bCdzb4u-887967055/)
+Visual & Material Culture Collections [Inventory Documentation](http://localhost:5000/o/-LumfFcEMKx4gYXKAZTQ/s/-Mgjvi2MWgBW-bCdzb4u-887967055/)
