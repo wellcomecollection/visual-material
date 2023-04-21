@@ -24,7 +24,7 @@ This field is not repeatable, there can only be a single 100/110 field.
 
 This field is repeatable, include all known associated names.&#x20;
 
-To help identify if a name should go in 100 or 700, consult **Identifying Main & Added Entry points**, page 6 of **** the [**Visual Cataloguing Instructions**](https://wellcomecloud.sharepoint.com/:w:/r/sites/wc2/cr/ci/Cataloging/Visual%20%26%20material%20culture/Visual%20%26%20material%20culture%20cataloguing%20guidelines%20\(version%20history\)/VisualMaterialCataloguing\_v2.0\_Draft2022.docx?d=wd0ff0e2b76654dfc9b908f343c67cbfd\&csf=1\&web=1\&e=SWELtE).&#x20;
+To help identify if a name should go in 100 or 700, consult **Identifying Main & Added Entry points**, page 6 of the [**Visual Cataloguing Instructions**](https://wellcomecloud.sharepoint.com/:w:/r/sites/wc2/cr/ci/Cataloging/Visual%20%26%20material%20culture/Visual%20%26%20material%20culture%20cataloguing%20guidelines%20\(version%20history\)/VisualMaterialCataloguing\_v2.0\_Draft2022.docx?d=wd0ff0e2b76654dfc9b908f343c67cbfd\&csf=1\&web=1\&e=SWELtE).&#x20;
 
 ### Changing names in Catalogue records
 

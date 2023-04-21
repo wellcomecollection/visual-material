@@ -7,4 +7,3 @@ _These are legacy records, so wont fully comply to current guidelines, but illus
 
 The Fallaize Collection [3303244i](https://wellcomecollection.org/works/c245ztkp)
 
-__

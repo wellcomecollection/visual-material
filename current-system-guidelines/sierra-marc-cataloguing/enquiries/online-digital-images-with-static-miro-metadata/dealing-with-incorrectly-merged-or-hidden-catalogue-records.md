@@ -10,5 +10,5 @@ Using the example above, the first bibliographic record needs to be de-linked fr
 
 * In Sierra, search for the bibliographic number (select . SYSTEM NUMBER from the index)
 * Check for the existence of image references in either/both of these MARC fields: `089` and `962`
-* If the incorrect reference exists in the `089`, simply delete the field and **save** <img src="../../../../.gitbook/assets/image.png" alt="" data-size="line">****
+* If the incorrect reference exists in the `089`, simply delete the field and **save** <img src="../../../../.gitbook/assets/image.png" alt="" data-size="line">
 * If the incorrect reference exists (or also exists) in `962`, delete the link using the [Media Function](https://app.gitbook.com/o/-LumfFcEMKx4gYXKAZTQ/s/-MYL8eOUpmONV4iPo291/\~/changes/560/current-system-guidelines/sierra-marc-cataloguing/enquiries/dealing-with-online-digital-images-with-static-miro-metadata/using-the-media-function-to-delete-edit-create-image-links-in-962-field) (permissions required)
