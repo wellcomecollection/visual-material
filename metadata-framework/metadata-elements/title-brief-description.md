@@ -84,7 +84,7 @@ Record the source of the preferred (main) title used in the catalogue record. Re
 * Title provided by the artist.
 * Title provided by the creator.
 * The title has been taken from wording on the object.&#x20;
-* This work is untitled: the title has been supplied by the cataloguer for identification purposes.
+* This work is untitled: the title has been supplied by the cataloguer.
 * This work is untitled: the title has been taken from acquisition documentation.
 * Title taken from published source: \[example: Catalogue of prints & drawings in the British Museum].
 {% endtab %}
@@ -93,7 +93,7 @@ Record the source of the preferred (main) title used in the catalogue record. Re
 * Title provided by the artist.
 * Title provided by the creator.
 * These works are untitled: the title has been taken from lettering on the objects.&#x20;
-* These works are untitled: the title has been supplied by the cataloguer for identification purposes.
+* These works are untitled: the title has been supplied by the cataloguer.
 * These works are untitled: the title has been taken from acquisition documentation.
 * Title taken from published source: \[example: Catalogue of prints & drawings in the British Museum].
 {% endtab %}
