@@ -48,7 +48,7 @@ Where there are multiple images on a single support but also multiple supports, 
 {% endtab %}
 {% endtabs %}
 
-When an object being described is considered a single object, but has several component parts that make up the whole these should be enumerated within the number of objects data.
+When an object being described is considered a single object, but has several component parts that make up the whole, these should be enumerated within the number of objects data.
 
 {% hint style="info" %}
 1 sculpture (in 5 parts)
