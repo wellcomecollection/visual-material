@@ -19,6 +19,11 @@ The data for number of objects is best expressed in conjunction with the broades
 
 1 painting
 {% endhint %}
+When an object being described is considered a single object, but has several component parts that make up the whole, these should be enumerated in relation to one another. 
+
+{% hint style="info" %}
+1 sculpture in 5 parts
+{% endhint %}
 {% endtab %}
 
 {% tab title="Group of Objects" %}
@@ -47,12 +52,6 @@ Where there are multiple images on a single support but also multiple supports, 
 {% endhint %}
 {% endtab %}
 {% endtabs %}
-
-When an object being described is considered a single object, but has several component parts that make up the whole, these should be enumerated in relation to one another. 
-
-{% hint style="info" %}
-1 sculpture in 5 parts
-{% endhint %}
 
 Any container or housing that is catalogued with the object or group of objects, can be described in a descriptive note.
 
