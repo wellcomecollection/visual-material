@@ -42,11 +42,13 @@ To open the MARC leader press ctrl+r
 
 Select Ctrl + r to open the field and edit. Double click to open the sub fields to edit.
 
-**Category of Material** (MatCatg) = **k** for non-projected graphics (MAT type k)\
-\= **z** (unspecified) \*\*\*\* for 3D objects (MAT Type r)
+**Category of Material** (MatCatg)
+
+\= **k** for non-projected graphics (MAT type k)\
+\= **z** (unspecified) for 3D objects (MAT Type r)
 
 _**For MAT Type k only:**_\
-\_\*\*\*\*\_Populate the following fields as appropriate. Double click on the field to open the available options.
+Populate the following fields as appropriate. Double click on the field to open the available options.
 
 * **Specific Material Designation or Medium** (Spec Mat)
 * **Colour**\
