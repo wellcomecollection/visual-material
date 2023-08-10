@@ -8,7 +8,7 @@ The catalogue was created in UKMARC, using the URICA system, with bespoke softwa
 
 In 2018 the written cataloguing guidance was revised for Museum Accreditation. This guidance covered objects catalogued in MARC, but not those that were part of the Archives or Manuscript collections. New approaches to recording data were explored from this date.
 
-In 2019, as a requirement of Museum Accreditation, a full Inventory of the Visual & Material Collections was begun. The resulting Inventory records provide data that meets the Core data requirements of Spectrum (Museum Accreditation Standard), and can provide the basis for fuller catalogue records.
+In 2019, as a requirement of Museum Accreditation, a full Inventory of the Visual & Material Collections began. The resulting Inventory records provide data that meets the Core data requirements of Spectrum (Museum Accreditation Standard), and can provide the basis for fuller catalogue records.
 
 ## Previous Cataloguing Guidelines
 
@@ -33,4 +33,4 @@ Iconographic Cataloguing [Crib sheet 201](https://wellcomecloud.sharepoint.com/:
 [Visual & Material Culture Collection Cataloguing Guidelines](https://wellcomecloud.sharepoint.com/:w:/r/sites/wc2/cr/ci/Cataloging/Visual%20%26%20material%20culture/Visual%20%26%20material%20culture%20cataloguing%20guidelines%20\(version%20history\)/VisualMaterialCataloguing\_v1.0.docx?d=w390cede3bea649aa9b7214f5a3bbd18f\&csf=1\&web=1\&e=RWli6S), 2018\
 Written to support the Wellcome Collection application for Museum Accreditation in 2018.
 
-Visual & Material Culture Collections [Inventory Documentation](http://localhost:5000/o/-LumfFcEMKx4gYXKAZTQ/s/-Mgjvi2MWgBW-bCdzb4u-887967055/)
+Visual & Material Culture Collections [Inventory Documentation](http://127.0.0.1:5000/o/-LumfFcEMKx4gYXKAZTQ/s/-Mgjvi2MWgBW-bCdzb4u-887967055/)
