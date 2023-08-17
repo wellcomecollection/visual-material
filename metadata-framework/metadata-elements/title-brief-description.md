@@ -63,7 +63,7 @@ Jo Spence in a hospice bed. [3069501i](https://wellcomecollection.org/works/aat5
 
 Studio Portraits of Marthe Vogt. [PP/MLV/E/2/1](https://wellcomecollection.org/works/u6dgfwtr)
 
-Print in blue, black and yellow. PPAMI/C/1/17
+Print in blue, black and yellow. [PP/AMI/C/1/17](https://wellcomecollection.org/works/tuusf2tc)
 {% endhint %}
 
 For 3D objects use a suitable term or phrase to describe the object.
