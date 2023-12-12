@@ -64,6 +64,7 @@
       * [Dealing with incorrectly merged or “hidden” catalogue records](current-system-guidelines/sierra-marc-cataloguing/enquiries/online-digital-images-with-static-miro-metadata/dealing-with-incorrectly-merged-or-hidden-catalogue-records.md)
       * [Using the media function to delete (/edit/create) image links in 962 field](current-system-guidelines/sierra-marc-cataloguing/enquiries/online-digital-images-with-static-miro-metadata/using-the-media-function-to-delete-edit-create-image-links-in-962-field.md)
       * [Re-linking images to a physical item record](current-system-guidelines/sierra-marc-cataloguing/enquiries/online-digital-images-with-static-miro-metadata/re-linking-images-to-a-physical-item-record.md)
+      * [Suppressing a Miro image if it has been re-ingested through Goobi](current-system-guidelines/sierra-marc-cataloguing/linking-records/online-digital-images-with-static-miro-metadata/suppressing-a-miro-image-if-it-has-been-re-ingested-through-goobi.md)
       * [Image links in other places](current-system-guidelines/sierra-marc-cataloguing/enquiries/online-digital-images-with-static-miro-metadata/image-links-in-other-places.md)
 * [CALM Guidelines](current-system-guidelines/archive-cataloguing/README.md)
   * [Introduction and basic cataloguing principles](current-system-guidelines/archive-cataloguing/introduction-and-basic-cataloguing-principles.md)
