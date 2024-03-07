@@ -6,7 +6,7 @@ description: State.
 
 264 relates to the production, publication, distribution and manufacture (i.e. the creation) of an object. It is also used for the copyright date.
 
-Metadata in 264 should inform data entered into the relevant subfields in the [Fixed Fields](leader-fields.md).
+Metadata in 264 should inform data entered into the relevant subfields in the [Fixed Fields](broken-reference).
 
 Use the correct second indicator, this relates to the type of information being recorded:
 
