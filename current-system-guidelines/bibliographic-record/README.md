@@ -1,10 +1,10 @@
 # Sierra MARC Guidelines
 
-The MARC guidelines for cataloging Visual & Cultural objects are in the Wellcome Library Cataloging Guidelines, which encompass all formats. These note where there is a need for specific practices relating to each format and reflect the approach of this Framework.
+The MARC guidelines for cataloging Visual & Cultural objects are in the [Wellcome Library Cataloging Guidelines](https://app.gitbook.com/s/79YakY10O8eOK3OTTrfT/readme/bibliographic-record), which encompass all formats. These note where there is a need for specific practices relating to each format and reflect the approach of this Framework.
 
 ## Core Fields in the Bibliographic Record
 
-The Bibliographic record contains the descriptive information about an object. This includes all the metadata elements covered in the Wellcome Visual Metadata Framework, except location. Information relating to condition and provenance may be found in both the Bibliographic and Item records due to legacy data. These guidelines will indicate where information on condition and provenance should be located for new records.
+The Bibliographic record contains the descriptive information about an object. This includes all the metadata elements covered in the Wellcome Visual Metadata Framework, except location. Information relating to condition and provenance may be found in both the Bibliographic and Item records due to legacy data.&#x20;
 
 Visual records should aim to meet Spectrum standards for Museum Accreditation. The ideal record should contain the following core fields in the Bibliographic record:
 
