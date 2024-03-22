@@ -8,6 +8,6 @@ The following **Cataloging History** section provides an insight into past catal
 
 The **Metadata Framework** identifies the common types of data the cataloger should aim to include in a record, if known or applicable to the object being described. The Framework is based on the Cataloguing Cultural Objects (CCO) manual published by the Visual Resources Association (VRA).
 
-Elements identified in the Metadata Framework are applied to Library (MARC/RDA) and Archive (ISAD(G)) principles in the system specific cataloging guidelines for Library and Archives materials. A basic template for the main Visual Material formats is included under cataloging templates, along with examples from the catalogue.&#x20;
+Elements identified in the Metadata Framework are applied to Library (MARC/RDA) and Archive (ISAD(G)) principles in the system specific cataloging guidelines for Library and [Archive](https://docs.wellcomecollection.org/archive-cataloguing/) materials. A basic template for the main Visual Material formats is included under cataloging templates, along with examples from the catalogue.&#x20;
 
 A **Metadata Crosswalk** compares how each element of metadata is treated in Wellcome's current cataloging systems and sector standards used in Wellcome Collection, plus CCO and the Museum Accreditation standard SPECTRUM.
