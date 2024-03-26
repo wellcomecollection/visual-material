@@ -1,9 +1,3 @@
----
-description: >-
-  Contents of this section aren't Visual Material specific. Need a generic guide
-  to which the Visual Cataloguing Guide can link to.
----
-
 # Content Considerations
 
 ## Sources of Information
@@ -23,7 +17,7 @@ If further information is available, then this should be included in the record 
 
 ## Sensitivity
 
-Consider the context in which the item was produced, and any personal data to be included in the record - was the item produced in a context that would warrant sensitivity considerations, such as a therapy session? Consult [Access to personal data within our research collections](http://wellcomelibrary.org/content/documents/policy-documents/access-to-personal-data.pdf) to identify material that should be considered for restricted access or personal data that should not be made public.
+Consider the context in which the item was produced, and any personal data to be included in the record - was the item produced in a context that would warrant sensitivity considerations, such as a therapy session? Consult the [Access to personal information and sensitivity guidelines](https://docs.wellcomecollection.org/sensitivity-and-access-procedures/MlCudwyUwusoQqpgXspq/) to identify material that should be considered for restricted access or personal data that should not be made public.
 
 ## Language
 
@@ -32,4 +26,4 @@ Metadata created for the Collections must apply the principles outlined in the C
 When including any information as free text i.e. not controlled terminology, think about the language being used and how the information is framed. The following offer some guidance:
 
 [APA bias-free language guide](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language)\
-[Words Matter](https://www.tropenmuseum.nl/en/about-tropenmuseum/words-matter-publication) - a glossary which contextualises historical terms commonly used in museum collections.
+[Words Matter](https://www.tropenmuseum.nl/en/about-tropenmuseum/words-matter-publication) - glossary, contextualises historical terms commonly used in museum collections
