@@ -1,12 +1,14 @@
 # Library: Sierra / MARC
 
-The MARC guidelines for cataloging Visual & Cultural objects are in the [Wellcome Library Cataloging Guidelines](https://app.gitbook.com/s/79YakY10O8eOK3OTTrfT/readme/bibliographic-record), which encompass all formats. These note where there is a need for specific practices relating to each format and accommodate the requirements of the Visual Cataloguing Framework.
+The MARC guidelines for cataloging Visual & Cultural objects are included in the Wellcome **Library Cataloging Guidelines**. These note specific practices relating to each format and accommodate the requirements of this Visual Cataloguing Framework.
 
 ## Core Fields in the Bibliographic Record
 
 The Bibliographic record contains the descriptive information about an object. This includes all the metadata elements covered in the Wellcome Visual Metadata Framework, except location. Information relating to condition and provenance may be found in both the Bibliographic and Item records due to legacy data.&#x20;
 
-Visual records should aim to meet Spectrum standards for Museum Accreditation. The ideal record should contain the following core fields in the Bibliographic record:
+Visual records should aim to meet Spectrum standards for Museum Accreditation.
+
+The ideal record should contain the following core fields in the Bibliographic record:
 
 | **MARC Field** | **Data Type**                  |
 | -------------- | ------------------------------ |
@@ -30,4 +32,4 @@ Visual records should aim to meet Spectrum standards for Museum Accreditation. T
 | 655            | Genre                          |
 | 700/710/711    | Name Entry. Contributors       |
 
-It is recognised some information may not be available to the cataloguer, in which case include all the known information. Include all additional information where available. If a suitable MARC field is not specified in the Visual cataloguing guidelines, select a recognised field from the [OCLC](https://www.oclc.org/bibformats/en.html) guidelines.
+Some information may not be available to the cataloguer, in which case include all the known information. Include all additional information where available. If a suitable MARC field is not specified in the Visual cataloguing guidelines, select a recognised field from the [OCLC](https://www.oclc.org/bibformats/en.html) guidelines.
