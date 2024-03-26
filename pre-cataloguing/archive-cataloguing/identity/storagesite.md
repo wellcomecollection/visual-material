@@ -1,6 +1,0 @@
----
-description: '[Location]'
----
-
-# StorageSite\*
-

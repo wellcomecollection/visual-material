@@ -1,6 +1,6 @@
-# Sierra MARC Guidelines
+# Library: Sierra / MARC
 
-The MARC guidelines for cataloging Visual & Cultural objects are in the [Wellcome Library Cataloging Guidelines](https://app.gitbook.com/s/79YakY10O8eOK3OTTrfT/readme/bibliographic-record), which encompass all formats. These note where there is a need for specific practices relating to each format and reflect the approach of this Framework.
+The MARC guidelines for cataloging Visual & Cultural objects are in the [Wellcome Library Cataloging Guidelines](https://app.gitbook.com/s/79YakY10O8eOK3OTTrfT/readme/bibliographic-record), which encompass all formats. These note where there is a need for specific practices relating to each format and accommodate the requirements of the Visual Cataloguing Framework.
 
 ## Core Fields in the Bibliographic Record
 

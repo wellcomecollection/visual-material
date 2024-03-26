@@ -1,4 +1,6 @@
-# Introduction and basic cataloguing principles
+# Archives: CALM /ISAD(G)
+
+Introduction and basic cataloguing principles
 
 ## What is covered in this manual?
 
@@ -48,5 +50,3 @@ The elements in the Visual Material Metadata Framework are referred to in square
 ## Arrangement and Data formatting
 
 For further details on archival arrangement and data formatting requirements, see link to archives and manuscript guide and CALM User Guide.
-
-\_\_
