@@ -6,8 +6,11 @@ Wellcome Collection's Visual Collections are not catalogued in a single database
 
 The following **Cataloging History** section provides an insight into past cataloging of the collection (pre 2021), and gives context for the legacy metadata in existing catalogue records.
 
-The **Metadata Framework** identifies the common types of data the cataloger should aim to include in a record, if known or applicable to the object being described. The Framework is based on the Cataloguing Cultural Objects (CCO) manual published by the Visual Resources Association (VRA).
-
-Elements identified in the Metadata Framework are applied to Library (MARC/RDA) and Archive (ISAD(G)) principles in the system specific cataloging guidelines for Library and [Archive](https://docs.wellcomecollection.org/archive-cataloguing/) materials. A basic template for the main Visual Material formats is included under cataloging templates, along with examples from the catalogue.&#x20;
+The **Metadata Framework** identifies the common types of data the cataloger should aim to include in a record, if known or applicable to the object being described. The Framework is based on the [Cataloguing Cultural Objects](https://www.vraweb.org/cco) (CCO) manual published by the Visual Resources Association (VRA).
 
 A **Metadata Crosswalk** compares how each element of metadata is treated in Wellcome's current cataloging systems and sector standards used in Wellcome Collection, plus CCO and the Museum Accreditation standard SPECTRUM.
+
+Elements identified in the Metadata Framework are applied to Library and Archive principles in Wellcome's system specific guidelines for [Library](https://docs.wellcomecollection.org/library-cataloguing/) and [Archive](https://docs.wellcomecollection.org/archive-cataloguing/) materials.&#x20;
+
+**Cataloguing Aids** includes a basic template for Visual Material catalogue records, plus links to examples of different Visual formats, considerations on record content, and a guide to the identification of different formats.&#x20;
+

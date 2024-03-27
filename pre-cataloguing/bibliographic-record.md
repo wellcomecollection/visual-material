@@ -1,6 +1,6 @@
 # Library: MARC / Sierra
 
-The MARC guidelines for cataloging Visual & Cultural objects are included in the Wellcome **Library Cataloging Guidelines**. These accommodate the requirements of the Visual Cataloguing Framework.
+The MARC guidelines for cataloging Visual & Cultural objects are included in the Wellcome [**Library Cataloging Guidelines**](https://docs.wellcomecollection.org/library-cataloguing/). These accommodate the requirements of the Visual Cataloguing Framework.
 
 ## Core data for a basic Spectrum standard record
 
@@ -36,7 +36,7 @@ The fields required for a basic record are:
 
 Some information may not be available to the cataloguer, in which case include all the known information.
 
-To enhance a record include any additional known information about an object. If a suitable MARC field is not specified in the Library cataloguing guidelines, select a recognised field from the [OCLC](https://www.oclc.org/bibformats/en.html) guidelines.
+To enhance a record include any additional known information about an object. If a suitable MARC field is not specified in the [Library cataloguing](https://docs.wellcomecollection.org/library-cataloguing/) guidelines, select a recognised field from the [OCLC](https://www.oclc.org/bibformats/en.html) guidelines.
 
 ### Core data in the Item record
 
