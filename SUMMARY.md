@@ -39,8 +39,8 @@
 
 ## CATALOGUING AIDS <a href="#pre-cataloguing" id="pre-cataloguing"></a>
 
-* [Library: Sierra / MARC](pre-cataloguing/bibliographic-record.md)
-* [Archives: CALM /ISAD(G)](pre-cataloguing/archive-cataloguing.md)
+* [Library: MARC / Sierra](pre-cataloguing/bibliographic-record.md)
+* [Archives: ISAD(G) /CALM](pre-cataloguing/archive-cataloguing.md)
 * [Format Examples](pre-cataloguing/format-examples/README.md)
   * [Drawing](pre-cataloguing/format-examples/drawing.md)
   * [Painting](pre-cataloguing/format-examples/painting.md)

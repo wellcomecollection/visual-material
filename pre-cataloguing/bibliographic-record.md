@@ -1,14 +1,16 @@
-# Library: Sierra / MARC
+# Library: MARC / Sierra
 
-The MARC guidelines for cataloging Visual & Cultural objects are included in the Wellcome **Library Cataloging Guidelines**. These note specific practices relating to each format and accommodate the requirements of this Visual Cataloguing Framework.
+The MARC guidelines for cataloging Visual & Cultural objects are included in the Wellcome **Library Cataloging Guidelines**. These accommodate the requirements of the Visual Cataloguing Framework.
 
-## Core Fields in the Bibliographic Record
+## Core data for a basic Spectrum standard record
 
-The Bibliographic record contains the descriptive information about an object. This includes all the metadata elements covered in the Wellcome Visual Metadata Framework, except location. Information relating to condition and provenance may be found in both the Bibliographic and Item records due to legacy data.&#x20;
+Catalogue records for Visual material need to meet [Spectrum standards](https://collectionstrust.org.uk/resource/cataloguing-the-spectrum-standard/) for Museum Accreditation. Spectrum requires a 'basic' record is created for each part of the collection. The ideal basic record should contain the following core fields and data:
 
-Visual records should aim to meet Spectrum standards for Museum Accreditation.
+### Core fields in the Bibliographic record
 
-The ideal record should contain the following core fields in the Bibliographic record:
+The Bibliographic record contains the descriptive information about an object, and includes all the metadata elements covered in the Wellcome Visual Metadata Framework, except location. Information relating to condition and provenance may be found in both the Bibliographic and Item records due to legacy data.&#x20;
+
+The fields required for a basic record are:
 
 | **MARC Field** | **Data Type**                  |
 | -------------- | ------------------------------ |
@@ -32,4 +34,9 @@ The ideal record should contain the following core fields in the Bibliographic r
 | 655            | Genre                          |
 | 700/710/711    | Name Entry. Contributors       |
 
-Some information may not be available to the cataloguer, in which case include all the known information. Include all additional information where available. If a suitable MARC field is not specified in the Visual cataloguing guidelines, select a recognised field from the [OCLC](https://www.oclc.org/bibformats/en.html) guidelines.
+Some information may not be available to the cataloguer, in which case include all the known information.
+
+To enhance a record include any additional known information about an object. If a suitable MARC field is not specified in the Library cataloguing guidelines, select a recognised field from the [OCLC](https://www.oclc.org/bibformats/en.html) guidelines.
+
+### Core data in the Item record
+
