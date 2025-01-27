@@ -54,7 +54,6 @@ For 2D and Born Digital graphic objects this should be a short description of th
 * the subject type or form of material, e.g., view(s), portrait(s), sketch(es)
 * an identification of the main subject(s) depicted (i.e., names of persons, events, activities, and objects)
 * geographical location(s) depicted, if known and significant
-* the date of what is being depicted if different from the date of publication or execution
 
 {% hint style="info" %}
 A woman cradling a baby being watched by another woman. [3025148i](https://wellcomecollection.org/works/wsq6ybqc)
